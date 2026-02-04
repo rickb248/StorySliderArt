@@ -3,7 +3,8 @@
 **Age Group:** K-2 Appropriate.
 **Appearance:**
 *   **Fur:** Soft grey and white fur.
-*   **Features:** Cute, mischievous but friendly expression, small pink ears, and a joyful running pose.
+*   **Facial Features:** Mischievous but sweet expression, large expressive black eyes (simple storybook style).
+*   **Style:** Modern Storybook style with clear black outlines and simple cel-shading.
 *   **Background:** Always #FFFFFF white.
 **Personality:** Mischievous, joyful, and sweet.
 

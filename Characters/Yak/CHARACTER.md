@@ -3,8 +3,8 @@
 **Age Group:** K-2 Appropriate.
 **Appearance:**
 *   **Fur:** Warm brown and creamy white fur. Simplified shapes, low visual complexity.
-*   **Features:** Friendly face, large gentle eyes, small smile, and curved grey horns.
-*   **Atmosphere:** Warm and inviting color palette.
+*   **Facial Features:** Friendly face, large gentle expressive eyes (simple storybook style), and curved grey horns.
+*   **Style:** Modern Storybook style with clear black outlines and simple cel-shading.
 *   **Background:** Always #FFFFFF white.
 **Personality:** Gentle, steady, and kind.
 

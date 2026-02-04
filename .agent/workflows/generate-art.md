@@ -8,25 +8,28 @@ This document serves as the source of truth for generating images for the Story 
 
 ## Core Art Style Definition
 
-The art style is designed to be **calm, clear, and easily processable** for young children. It avoids overstimulation and ambiguity.
+The art style is **Modern Storybook**. It is designed to be **calm, clear, and high-quality**, featuring character designs with a crisp vector look and expressive features.
 
 **Key Characteristics:**
-*   **Medium/Technique:** Soft vector illustration. It should look digital but organic, not mechanical.
-*   **Line Work:** Clear black outlines defining shapes. Use thin but distinct black strokes to separate colors and define the character's form. Avoid lineless or fuzzy edges.
-*   **Color Palette:** Calm, soothing colors.
-    *   Use: Pastels, soft earth tones, muted primaries.
-    *   Avoid: Neon colors, jarring contrasts, overly saturated "electric" hues.
-*   **Shading & Lighting:** Simple shading.
-    *   Use: Flat shading or soft, subtle gradients to show form.
-    *   Avoid: Harsh cast shadows, complex realistic lighting, dramatic noir lighting.
-*   **Realism Level:** Semi-realistic / Stylized Realism.
-    *   Proportions should be generally realistic (not super-deformed or abstract).
+*   **Medium/Technique:** Digital vector illustration with clean, crisp edges.
+*   **Line Work:** Clear black outlines. Use distinct, consistent black strokes (like a clean ink felt-pen) to define all shapes and features. Avoid lineless, fuzzy, or sketchy edges.
+*   **Color Palette:** Clean, vibrant but calm colors.
+    *   Use: Soft primary colors, warm earth tones, and clear secondary colors.
+    *   Avoid: Neon, overly muted/muddy tones, or complex textures.
+*   **Characters:** Modern storybook character designs.
+    *   **Eyes:** Large, expressive eyes (classic storybook style, e.g., similar to modern Disney or Ghibli but simpler). Clear circular or oval pupils with a small white highlight. Avoid complex anime reflections or exaggerated "sparkle" shapes.
+    *   **Hair:** Stylized but clean hair shapes with simple, solid highlights and shadows. No overly complex or "spiky" anime hair tropes.
+    *   **Proportions:** Balanced and appealing (classic children's book proportions). Avoid extreme Chibi or tall, thin anime proportions.
+    *   **Friendly & Approachable:** Characters should have warm, kind, and relatable energy.
+*   **Shading & Lighting:** Simple cel-shading.
+    *   Use: 1-2 levels of flat shadow to show form. Soft highlights on hair and eyes.
+    *   Avoid: Complex gradients, realistic textures, or dramatic lighting.
+*   **Realism Level:** Stylized Anime Realism.
     *   **No Anthropomorphism:** Inanimate objects (buses, trees, clouds) do **NOT** have faces or human traits.
-    *   Characters should feel friendly and approachable.
 *   **Composition & Format:**
     *   **Aspect Ratio:** Always maintain an **11:10** aspect ratio.
     *   **Background:** Always use a solid white background (**#FFFFFF**).
-    *   **Whitespace:** Minimize whitespace; the subject should fill the frame as much as possible while maintaining the aspect ratio and a clean look.
+    *   **Whitespace:** The subject should be centered and fill most of the frame, with minimal but balanced whitespace.
 
 ## Character Consistency
 
@@ -60,13 +63,13 @@ To ensure consistency, generate character reference sheets with the following va
 
 ## Prompting Strategy
 
-When creating prompts for image generation models, follow this structure:
+When creating prompts, follow this structure to maintain the Modern Storybook Anime style:
 
 ```markdown
 **Subject:** [Character Name] doing [Action] in [Setting].
-**Style Modifiers:** soft vector illustration, children's book style, K-2 audience, calm atmosphere, pastel colors, clear lines, simple shading, flat design style.
+**Style Modifiers:** digital vector illustration, modern storybook style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear black outlines, simple cel-shading, large expressive eyes, friendly expression.
 **Format:** 11:10 aspect ratio, solid white background #FFFFFF, minimal whitespace, subject fills frame.
-**Negative Prompts:** realistic photo, 3d render, shiny, complex details, scary, dark, night, neon, messy lines, sketch, face on object.
+**Negative Prompts:** lineless, fuzzy, 3d render, realistic photo, shiny, complex textures, scary, dark, night, neon, messy lines, sketch, face on object, extreme muscle definition, Chibi proportions.
 ```
 
 ## Examples of Usage

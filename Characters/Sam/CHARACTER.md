@@ -1,6 +1,6 @@
 # Character Description: Sam
 
-**Age Group:** K-2 (roughly 5-7 years old).
+**Age Group:** 6 years old (K-2 Appropriate).
 **Appearance:**
 *   **Hair:** Messy but soft brown hair.
 *   **Facial Features:** Friendly, simple features, large expressive eyes, small smile.

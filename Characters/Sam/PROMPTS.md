@@ -12,13 +12,13 @@ Negative: lineless, fuzzy edges, realistic photo, 3d render, shiny, complex deta
 ```
 **Result:** [sam_standing.png](file:///Users/ricky/workspace/StorySliderArt/Characters/Sam/sam_standing.png)
 
-## Standing Pose (Story Refined - Brown Hair)
+## Standing Pose (Modern Storybook - 6yo)
 **Prompt:**
 ```markdown
-Subject: Sam, a young boy with soft messy brown hair, standing and looking forward. He is wearing a blue sweatshirt, brown pants, and simple brown shoes. 
-Style: soft vector illustration, children's book style, K-2 audience, calm atmosphere, pastel colors, clear lines, simple shading, flat design style. 
+Subject: Sam, a 6-year-old young boy with slightly messy brown hair, standing and looking forward. He has younger, softer facial features and slightly more rounded proportions to reflect his age. He has large expressive eyes (clean storybook style, no anime sparkles). He is wearing a blue hoodie over a cream t-shirt and tan cargo shorts with red sneakers. 
+Style: digital vector illustration, modern storybook style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear thin black outlines, simple cel-shading, friendly expression. 
 Format: 11:10 aspect ratio, solid white background #FFFFFF, minimal whitespace, subject fills frame. 
 Composition: Full body view. No background objects. 
-Negative: yellow hair, blonde hair, black hair, rug, teddy bear, book, complex fur, messy lines, flower, detail, realistic, 3d render, shiny, scary, dark, night, neon, messy lines, sketch, face on object.
+Negative: anime, sparkles, complex eye reflections, older boy, teenager, spiky hair, lineless, fuzzy, 3d render, realistic photo, shiny, complex textures, scary, dark, night, neon, messy lines, sketch, face on object.
 ```
-**Result:** [sam_story_v2.png](file:///Users/ricky/workspace/StorySliderArt/Characters/Sam/sam_story_v2.png)
+**Result:** [sam_standing_v3.png](file:///Users/ricky/workspace/StorySliderArt/Characters/Sam/sam_standing_v3.png)
