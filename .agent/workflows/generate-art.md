@@ -29,7 +29,9 @@ The art style is **Modern Storybook Anime**. It is designed to be **calm, clear,
 *   **Composition & Format:**
     *   **Aspect Ratio:** Always maintain an **11:10** aspect ratio.
     *   **Background:** Always use a solid white background (**#FFFFFF**).
-    *   **Whitespace:** The subject should be centered and fill most of the frame, with minimal but balanced whitespace.
+    *   **Whitespace & Composition:** The subject must be **completely in view** and centered. Ensure there is visible whitespace (breathing room) on all sides of the subject. 
+    *   **No Crops:** Portions of the characters or objects (feet, ears, tails, wheels) must **NEVER** go off-screen.
+    *   **Full Body:** Always provide a full body/full object view unless specifically asked otherwise.
 
 ## Character Consistency
 
