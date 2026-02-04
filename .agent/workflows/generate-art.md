@@ -8,7 +8,7 @@ This document serves as the source of truth for generating images for the Story 
 
 ## Core Art Style Definition
 
-The art style is **Modern Storybook**. It is designed to be **calm, clear, and high-quality**, featuring character designs with a crisp vector look and expressive features.
+The art style is **Modern Storybook Anime**. It is designed to be **calm, clear, and high-quality**, featuring anime-influenced character designs with a crisp vector look.
 
 **Key Characteristics:**
 *   **Medium/Technique:** Digital vector illustration with clean, crisp edges.
@@ -16,11 +16,11 @@ The art style is **Modern Storybook**. It is designed to be **calm, clear, and h
 *   **Color Palette:** Clean, vibrant but calm colors.
     *   Use: Soft primary colors, warm earth tones, and clear secondary colors.
     *   Avoid: Neon, overly muted/muddy tones, or complex textures.
-*   **Characters:** Modern storybook character designs.
-    *   **Eyes:** Large, expressive eyes (classic storybook style, e.g., similar to modern Disney or Ghibli but simpler). Clear circular or oval pupils with a small white highlight. Avoid complex anime reflections or exaggerated "sparkle" shapes.
-    *   **Hair:** Stylized but clean hair shapes with simple, solid highlights and shadows. No overly complex or "spiky" anime hair tropes.
-    *   **Proportions:** Balanced and appealing (classic children's book proportions). Avoid extreme Chibi or tall, thin anime proportions.
-    *   **Friendly & Approachable:** Characters should have warm, kind, and relatable energy.
+*   **Characters:** Anime-influenced designs.
+    *   **Eyes:** Large, expressive anime-style eyes with clear highlights and distinct pupils. They should look like the characters in the `Inspiration/` folder (e.g., `sam_standing.jpeg`).
+    *   **Hair:** Stylized but clean hair shapes with simple highlights and shadows.
+    *   **Proportions:** Slightly stylized but balanced (no extreme Chibi or abstract proportions).
+    *   **Friendly & Approachable:** Characters should have warm, kind energy.
 *   **Shading & Lighting:** Simple cel-shading.
     *   Use: 1-2 levels of flat shadow to show form. Soft highlights on hair and eyes.
     *   Avoid: Complex gradients, realistic textures, or dramatic lighting.
@@ -67,7 +67,7 @@ When creating prompts, follow this structure to maintain the Modern Storybook An
 
 ```markdown
 **Subject:** [Character Name] doing [Action] in [Setting].
-**Style Modifiers:** digital vector illustration, modern storybook style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear black outlines, simple cel-shading, large expressive eyes, friendly expression.
+**Style Modifiers:** digital vector illustration, modern storybook anime style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear black outlines, simple cel-shading, large expressive eyes, friendly expression.
 **Format:** 11:10 aspect ratio, solid white background #FFFFFF, minimal whitespace, subject fills frame.
 **Negative Prompts:** lineless, fuzzy, 3d render, realistic photo, shiny, complex textures, scary, dark, night, neon, messy lines, sketch, face on object, extreme muscle definition, Chibi proportions.
 ```

@@ -1,6 +1,6 @@
 ---
 name: Story Art Generation
-description: Guidelines and workflows for generating calm, K-2 appropriate modern storybook illustrations for the Story Slider project.
+description: Guidelines and workflows for generating calm, K-2 appropriate modern storybook anime illustrations for the Story Slider project.
 ---
 
 # Story Art Generation Skill

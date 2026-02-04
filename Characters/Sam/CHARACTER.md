@@ -3,8 +3,8 @@
 **Age Group:** 6 years old (K-2 Appropriate).
 **Appearance:**
 *   **Hair:** Messy but soft brown hair.
-*   **Facial Features:** Friendly, simple features, large expressive eyes, small smile.
-*   **Style:** Clear black outlines around all shapes.
+*   **Facial Features:** Friendly, simple features, large expressive anime-style eyes, small smile.
+*   **Style:** Modern Storybook Anime style with clear black outlines and clean hair shapes.
 *   **Clothing:** 
     *   Signature blue sweatshirt (sometimes with "SAM" in pastel block letters).
     *   Brown pants (cuffed at the bottom).

@@ -1,12 +1,12 @@
 # Cat - Image Generation Prompts
 
-## Sitting Pose (Modern Storybook)
+## Sitting Pose (Modern Storybook Anime)
 **Prompt:**
 ```markdown
-Subject: A cute and friendly orange tabby cat, sitting and looking forward. It has soft orange fur with subtle tabby stripes. It has large, expressive black eyes (clean storybook style, no anime sparkles) and a friendly expression. 
-Style: digital vector illustration, modern storybook style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear thin black outlines, simple cel-shading, friendly expression. 
+Subject: A cute and friendly orange tabby cat with subtle stripes, sitting and looking forward. It has large, expressive anime-style eyes with clear highlights and distinct black pupils (matching the style of cat.jpeg from Inspiration). Friendly expression. 
+Style: digital vector illustration, modern storybook anime style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear thin black outlines, simple cel-shading. 
 Format: 11:10 aspect ratio, solid white background #FFFFFF, minimal whitespace, subject fills frame. 
 Composition: Full body view. No background objects. 
-Negative: anime, sparkles, complex eye reflections, realistic photo, 3d render, shiny, complex details, scary, dark, night, neon, messy lines, sketch, face on object.
+Negative: realistic photo, 3d render, shiny, complex textures, scary, dark, night, neon, messy lines, sketch, face on object.
 ```
-**Result:** [cat_sitting.png](file:///Users/ricky/workspace/StorySliderArt/Characters/Cat/cat_sitting.png)
+**Result:** [cat_sitting_anime.png](file:///Users/ricky/workspace/StorySliderArt/Characters/Cat/cat_sitting_anime.png)
