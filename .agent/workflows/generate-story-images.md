@@ -57,7 +57,7 @@ Create a prompt following the `/generate-art` workflow:
 ```markdown
 Subject: [Main character(s)] [doing action from story]. [Character description from CHARACTER.md].
 Style: digital vector illustration, modern storybook anime style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear thin black outlines, simple cel-shading.
-Format: 11:10 aspect ratio, solid white background #FFFFFF, centered full view.
+Format: 600px × 600px, 11:10 aspect ratio, solid white background #FFFFFF, centered full view.
 Negative: cropped, cut off, realistic photo, 3d render, scary, dark, neon, messy lines.
 ```
 
@@ -75,8 +75,9 @@ Read the `answers` array from the story JSON. Generate one image per answer.
 ```markdown
 Subject: [Answer] standing/posed clearly. [Description from CHARACTER.md if character exists].
 Style: digital vector illustration, modern storybook anime style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear thin black outlines, simple cel-shading.
-Format: 11:10 aspect ratio, solid white background #FFFFFF, centered full view.
+Format: 600px × 600px, 11:10 aspect ratio, solid white background #FFFFFF, centered full view.
 Negative: cropped, cut off, realistic photo, 3d render, scary, dark, neon.
+
 ```
 
 ### Step 6: Save Images to Assets

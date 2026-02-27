@@ -27,7 +27,8 @@ The art style is **Modern Storybook Anime**. It is designed to be **calm, clear,
 *   **Realism Level:** Stylized Anime Realism.
     *   **No Anthropomorphism:** Inanimate objects (buses, trees, clouds) do **NOT** have faces or human traits.
 *   **Composition & Format:**
-    *   **Aspect Ratio:** Always maintain an **11:10** aspect ratio.
+    *   **Image Size:** Always generate images at **600px × 600px** (square).
+    *   **Aspect Ratio:** Always maintain an **11:10** aspect ratio (the 600×600 square satisfies this).
     *   **Background:** Always use a solid white background (**#FFFFFF**).
     *   **Whitespace & Composition:** The subject must be **completely in view** and centered. Ensure there is visible whitespace (breathing room) on all sides of the subject. 
     *   **No Crops:** Portions of the characters or objects (feet, ears, tails, wheels) must **NEVER** go off-screen.
@@ -70,7 +71,7 @@ When creating prompts, follow this structure to maintain the Modern Storybook An
 ```markdown
 **Subject:** [Character Name] doing [Action] in [Setting].
 **Style Modifiers:** digital vector illustration, modern storybook anime style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear black outlines, simple cel-shading, large expressive eyes, friendly expression.
-**Format:** 11:10 aspect ratio, solid white background #FFFFFF, minimal whitespace, subject fills frame.
+**Format:** 600px × 600px, 11:10 aspect ratio, solid white background #FFFFFF, minimal whitespace, subject fills frame.
 **Negative Prompts:** lineless, fuzzy, 3d render, realistic photo, shiny, complex textures, scary, dark, night, neon, messy lines, sketch, face on object, extreme muscle definition, Chibi proportions.
 ```
 
