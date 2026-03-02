@@ -34,6 +34,16 @@ The art style is **Modern Storybook Anime**. It is designed to be **calm, clear,
     *   **No Crops:** Portions of the characters or objects (feet, ears, tails, wheels) must **NEVER** go off-screen.
     *   **Full Body:** Always provide a full body/full object view unless specifically asked otherwise.
 
+## Diversity and Inclusion
+
+The Story Slider project aims to be diverse and inclusive, representing a wide range of ethnicities, skin tones, and backgrounds. 
+
+**Guidelines:**
+*   **Skin Tones:** Use a variety of skin tones across the character roster (e.g., deep espresso, warm mahogany, golden tan, fair porcelain, olive tones). 
+*   **Hair Textures and Styles:** Include various hair types (curly, coily, wavy, straight) and styles (braids, locs, afros, bobs, short cuts).
+*   **Representation:** When introducing new characters, consider how they contribute to the overall diversity of the story world.
+*   **Avoid Stereotypes:** Ensure all characters are portrayed with the same level of care, friendliness, and quality, avoiding any ethnic or cultural stereotypes.
+
 ## Character Consistency
 
 When generating images including specific characters, ensure consistency with established designs found in the `Characters/` directory.
