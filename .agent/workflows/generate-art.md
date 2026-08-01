@@ -81,8 +81,8 @@ When creating prompts, follow this structure to maintain the Modern Storybook An
 ```markdown
 **Subject:** [Character Name] doing [Action] in [Setting].
 **Style Modifiers:** digital vector illustration, modern storybook anime style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear black outlines, simple cel-shading, large expressive eyes, friendly expression.
-**Format:** 600px × 600px, 11:10 aspect ratio, solid white background #FFFFFF, minimal whitespace, subject fills frame.
-**Negative Prompts:** lineless, fuzzy, 3d render, realistic photo, shiny, complex textures, scary, dark, night, neon, messy lines, sketch, face on object, extreme muscle definition, Chibi proportions.
+**Format:** 600px × 600px, 11:10 aspect ratio, pure solid white background #FFFFFF. The entire illustration is fully centered with a clear, wide white border around all four edges of the image. No elements, props, ground, or background shapes touch or bleed off the edges.
+**Negative Prompts:** circular frame, circle backdrop, vignette, framed background, sky bubble, arch background, pseudo background, background shape, cropped, cut off, bleeding edges, touching edges, lineless, fuzzy, 3d render, realistic photo, shiny, complex textures, scary, dark, night, neon, messy lines, sketch, face on object, extreme muscle definition, Chibi proportions.
 ```
 
 ## Examples of Usage
