@@ -33,6 +33,9 @@ The art style is **Modern Storybook Anime**. It is designed to be **calm, clear,
     *   **Whitespace & Composition:** The subject must be **completely in view** and centered. Ensure there is visible whitespace (breathing room) on all sides of the subject. 
     *   **No Crops:** Portions of the characters or objects (feet, ears, tails, wheels) must **NEVER** go off-screen.
     *   **Full Body:** Always provide a full body/full object view unless specifically asked otherwise.
+    *   **Card-Scale Readability:** Compose for the app's small story and answer cards. Avoid wide establishing shots that make characters or key actions tiny; normally size the main subject/action cluster to about 65–80% of the canvas while retaining the white border.
+    *   **Single-Scene Covers:** Every cover shows one continuous scene at one moment. Do not use montages, triptychs, collages, storyboards, split scenes, repeated characters, or multiple stages of an action.
+    *   **Physical Grounding:** Props must have clear support and believable gravity. A pan rests on a table or is firmly held; a bag rests on the ground or is carried; no object may float or appear accidentally airborne.
 
 ## Diversity and Inclusion
 
@@ -82,7 +85,7 @@ When creating prompts, follow this structure to maintain the Modern Storybook An
 **Subject:** [Character Name] doing [Action] in [Setting].
 **Style Modifiers:** digital vector illustration, modern storybook anime style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear black outlines, simple cel-shading, large expressive eyes, friendly expression.
 **Format:** 600px × 600px, 11:10 aspect ratio, pure solid white background #FFFFFF. The entire illustration is fully centered with a clear, wide white border around all four edges of the image. No elements, props, ground, or background shapes touch or bleed off the edges.
-**Negative Prompts:** circular frame, circle backdrop, vignette, framed background, sky bubble, arch background, pseudo background, background shape, cropped, cut off, bleeding edges, touching edges, lineless, fuzzy, 3d render, realistic photo, shiny, complex textures, scary, dark, night, neon, messy lines, sketch, face on object, extreme muscle definition, Chibi proportions.
+**Negative Prompts:** montage, triptych, collage, storyboard, split scene, repeated character, multiple moments, wide establishing shot, panoramic view, tiny subject, floating object, unsupported prop, circular frame, circle backdrop, vignette, framed background, sky bubble, arch background, pseudo background, background shape, cropped, cut off, bleeding edges, touching edges, lineless, fuzzy, 3d render, realistic photo, shiny, complex textures, scary, dark, night, neon, messy lines, sketch, face on object, extreme muscle definition, Chibi proportions.
 ```
 
 ## Examples of Usage

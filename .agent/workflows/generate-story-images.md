@@ -58,8 +58,12 @@ Create a prompt following the `/generate-art` workflow:
 Subject: [Main character(s)] [doing action from story]. [Character description from CHARACTER.md].
 Style: digital vector illustration, modern storybook anime style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear thin black outlines, simple cel-shading.
 Format: 600px × 600px, 11:10 aspect ratio, solid white background #FFFFFF, centered full view.
-Negative: cropped, cut off, realistic photo, 3d render, scary, dark, neon, messy lines.
+Composition: one unified scene and one story moment only. Keep the main character/action cluster large and readable at app-card size—normally about 65–80% of the square—without cropping or losing the white margin.
+Negative: montage, triptych, collage, storyboard, split scene, repeated character, multiple moments, wide establishing shot, panoramic view, tiny subject, floating object, cropped, cut off, realistic photo, 3d render, scary, dark, neon, messy lines.
 ```
+
+Reject any cover that summarizes the story with multiple panels or multiple copies of a
+character. Choose the single strongest action that represents the story instead.
 
 ### Step 5: Generate Comprehension Answer Images (from JSON)
 Read the `answers` array from the story JSON. Generate one image per answer.
@@ -76,7 +80,9 @@ Read the `answers` array from the story JSON. Generate one image per answer.
 Subject: [Answer] standing/posed clearly. [Description from CHARACTER.md if character exists].
 Style: digital vector illustration, modern storybook anime style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear thin black outlines, simple cel-shading.
 Format: 600px × 600px, 11:10 aspect ratio, solid white background #FFFFFF, centered full view.
-Negative: cropped, cut off, realistic photo, 3d render, scary, dark, neon.
+Composition: keep the answer subject large and immediately recognizable at app-card size. Show one moment in a close, uncluttered composition.
+Physical grounding: every prop must be visibly held or resting on a plausible support such as a table, floor, or container. Reject floating or ambiguously airborne objects.
+Negative: montage, split scene, wide establishing shot, panoramic view, tiny subject, floating object, unsupported prop, cropped, cut off, realistic photo, 3d render, scary, dark, neon.
 
 ```
 
@@ -131,4 +137,3 @@ Add successful prompts to `StorySliderArt/Stories/[Story Name]/PROMPTS.md` for f
 | Dad | Adult | [Check CHARACTER.md] |
 | Dan | Boy | [Check CHARACTER.md] |
 | Man | Adult | [Check CHARACTER.md] |
-
