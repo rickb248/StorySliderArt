@@ -8,7 +8,7 @@ This document serves as the source of truth for generating images for the Story 
 
 ## Core Art Style Definition
 
-The art style is **Modern Storybook Anime**. It is designed to be **calm, clear, and high-quality**, featuring anime-influenced character designs with a crisp vector look.
+The art style is **Modern Storybook Anime**. It is designed to be **inviting, clear, emotionally readable, and high-quality**, featuring anime-influenced character designs with a crisp vector look.
 
 **Key Characteristics:**
 *   **Medium/Technique:** Digital vector illustration with clean, crisp edges.
@@ -23,19 +23,21 @@ The art style is **Modern Storybook Anime**. It is designed to be **calm, clear,
     *   **Friendly & Approachable:** Characters should have warm, kind energy.
 *   **Shading & Lighting:** Simple cel-shading.
     *   Use: 1-2 levels of flat shadow to show form. Soft highlights on hair and eyes.
-    *   Avoid: Complex gradients, realistic textures, or dramatic lighting.
+    *   Avoid: Complex gradients, realistic textures, or frightening high-contrast lighting. Gentle dusk, bedtime, or night cues are allowed when the story requires them and the subject remains clear.
 *   **Realism Level:** Stylized Anime Realism.
-    *   **No Anthropomorphism:** Inanimate objects (buses, trees, clouds) do **NOT** have faces or human traits.
+    *   **No Decorative Anthropomorphism:** Ordinary objects (buses, trees, clouds) do **NOT** have faces or human traits. An approved story may explicitly establish a living fantasy object; depict only the traits the prose and art brief support.
 *   **Composition & Format:**
     *   **Image Size:** Always generate images at **600px × 600px** (square).
-    *   **Aspect Ratio:** Always maintain an **11:10** aspect ratio (the 600×600 square satisfies this).
+    *   **Aspect Ratio:** Always maintain a **1:1 square** aspect ratio.
     *   **Background:** Always use a solid white background (**#FFFFFF**).
     *   **Whitespace & Composition:** The subject must be **completely in view** and centered. Ensure there is visible whitespace (breathing room) on all sides of the subject. 
     *   **No Crops:** Portions of the characters or objects (feet, ears, tails, wheels) must **NEVER** go off-screen.
-    *   **Full Body:** Always provide a full body/full object view unless specifically asked otherwise.
+    *   **Intentional Framing:** Usually show the full subject. A closer view is allowed when it makes the story action or emotion clearer, but never crop essential body parts, props, or the action itself.
     *   **Card-Scale Readability:** Compose for the app's small story and answer cards. Avoid wide establishing shots that make characters or key actions tiny; normally size the main subject/action cluster to about 65–80% of the canvas while retaining the white border.
     *   **Single-Scene Covers:** Every cover shows one continuous scene at one moment. Do not use montages, triptychs, collages, storyboards, split scenes, repeated characters, or multiple stages of an action.
     *   **Physical Grounding:** Props must have clear support and believable gravity. A pan rests on a table or is firmly held; a bag rests on the ground or is carried; no object may float or appear accidentally airborne.
+    *   **Narrative Focal Point:** One action or relationship is immediately dominant. Pose, gaze, expression, and prop placement should explain what matters without visual clutter.
+    *   **Story-Specific Delight:** When the approved story is playful, show its exact comic escalation, surprise, reversal, pretend transformation, animal agency, or visual incongruity. Do not manufacture whimsy with decorative confetti or object faces.
 
 ## Diversity and Inclusion
 
@@ -83,13 +85,14 @@ When creating prompts, follow this structure to maintain the Modern Storybook An
 
 ```markdown
 **Subject:** [Character Name] doing [Action] in [Setting].
-**Style Modifiers:** digital vector illustration, modern storybook anime style, high quality, K-2 audience, calm atmosphere, clean vibrant colors, clear black outlines, simple cel-shading, large expressive eyes, friendly expression.
-**Format:** 600px × 600px, 11:10 aspect ratio, pure solid white background #FFFFFF. The entire illustration is fully centered with a clear, wide white border around all four edges of the image. No elements, props, ground, or background shapes touch or bleed off the edges.
-**Negative Prompts:** montage, triptych, collage, storyboard, split scene, repeated character, multiple moments, wide establishing shot, panoramic view, tiny subject, floating object, unsupported prop, circular frame, circle backdrop, vignette, framed background, sky bubble, arch background, pseudo background, background shape, cropped, cut off, bleeding edges, touching edges, lineless, fuzzy, 3d render, realistic photo, shiny, complex textures, scary, dark, night, neon, messy lines, sketch, face on object, extreme muscle definition, Chibi proportions.
+**Story Beat:** [Approved child hook and signature visual beat]. Show [single focal action] with [specific readable emotion or anticipation].
+**Style Modifiers:** digital vector illustration, modern storybook anime style, high quality, K-2 audience, story-appropriate emotional energy, clean vibrant colors, clear black outlines, simple cel-shading, large expressive eyes.
+**Format:** 600px × 600px, 1:1 square, pure solid white background #FFFFFF. The illustration has a clear white border on all four edges. No element touches or bleeds off the canvas.
+**Negative Prompts:** montage, triptych, collage, storyboard, split scene, repeated character, multiple moments, wide establishing shot, panoramic view, tiny subject, generic standing pose, floating object, unsupported prop, circular frame, vignette, framed background, cropped essential action, cut off, bleeding edges, touching edges, lineless, fuzzy, 3d render, realistic photo, shiny, complex textures, frightening, neon, messy lines, sketch, face on object, extreme muscle definition, Chibi proportions.
 ```
 
 ## Examples of Usage
 *   *Correct:* A yellow school bus driving down a quiet suburban street.
 *   *Incorrect:* A smiling school bus waving hello. (No faces on objects).
 *   *Correct:* Sam reading a book under a large oak tree.
-*   *Incorrect:* Sam fighting a dragon with explosions. (Too violent/chaotic, keep it calm).
+*   *Incorrect:* Sam fighting a dragon with explosions. (Too violent and visually chaotic for the audience.)
