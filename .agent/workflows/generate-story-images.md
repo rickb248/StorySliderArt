@@ -56,15 +56,34 @@ For each character, read their `CHARACTER.md` to get their visual description.
 
 **Animal characters (Pip, Rat, Cat, etc.):** Must be natural animals - no clothes, walking on four legs.
 
+### Step 3.5: Calibrate the House Style
+Open at least four anchors listed in `.agent/workflows/generate-art.md`: two approved Level 1-2
+covers and two level cards. Use them to calibrate the white-field vignette composition, simplicity,
+palette, contrast, outline weight, young proportions, and whitespace. Character reference images
+control identity only; the approved anchors control composition and rendering. Do not use a
+full-scene image as a composition anchor. When possible, attach the most relevant style anchor to
+the generation request separately from character references. Never attach an anchor containing an
+unrelated person, animal, or distinctive prop; use a neutral level-card/object anchor for
+object-only answers so ImageGen cannot copy a benchmark subject into the story image.
+
+Palette matching is blocking. Default to warm neutrals, muted blues/greens, dusty secondary
+colors, gentle earth tones, restrained accents, and low-contrast relationships. If prose names
+red, yellow, or orange, keep the object recognizable using a muted storybook version: brick,
+cranberry, terracotta, mustard, ochre, butter, straw, clay, burnt orange, or muted apricot. Reject
+large areas or repeated accents of bright red/yellow/orange and any candidate that reads hotter,
+brighter, or more saturated than the Level 1-2 anchors at full size or card size.
+
 ### Step 4: Generate or Repair the Cover
 Create a prompt following the `/generate-art` workflow:
 ```markdown
+House style: StorySlider white-field vignette. Pure white extends uninterrupted to all four edges. Show one tight subject/action cluster, not a scenic illustration.
 Story beat: [Child hook and signature visual beat].
 Subject: [Main character(s)] [performing the single strongest written action]. [Character description from CHARACTER.md]. Show [specific expression, gaze, pose, or anticipation].
-Style: digital vector illustration, modern storybook anime style, high quality, K-2 audience, story-appropriate emotional energy, clean vibrant colors, clear thin black outlines, simple cel-shading.
-Format: 600px × 600px, 1:1 square, solid white background #FFFFFF, intentional full or close framing.
-Composition: one unified scene and one story moment only. Keep the main character/action cluster large and readable at app-card size—normally about 65–80% of the square—without cropping or losing the white margin.
-Negative: montage, triptych, collage, storyboard, split scene, repeated character, multiple moments, wide establishing shot, panoramic view, tiny subject, generic standing pose, floating object, cropped essential action, cut off, realistic photo, 3d render, frightening, neon, messy lines.
+Palette: calming Level 1-2 palette with warm neutrals, muted blues/greens, dusty secondary colors, gentle earth tones, restrained accents, and low-contrast relationships. Preserve any named red/yellow/orange with a recognizable muted storybook variant; mute large colored objects and balance them with neutrals.
+Style: digital vector illustration, modern storybook anime style, high quality, K-2 audience, story-appropriate emotional energy, calm muted storybook palette, gentle low-contrast cel-shading, clean medium-to-thin dark-charcoal outlines, rounded young child proportions, large expressive eyes.
+Format: 600px × 600px, 1:1 square, pure white background #FFFFFF connected to every edge, complete subject in frame, white breathing room on every side.
+Composition: one cohesive vignette and one story moment. Use zero to two essential support cues, such as a contact shadow, small rug/grass/dirt patch, one log, or a tabletop fragment. The subject/action carries 70-85% of the visual attention. Ground through contact and overlap; do not construct an environment.
+Negative: room interior, wall, window, corner, broad floor plane, bedroom, kitchen, dining room, cabinets, shelves, bed-and-furniture arrangement, horizon, landscape, scenic backdrop, background rectangle, colored panel, circle or blob backdrop, decorative frame, excessive props, montage, triptych, collage, storyboard, split scene, repeated character, multiple moments, wide establishing shot, panoramic view, tiny subject, generic standing pose, floating object, cropped essential action, cut off, heavy pitch-black outlines, harsh contrast, fire-engine red, lemon yellow, vivid orange, traffic-cone orange, candy-color saturation, multiple competing saturated warm colors, fully saturated primary color blocks, glossy rendering, tall or teen-like child proportions, realistic photo, 3d render, frightening, neon, messy lines.
 ```
 
 Reject any cover that summarizes the story with multiple panels or multiple copies of a
@@ -87,11 +106,12 @@ to a character standing alone when the answer is an action, outcome, location, o
 **Prompt for each answer image:**
 ```markdown
 Subject: [Literal answer choice as the question asks it], shown clearly in one action or state. [Description from CHARACTER.md if character exists].
-Style: digital vector illustration, modern storybook anime style, high quality, K-2 audience, clear emotional tone, clean vibrant colors, clear thin black outlines, simple cel-shading.
-Format: 600px × 600px, 1:1 square, solid white background #FFFFFF, intentional full or close framing.
-Composition: keep the answer subject large and immediately recognizable at app-card size. Show one moment in a close, uncluttered composition.
-Physical grounding: every prop must be visibly held or resting on a plausible support such as a table, floor, or container. Reject floating or ambiguously airborne objects.
-Negative: montage, split scene, wide establishing shot, panoramic view, tiny subject, correctness cue, check mark, glow, badge, floating object, unsupported prop, cropped essential action, cut off, realistic photo, 3d render, frightening, neon.
+Palette: calming Level 1-2 palette with warm neutrals, muted blues/greens, dusty secondary colors, gentle earth tones, restrained accents, and low-contrast relationships. Preserve any named red/yellow/orange with a recognizable muted storybook variant; mute large colored objects and balance them with neutrals.
+Style: digital vector illustration, modern storybook anime style, high quality, K-2 audience, clear emotional tone, calm muted storybook palette, gentle low-contrast cel-shading, clean medium-to-thin dark-charcoal outlines, rounded young child proportions.
+Format: 600px × 600px, 1:1 square, pure white background #FFFFFF connected to every edge, complete subject in frame, white breathing room on every side.
+Composition: one tight white-field vignette. Keep the literal answer large and immediately recognizable. Include only the characters, props, and zero to two support cues needed to make the answer clear.
+Physical grounding: every prop must be held, contained, overlapped, shadowed, or resting on one small support fragment. Never add a room or broad floor plane merely for grounding.
+Negative: room interior, wall, window, corner, broad floor plane, bedroom, kitchen, dining room, cabinets, shelves, horizon, landscape, scenic backdrop, background rectangle, colored panel, circle or blob backdrop, decorative frame, excessive props, montage, split scene, wide establishing shot, panoramic view, tiny subject, correctness cue, check mark, glow, badge, floating object, unsupported prop, cropped essential action, cut off, heavy pitch-black outlines, harsh contrast, fire-engine red, lemon yellow, vivid orange, traffic-cone orange, candy-color saturation, multiple competing saturated warm colors, fully saturated primary color blocks, glossy rendering, tall or teen-like child proportions, realistic photo, 3d render, frightening, neon.
 
 ```
 
@@ -125,8 +145,10 @@ Each `.imageset` folder needs a `Contents.json`:
 
 ### Step 8: Document Prompts and QA
 Create or update `StorySliderArt/Stories/[Story Name]/PROMPTS.md`. Record the exact prompt,
-negative constraints, character references, iteration, accepted filename, and final quality
-verdict for all four images. Prompt history is required for approved production.
+negative constraints, style anchors, character references, iteration, accepted filename, and
+the six binary vignette/palette verdicts (`WHITE_FIELD`, `NO_SCENIC_BACKDROP`,
+`TIGHT_FOCAL_CLUSTER`, `MINIMAL_CUES`, `CARD_SCALE_MATCH`, `CALM_PALETTE_MATCH`) for all four
+images. Prompt history is required for approved production.
 
 ---
 

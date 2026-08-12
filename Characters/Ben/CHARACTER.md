@@ -11,3 +11,9 @@
     *   Blue jeans.
     *   Brown shoes.
 **Personality:** Warm-hearted, sharing, friendly.
+
+## Level 3 production reference
+
+`ben_reference_sheet.png` is the production master for Level 3. Keep Ben's ginger hair,
+yellow T-shirt, blue jeans, and brown shoes consistent. Ben's father is a separate
+character record (`BenDad`), not the generic Dad record or Ned's father.
