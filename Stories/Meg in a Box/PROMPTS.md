@@ -76,4 +76,34 @@ background to exact `#FFFFFF`.
 `COMPLETE_VEHICLE=PASS`; `NO_EDGE_CONTACT=PASS`; `WHITE_FIELD=PASS`;
 `MEG_CONTINUITY=PASS`; `NO_TEXT=PASS`.
 
+## 2026-08-20 door-mechanics correction — `comp_meg_in_a_box_1.png`
+
+The accepted real-taxi candidate still depicted the rear passenger door with implausible hinge
+geometry. This correction closes every door and keeps Meg visible through the fully lowered rear
+passenger window, removing ambiguity while preserving the literal `A cab` answer.
+
+**Exact prompt:**
+
+```text
+Use case: illustration-story
+Asset type: StorySlider Level 4 comprehension answer image, mechanical correction for L4-MEG-C1
+Input images: Image 1 is the edit target. Preserve its real full-size yellow taxi, three-quarter side view, overall scale, centered framing, complete vehicle, white-field composition, Meg’s rear-passenger placement, palette, and storybook rendering. Image 2 is Meg’s identity reference; preserve Meg’s face, hair in two puff buns with lavender ties, skin tone, teal cardigan, cream shirt, plum clothing, gray-lavender sneakers, age, and expression.
+Primary request: Correct only the rear passenger-door presentation. Remove the incorrectly hinged open door and show the rear passenger door fully closed, flush with the car body, with ordinary front-hinged road-car door seams and a normal exterior handle. Roll the rear passenger window fully down so Meg remains clearly visible seated inside the rear passenger seat. Meg may rest one hand naturally near the open window edge, but her torso and legs remain inside the cabin. All four doors are closed; no door is open.
+Mechanical accuracy: standard four-door sedan construction; front edge of each rear door is beside the center B-pillar and rear edge is beside the rear wheel/quarter panel; conventional door seams; no rear-hinged or suicide door; no missing pillar; no duplicated door or handle.
+Scene/backdrop: pure solid white #FFFFFF connected to all four edges, one small soft contact shadow only.
+Style/medium: calm modern K–2 storybook anime digital vector illustration, gentle dark-charcoal outlines, soft low-contrast cel shading, muted mustard-yellow taxi.
+Composition/framing: square 1:1, complete taxi and Meg centered with generous white clearance on all sides; no crop or edge contact; readable at comprehension-card size.
+Constraints: real adult-sized taxi, not a toy; Meg is a passenger and not driving; only Meg and one taxi; no driver or other person; no road, scenery, floor plane, text, letters, numbers, logos, check mark, glow, or watermark. Change only the faulty door/window area and preserve everything else. Final intended delivery is 600x600 PNG.
+```
+
+**Generated source:** `exec-06ad776c-ec8f-4e99-b823-78d1e90badde.png`.
+**Accepted SHA-256:** `2d6bd7f650343a8f171db4d53076ed17cca8fe0c4a521078843e64cfded47d99`.
+
+Final processing resized to 600×600 PNG and normalized only the edge-connected near-white
+background to exact `#FFFFFF`.
+
+`REAL_FULL_SIZE_TAXI=PASS`; `ALL_DOORS_CLOSED=PASS`; `CONVENTIONAL_DOOR_SEAMS=PASS`;
+`MEG_VISIBLE_THROUGH_OPEN_WINDOW=PASS`; `MEG_REAR_PASSENGER=PASS`; `WHITE_FIELD=PASS`;
+`NO_EDGE_CONTACT=PASS`; `NO_TEXT=PASS`.
+
 Rejected history includes the original 2026-08-12 candidate that placed Meg beside the cab.
