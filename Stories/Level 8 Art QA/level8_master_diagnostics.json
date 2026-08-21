@@ -1,0 +1,885 @@
+{
+  "accepted_master_count": 40,
+  "masters": [
+    {
+      "path": "Stories/The Grass Track/story_the_grass_track.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "69b57ee3602dc582ae15b0fe6f7007a51d9b8a3b696dbf08205274228615bdc8",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 37,
+        "top": 71,
+        "right": 31,
+        "bottom": 75
+      }
+    },
+    {
+      "path": "Stories/The Grass Track/comp_the_grass_track_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "260e45f3663d90e609c91a52c66c5ef782cfc511863e55f7790ebffcb202151b",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 100,
+        "top": 33,
+        "right": 117,
+        "bottom": 28
+      }
+    },
+    {
+      "path": "Stories/The Grass Track/comp_the_grass_track_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "2ce36c810e6ba497aedfa4fde0bdf78cafedc966b7b10e7fe73390b690281031",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 141,
+        "top": 33,
+        "right": 133,
+        "bottom": 44
+      }
+    },
+    {
+      "path": "Stories/The Grass Track/comp_the_grass_track_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "4de037a2d6173f7bc99dc3028527d9a2a82f6291d54f5448a1aa82ed54695e26",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 82,
+        "top": 39,
+        "right": 92,
+        "bottom": 37
+      }
+    },
+    {
+      "path": "Stories/The Two-Top Trick/story_the_two_top_trick.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "6e3cd291049c7a8df2169f835bd78f5883753eccff521685a2474bcaa00c9192",
+      "border_min_channel": 251,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 26,
+        "top": 61,
+        "right": 27,
+        "bottom": 30
+      }
+    },
+    {
+      "path": "Stories/The Two-Top Trick/comp_the_two_top_trick_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "37ec9bad5666d4f7d1e57ba87bb52c881aac7c9ba9a09c5cdf5dd985500361c1",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 42,
+        "top": 128,
+        "right": 37,
+        "bottom": 122
+      }
+    },
+    {
+      "path": "Stories/The Two-Top Trick/comp_the_two_top_trick_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "a4eff79430db9f6249903394faeed75ca984ef0e797012f5403b1b6ac686bb68",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 123,
+        "top": 168,
+        "right": 128,
+        "bottom": 118
+      }
+    },
+    {
+      "path": "Stories/The Two-Top Trick/comp_the_two_top_trick_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "bcc885400a4387c66f021dca3daa01adbd2c388e4750fd2415ff05bb1249a07b",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 90,
+        "top": 119,
+        "right": 90,
+        "bottom": 92
+      }
+    },
+    {
+      "path": "Stories/Chess for Two/story_chess_for_two.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "0e2cc67a2864ac371da9a89db0788da6c6236bcad36868916361536e8516642c",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 61,
+        "top": 56,
+        "right": 60,
+        "bottom": 82
+      }
+    },
+    {
+      "path": "Stories/Chess for Two/comp_chess_for_two_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "f6b90368954f0b44faa337f6cb31ad89b13ddc4b9fecadf99375df1064354d15",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 67,
+        "top": 65,
+        "right": 61,
+        "bottom": 57
+      }
+    },
+    {
+      "path": "Stories/Chess for Two/comp_chess_for_two_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "1662e4eced10694de2d9f93f8b6e421123573962984562d154e2dca8d0f889ee",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 41,
+        "top": 66,
+        "right": 46,
+        "bottom": 80
+      }
+    },
+    {
+      "path": "Stories/Chess for Two/comp_chess_for_two_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "d6b6289ca392c0ccb668d728ef8e025d2895ea3e9f6cc0afaac885e9c33494f0",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 24,
+        "top": 68,
+        "right": 25,
+        "bottom": 100
+      }
+    },
+    {
+      "path": "Stories/The Frog on the Sock/story_the_frog_on_the_sock.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "5e9414b4aca8c72b6bd442af936481d261408d2b80021301150057683939fb67",
+      "border_min_channel": 251,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 15,
+        "top": 56,
+        "right": 14,
+        "bottom": 57
+      }
+    },
+    {
+      "path": "Stories/The Frog on the Sock/comp_the_frog_on_the_sock_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "d44ed4629b8aec4a804b6809dc1a664668603786c89bc642ed73762a38f7fcfa",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 116,
+        "top": 40,
+        "right": 96,
+        "bottom": 65
+      }
+    },
+    {
+      "path": "Stories/The Frog on the Sock/comp_the_frog_on_the_sock_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "525996e10874d5a3f244ddcf2400e94e573b3eae7f1c5c54ef1a59cb75372959",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 108,
+        "top": 58,
+        "right": 136,
+        "bottom": 63
+      }
+    },
+    {
+      "path": "Stories/The Frog on the Sock/comp_the_frog_on_the_sock_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "ee8a280d33b905c480e850936c318887fb5e0b460062324a7c703c13878c9598",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 111,
+        "top": 53,
+        "right": 98,
+        "bottom": 58
+      }
+    },
+    {
+      "path": "Stories/Hop and Spin/story_hop_and_spin.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "5b73092e00bdb01e6fb3aaec26fd9188ee954f9a45844d27bc312c768ea72e5e",
+      "border_min_channel": 252,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 59,
+        "top": 19,
+        "right": 51,
+        "bottom": 53
+      }
+    },
+    {
+      "path": "Stories/Hop and Spin/comp_hop_and_spin_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "0ba2764a1f910590ab97344cf725db692ee4a1e5a0b687d786a29556c287f8a9",
+      "border_min_channel": 252,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 147,
+        "top": 43,
+        "right": 166,
+        "bottom": 41
+      }
+    },
+    {
+      "path": "Stories/Hop and Spin/comp_hop_and_spin_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "375fabc23c428732ac736d2e694f6683f18af56c6ce2c5fe0696c608f46eefb9",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 84,
+        "top": 31,
+        "right": 101,
+        "bottom": 54
+      }
+    },
+    {
+      "path": "Stories/Hop and Spin/comp_hop_and_spin_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "b343a5e8d224dd209ca37238f8249245d6bf971cfecfd6123e44130b484acb13",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 127,
+        "top": 26,
+        "right": 124,
+        "bottom": 50
+      }
+    },
+    {
+      "path": "Stories/A Snack for the Pug/story_a_snack_for_the_pug.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "e8d13d6a0452335de74db5a8bd79e2f2f83aef222ba39491c5cd19d36646e476",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 34,
+        "top": 37,
+        "right": 41,
+        "bottom": 58
+      }
+    },
+    {
+      "path": "Stories/A Snack for the Pug/comp_a_snack_for_the_pug_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "e11fa954800b849aa4770fc6dd63de456a68320d1a09c3740923920f49e71780",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 83,
+        "top": 52,
+        "right": 79,
+        "bottom": 48
+      }
+    },
+    {
+      "path": "Stories/A Snack for the Pug/comp_a_snack_for_the_pug_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "fd14622572a0de72672fbc9011b759fed9d65cb3abe63260059c6252cd6a4a20",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 72,
+        "top": 98,
+        "right": 63,
+        "bottom": 102
+      }
+    },
+    {
+      "path": "Stories/A Snack for the Pug/comp_a_snack_for_the_pug_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "59b00a0f1001b9edceb47e4b35d173597852781d2ec387674952d170c12a3b1f",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 86,
+        "top": 96,
+        "right": 90,
+        "bottom": 124
+      }
+    },
+    {
+      "path": "Stories/The Black Bat/story_the_black_bat.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "4930fe4ba2e32577338e0207b2387e037bb99a72ec52e8b0feddeabdc1a87f39",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 83,
+        "top": 14,
+        "right": 93,
+        "bottom": 12
+      }
+    },
+    {
+      "path": "Stories/The Black Bat/comp_the_black_bat_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "33661aaaa60cdf15561371ac33d3800b29e58a049dab776d93a4c04ade8eaee3",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 151,
+        "top": 14,
+        "right": 135,
+        "bottom": 24
+      }
+    },
+    {
+      "path": "Stories/The Black Bat/comp_the_black_bat_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "03bfa9257a3664bc67576e4649d5771b1e1ab16e6a98e9fef7a226fdb36c986a",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 59,
+        "top": 80,
+        "right": 120,
+        "bottom": 75
+      }
+    },
+    {
+      "path": "Stories/The Black Bat/comp_the_black_bat_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "14cda613bcfc02a869195b7684ada3096e0d2a7949386bd409116c0c5595bd86",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 151,
+        "top": 15,
+        "right": 146,
+        "bottom": 25
+      }
+    },
+    {
+      "path": "Stories/The Snug Cap/story_the_snug_cap.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "367f4551806c2ef7c68a74b358628f85d0792e7ddee8e7e6f553859d8324d305",
+      "border_min_channel": 251,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 108,
+        "top": 39,
+        "right": 122,
+        "bottom": 42
+      }
+    },
+    {
+      "path": "Stories/The Snug Cap/comp_the_snug_cap_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "abaab5a7901341e294e7a660fef17789e407528182181454dd187ddf5914a0f2",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 78,
+        "top": 22,
+        "right": 73,
+        "bottom": 50
+      }
+    },
+    {
+      "path": "Stories/The Snug Cap/comp_the_snug_cap_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "9822c85e81247aaeda80493b251de4b0fd792dc19b4342d5b1c459adc1c06539",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 83,
+        "top": 35,
+        "right": 100,
+        "bottom": 54
+      }
+    },
+    {
+      "path": "Stories/The Snug Cap/comp_the_snug_cap_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "c6e2a4f72db5a5a4c712ad0bd68ae1a7e1d9184f7d80f09c1c8411e95a97e3eb",
+      "border_min_channel": 251,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 36,
+        "top": 53,
+        "right": 39,
+        "bottom": 72
+      }
+    },
+    {
+      "path": "Stories/The Club Flag/story_the_club_flag.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "bd9ba5fed62ce5dd7ac5198f74ae3892dc453fb91c3539015f7f71a9b816f338",
+      "border_min_channel": 251,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 43,
+        "top": 23,
+        "right": 62,
+        "bottom": 31
+      }
+    },
+    {
+      "path": "Stories/The Club Flag/comp_the_club_flag_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "5573c7b20d52ed150d7f46f89cd2e9f216da3a7b8af96d8d02a494eb75e8071a",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 120,
+        "top": 20,
+        "right": 84,
+        "bottom": 30
+      }
+    },
+    {
+      "path": "Stories/The Club Flag/comp_the_club_flag_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "a844f0c95e76aa9ce90687416197de4bc6771cdad2968f7daf9d5c3a6d9790a6",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 119,
+        "top": 15,
+        "right": 121,
+        "bottom": 15
+      }
+    },
+    {
+      "path": "Stories/The Club Flag/comp_the_club_flag_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "3868171592231450062332a904199f7e400eef556d1eb280ddf921a4ec721ad8",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 153,
+        "top": 20,
+        "right": 146,
+        "bottom": 20
+      }
+    },
+    {
+      "path": "Stories/The Sock Sled/story_the_sock_sled.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "5b9204e3fc801f48ebb346d17ccf852c38bc9a80776d8ccdfa6bf12be67ad660",
+      "border_min_channel": 252,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 33,
+        "top": 92,
+        "right": 27,
+        "bottom": 94
+      }
+    },
+    {
+      "path": "Stories/The Sock Sled/comp_the_sock_sled_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "8e070cc99c73fb5bc1ba695d79142c4f12ac11952d707778bbd88030ceeb7172",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 104,
+        "top": 29,
+        "right": 95,
+        "bottom": 30
+      }
+    },
+    {
+      "path": "Stories/The Sock Sled/comp_the_sock_sled_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "58874fcb244f2e169bde0e7aec10d9d6ec20a36d18b30fe7ea20040082755805",
+      "border_min_channel": 251,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 112,
+        "top": 37,
+        "right": 104,
+        "bottom": 58
+      }
+    },
+    {
+      "path": "Stories/The Sock Sled/comp_the_sock_sled_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "886df7a0b9b03851dd88b92334ecc749ef481f8ddd33803ce71ceb132a0cb0eb",
+      "border_min_channel": 253,
+      "near_white_fraction_by_edge": {
+        "top": 1.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "left": 1.0
+      },
+      "near_white_reaches_all_four_edges": true,
+      "nonwhite_bbox_margins": {
+        "left": 141,
+        "top": 39,
+        "right": 120,
+        "bottom": 50
+      }
+    }
+  ]
+}
