@@ -1,0 +1,726 @@
+{
+  "accepted_master_count": 40,
+  "all_machine_contracts_pass": true,
+  "masters": [
+    {
+      "path": "Stories/The Funny Fetch/story_the_funny_fetch.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "05ad3374502c211414ed405f8a282c58b201861b4da987101a3659262f719cdd",
+      "nonwhite_bbox_margins": {
+        "left": 111,
+        "top": 59,
+        "right": 95,
+        "bottom": 92
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.776669,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Funny Fetch/comp_the_funny_fetch_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "b0a1043f55c777e04b130e2ac21e9df105c14a216817f5af03b3de0c3d3ae31e",
+      "nonwhite_bbox_margins": {
+        "left": 136,
+        "top": 89,
+        "right": 116,
+        "bottom": 110
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.728286,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Funny Fetch/comp_the_funny_fetch_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "bf77425032a5828c95e9715a4a405b72f714a6cc6f23e3ad0b1e506edb2849e6",
+      "nonwhite_bbox_margins": {
+        "left": 44,
+        "top": 112,
+        "right": 44,
+        "bottom": 141
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.664878,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Funny Fetch/comp_the_funny_fetch_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "405b0431f1f9b8b661c4461d6a6ca698ec7ae39b9401884d6559013879a9ded1",
+      "nonwhite_bbox_margins": {
+        "left": 53,
+        "top": 225,
+        "right": 53,
+        "bottom": 220
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.919389,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Silly Story/story_the_silly_story.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "06f5b358f4b93621dc6fb01bac858362fbe9c1c2a951f5e18c5e3176fceb2260",
+      "nonwhite_bbox_margins": {
+        "left": 53,
+        "top": 32,
+        "right": 60,
+        "bottom": 39
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.634839,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Silly Story/comp_the_silly_story_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "4dbe87f66dccbbb9a33f84e493c9c8d192ba8053f7f2685aed275604b573806f",
+      "nonwhite_bbox_margins": {
+        "left": 52,
+        "top": 126,
+        "right": 53,
+        "bottom": 136
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.673883,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Silly Story/comp_the_silly_story_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "840815ab9f53ba0fb99929b525b726f9f57af3426cf8d6252f8377c4995304a2",
+      "nonwhite_bbox_margins": {
+        "left": 73,
+        "top": 57,
+        "right": 69,
+        "bottom": 72
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.617464,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Silly Story/comp_the_silly_story_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "696d94574e92abcd213ee24b41d2a96b493ad10913d59d3cfae3dd5ee3cace05",
+      "nonwhite_bbox_margins": {
+        "left": 53,
+        "top": 145,
+        "right": 40,
+        "bottom": 116
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.662342,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Leaf Stamp/story_the_leaf_stamp.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "2f9159cb4c63352b624f046e25fd53a76668b2d4f00a6a198cacdd2888ce2be9",
+      "nonwhite_bbox_margins": {
+        "left": 118,
+        "top": 13,
+        "right": 121,
+        "bottom": 20
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.724172,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Leaf Stamp/comp_the_leaf_stamp_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "0396bb4213141521c8ba7572614d9a99a670d42875e90b5e1d5dc7b4f12f10e1",
+      "nonwhite_bbox_margins": {
+        "left": 65,
+        "top": 95,
+        "right": 76,
+        "bottom": 108
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.648169,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Leaf Stamp/comp_the_leaf_stamp_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "e6cb1dd2ad858776a1493af16b6ae753be5007d0c2cdfff088f042ed11ba6dc4",
+      "nonwhite_bbox_margins": {
+        "left": 64,
+        "top": 60,
+        "right": 53,
+        "bottom": 89
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.634983,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Leaf Stamp/comp_the_leaf_stamp_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "ac101c4b54fbfd8f3352212a5c8dceddabde51c293105caf0665c4c253730925",
+      "nonwhite_bbox_margins": {
+        "left": 111,
+        "top": 35,
+        "right": 109,
+        "bottom": 57
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.722844,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Match Judge/story_the_match_judge.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "82814344a2d2c481cb3ec3fd9922cdb80c27c56c1b18b5b668beb7152ef62bf4",
+      "nonwhite_bbox_margins": {
+        "left": 111,
+        "top": 30,
+        "right": 117,
+        "bottom": 43
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.677486,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Match Judge/comp_the_match_judge_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "7e14e4ad0940963603ac081e5a786c37480df06add3043c9929498809c2e3cb8",
+      "nonwhite_bbox_margins": {
+        "left": 130,
+        "top": 123,
+        "right": 129,
+        "bottom": 143
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.767136,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Match Judge/comp_the_match_judge_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "0c68125d493471bf67ac5258862263aae85e371af56a2be5df00c3d0b8e97d65",
+      "nonwhite_bbox_margins": {
+        "left": 43,
+        "top": 164,
+        "right": 60,
+        "bottom": 148
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.739419,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Match Judge/comp_the_match_judge_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "eab66f9a8bc8b6e7b1f60cfcc20e26c226ebbb939e27d04696acec8293ae4f71",
+      "nonwhite_bbox_margins": {
+        "left": 13,
+        "top": 154,
+        "right": 31,
+        "bottom": 134
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.783192,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Kind Note/story_the_kind_note.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "7f6b5ea7dc30a0594bd9968134cdc0c78c1b0cb4bd912e28440f0c82f91c3575",
+      "nonwhite_bbox_margins": {
+        "left": 144,
+        "top": 31,
+        "right": 116,
+        "bottom": 37
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.664983,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Kind Note/comp_the_kind_note_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "50f08e610acd734dec4d08dcf469941d0d3f139f0b40737615c955b95f4c0d93",
+      "nonwhite_bbox_margins": {
+        "left": 135,
+        "top": 134,
+        "right": 122,
+        "bottom": 169
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.794575,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Kind Note/comp_the_kind_note_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "36b136bac61a6a85c38a124959adbcd17b85bbcab68ed3517396b6bc22597e1a",
+      "nonwhite_bbox_margins": {
+        "left": 78,
+        "top": 121,
+        "right": 65,
+        "bottom": 129
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.690992,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Kind Note/comp_the_kind_note_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "1e0ca1aef5a2088cf0466fbf126a46c00a383717f67335d80312987d3b492f30",
+      "nonwhite_bbox_margins": {
+        "left": 69,
+        "top": 135,
+        "right": 67,
+        "bottom": 146
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.712925,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Colt and the Brush/story_the_colt_and_the_brush.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "b7b5238ff20e3afca0f6d6f9399632a993320320539f32ca95e8f250229eb30e",
+      "nonwhite_bbox_margins": {
+        "left": 130,
+        "top": 49,
+        "right": 131,
+        "bottom": 62
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.674817,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Colt and the Brush/comp_the_colt_and_the_brush_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "800a3c233faf3af97c7d9dd39250dd9b98aef53266e9e52b0d30fb7cbfb45757",
+      "nonwhite_bbox_margins": {
+        "left": 33,
+        "top": 120,
+        "right": 37,
+        "bottom": 143
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.767047,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Colt and the Brush/comp_the_colt_and_the_brush_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "213dc1b4174dcd77e3a4d545625daa0f3061fb2af5afc829e741f936b433add1",
+      "nonwhite_bbox_margins": {
+        "left": 105,
+        "top": 15,
+        "right": 86,
+        "bottom": 26
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.659689,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Colt and the Brush/comp_the_colt_and_the_brush_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "6628210d96d2b2c002fcd8bd0367be7d10d8325322443d533241b27519b52a86",
+      "nonwhite_bbox_margins": {
+        "left": 110,
+        "top": 102,
+        "right": 105,
+        "bottom": 113
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.681358,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Gold Puzzle/story_the_gold_puzzle.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "0be0f94d676420787563ee05ccdd5c6abc3c3a01324dd52783b53ff4aaddb3ee",
+      "nonwhite_bbox_margins": {
+        "left": 132,
+        "top": 34,
+        "right": 121,
+        "bottom": 63
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.756967,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Gold Puzzle/comp_the_gold_puzzle_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "5df9c8f13b19ee5c06a9c079a086dd5bd2ca1f7075c2aaeda1fa46fdf8ba368b",
+      "nonwhite_bbox_margins": {
+        "left": 128,
+        "top": 52,
+        "right": 175,
+        "bottom": 103
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.790644,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Gold Puzzle/comp_the_gold_puzzle_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "8113ce0c235cb9ba589a169005b8b839048d1ccba037a9e9403b2edc76963ea7",
+      "nonwhite_bbox_margins": {
+        "left": 108,
+        "top": 57,
+        "right": 92,
+        "bottom": 57
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.648297,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Gold Puzzle/comp_the_gold_puzzle_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "595b4bac4232819592532faca8233682b3cb30643afac3ac29f4cbd34a7760d3",
+      "nonwhite_bbox_margins": {
+        "left": 80,
+        "top": 173,
+        "right": 80,
+        "bottom": 168
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.708175,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Little Bunny/story_the_little_bunny.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "3bc7cc3708309ae72c90f607bd178dd5a01bb0e5380eff368db01e5df8f35c5c",
+      "nonwhite_bbox_margins": {
+        "left": 95,
+        "top": 69,
+        "right": 96,
+        "bottom": 53
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.646003,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Little Bunny/comp_the_little_bunny_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "ce052cf931e9016c0144b31e66672120744881fcd7cbd35a8c493ce0519d809e",
+      "nonwhite_bbox_margins": {
+        "left": 53,
+        "top": 76,
+        "right": 65,
+        "bottom": 105
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.829111,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Little Bunny/comp_the_little_bunny_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "5a3145216ca1de15b7a68b948a234a97bf30586cb42385430685dcf85113bca3",
+      "nonwhite_bbox_margins": {
+        "left": 39,
+        "top": 102,
+        "right": 43,
+        "bottom": 98
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.794692,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Little Bunny/comp_the_little_bunny_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "a4cf99cdee88e35e1fd8085b6142765b00915fc2b5ba8dbdbd223a6db699e864",
+      "nonwhite_bbox_margins": {
+        "left": 15,
+        "top": 82,
+        "right": 15,
+        "bottom": 114
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.731644,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Bottle Flip/story_the_bottle_flip.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "198f014db334d50a7ec77d2d2bece7161dc23fa9a14ac5cecc1177283b782978",
+      "nonwhite_bbox_margins": {
+        "left": 55,
+        "top": 61,
+        "right": 67,
+        "bottom": 75
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.647731,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Bottle Flip/comp_the_bottle_flip_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "5cb49a7bdf329acb5718880eb119a0d18fb9d0ed3d25b855230151f711d25f45",
+      "nonwhite_bbox_margins": {
+        "left": 64,
+        "top": 213,
+        "right": 60,
+        "bottom": 210
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.805608,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Bottle Flip/comp_the_bottle_flip_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "b26f880855a2dc06a7ae62a4c5c27ef6c4e1c1461ef5107751ec014040c5c242",
+      "nonwhite_bbox_margins": {
+        "left": 24,
+        "top": 204,
+        "right": 32,
+        "bottom": 197
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.764758,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Bottle Flip/comp_the_bottle_flip_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "97c30d817cef7cb3fb075e1ae6d0afe6a3dc4de51a9c1916d60d2f263ef94efc",
+      "nonwhite_bbox_margins": {
+        "left": 139,
+        "top": 75,
+        "right": 139,
+        "bottom": 76
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.821347,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Puppy and the Drum/story_the_puppy_and_the_drum.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "3282c81d6d13c659ba5910e5c797982ca2048253f68f464ac799497d516494d0",
+      "nonwhite_bbox_margins": {
+        "left": 18,
+        "top": 59,
+        "right": 17,
+        "bottom": 115
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.64625,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Puppy and the Drum/comp_the_puppy_and_the_drum_0.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "01a164ba1b7256012c438446ac256e01aa29c808823f023dd0175b729bd74e48",
+      "nonwhite_bbox_margins": {
+        "left": 50,
+        "top": 104,
+        "right": 60,
+        "bottom": 135
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.756214,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Puppy and the Drum/comp_the_puppy_and_the_drum_1.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "b1d029511b2456ab2782be05faa1fb330df15d5dfc845f80c24b09f05524d150",
+      "nonwhite_bbox_margins": {
+        "left": 75,
+        "top": 186,
+        "right": 78,
+        "bottom": 153
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.736694,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    },
+    {
+      "path": "Stories/The Puppy and the Drum/comp_the_puppy_and_the_drum_2.png",
+      "width": 600,
+      "height": 600,
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "1543909bccf6aa2d2f4570d2d17eeda84894ca08f3396a1c870606546705de94",
+      "nonwhite_bbox_margins": {
+        "left": 57,
+        "top": 183,
+        "right": 59,
+        "bottom": 188
+      },
+      "exact_white_component_reaches_all_four_edges": true,
+      "exact_white_component_fraction": 0.799486,
+      "exact_white_edge_fraction": 1.0,
+      "machine_contract_pass": true
+    }
+  ]
+}
