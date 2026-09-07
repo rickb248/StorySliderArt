@@ -1,0 +1,1047 @@
+{
+  "level": 15,
+  "approvedRevision": "R16",
+  "anchors": [
+    {
+      "path": "StorySlider/Assets.xcassets/story_pip_the_pig.imageset/story_pip_the_pig.png",
+      "sha256": "7be30f6c7acd2e59fa3aaac2ae1a930b60b9519bba2f1f8766ee8a5fcdaf9b9f"
+    },
+    {
+      "path": "StorySlider/Assets.xcassets/story_the_dig.imageset/story_the_dig.png",
+      "sha256": "efb773110cc6b46b2aaa2a0548340f0977e3ceb329fcc05bc86177f4fb8b965f"
+    },
+    {
+      "path": "StorySlider/Assets.xcassets/level_1_card.imageset/level_1_card.png",
+      "sha256": "43a1f73d9891c2d926e2301bd4abb353084023e9ebf5bc9ae7bddff264f891ed"
+    },
+    {
+      "path": "StorySlider/Assets.xcassets/level_2_card.imageset/level_2_card.png",
+      "sha256": "12641e4c61cb0ead0c55cce279b58d9f6bf1b38b5cd510542e6585a4dc220c8e"
+    }
+  ],
+  "gates": [
+    "WHITE_FIELD",
+    "NO_SCENIC_BACKDROP",
+    "TIGHT_FOCAL_CLUSTER",
+    "MINIMAL_CUES",
+    "CARD_SCALE_MATCH",
+    "CALM_PALETTE_MATCH",
+    "SEMANTIC_SCALE",
+    "CONSTRUCTION",
+    "ANIMAL_ABSTRACTION"
+  ],
+  "images": [
+    {
+      "name": "story_the_purple_turtle",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Purple Turtle/story_the_purple_turtle.png",
+      "sha256": "f80df99b3501a1d79f9cd90ed9e9d1c7b0f9f9564aa0d47bd5cc8d817c4e6a53",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s01-card-qa.png",
+      "notes": "Readable animal under shirt; calm palette and white field. Cover preserves Tess identity and clear turtle reveal.",
+      "whiteEdgeDiagnostics": {
+        "top": 1.0,
+        "bottom": 1.0,
+        "left": 1.0,
+        "right": 1.0
+      }
+    },
+    {
+      "name": "comp_the_purple_turtle_0",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Purple Turtle/comp_the_purple_turtle_0.png",
+      "sha256": "5d46694398af6174a8a7ea30e963c1a77b35c16e31938de9b3b96a014dc8a54f",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s01-card-qa.png",
+      "notes": "Readable animal under shirt; calm palette and white field. Cover preserves Tess identity and clear turtle reveal.",
+      "whiteEdgeDiagnostics": {
+        "top": 1.0,
+        "bottom": 1.0,
+        "left": 1.0,
+        "right": 1.0
+      }
+    },
+    {
+      "name": "comp_the_purple_turtle_1",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Purple Turtle/comp_the_purple_turtle_1.png",
+      "sha256": "91871431c8bc247c0ae0521a3e1aabe04e5dc5c217f4831cf13dfef0e60bf5dc",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s01-card-qa.png",
+      "notes": "Readable animal under shirt; calm palette and white field. Cover preserves Tess identity and clear turtle reveal.",
+      "whiteEdgeDiagnostics": {
+        "top": 1.0,
+        "bottom": 1.0,
+        "left": 1.0,
+        "right": 1.0
+      }
+    },
+    {
+      "name": "comp_the_purple_turtle_2",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Purple Turtle/comp_the_purple_turtle_2.png",
+      "sha256": "cdd99947e91e2251328a3f4ea0d998158196eeef4bdfcc9b5df09999a7ed725e",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s01-card-qa.png",
+      "notes": "Repaired dog is visibly beneath a naturally draped shirt. Full-size and anchor/card-size comparison pass; animal identity and answer distinction are clear.",
+      "whiteEdgeDiagnostics": {
+        "top": 1.0,
+        "bottom": 1.0,
+        "left": 1.0,
+        "right": 1.0
+      }
+    },
+    {
+      "name": "comp_the_paper_bird_0",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Paper Bird/comp_the_paper_bird_0.png",
+      "sha256": "55403f2d09062d492c6be71865cbda198190006c2f8557e1e29f90badedd7da3",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s02-card-qa.png",
+      "notes": "Single paper bird is clearly on the grass or resting in the lap respectively. Cole identity, hand fan, muted palette, white field and card readability pass."
+    },
+    {
+      "name": "comp_the_paper_bird_1",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Paper Bird/comp_the_paper_bird_1.png",
+      "sha256": "9085dce4022db536918d3cb05f08aefc558411b0405970c24041f3e40afa6737",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s02-card-qa.png",
+      "notes": "Single paper bird is clearly on the grass or resting in the lap respectively. Cole identity, hand fan, muted palette, white field and card readability pass."
+    },
+    {
+      "name": "story_the_paper_bird",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Paper Bird/story_the_paper_bird.png",
+      "sha256": "30043504a97cd46660218606ffa1eb87825d3ade8d1492e7b60e3537d34c3aa4",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s02-card-qa.png",
+      "notes": "Repaired images show one simple paper bird with readable lap or hand-fan placement. Cole and June identities, off-white footwear, calm clothing colors and white vignette pass full/card review."
+    },
+    {
+      "name": "comp_the_paper_bird_2",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Paper Bird/comp_the_paper_bird_2.png",
+      "sha256": "1ae81e9c954f80bc07fe55c29bb7f4b2c2a57d0f2fdc92c89347167a1d1c1999",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s02-card-qa.png",
+      "notes": "Repaired images show one simple paper bird with readable lap or hand-fan placement. Cole and June identities, off-white footwear, calm clothing colors and white vignette pass full/card review."
+    },
+    {
+      "name": "comp_fur_for_the_crow_0",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/Fur for the Crow/comp_fur_for_the_crow_0.png",
+      "sha256": "91f77e5cc572a7c41ffbf81bdba4f374358b9d198496901ef7c2eda736735d67",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s03-card-qa.png",
+      "notes": "Bea holds a water cup or a brush respectively, giving distinct literal distractors. Identity, conventional gate supports, white field, palette and card readability pass."
+    },
+    {
+      "name": "comp_fur_for_the_crow_1",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/Fur for the Crow/comp_fur_for_the_crow_1.png",
+      "sha256": "72aae41dfae2ef0bc36a3deb73d1c9ea33da1dcb0f93b272e3dd2f945918cbca",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s03-card-qa.png",
+      "notes": "Bea holds a water cup or a brush respectively, giving distinct literal distractors. Identity, conventional gate supports, white field, palette and card readability pass."
+    },
+    {
+      "name": "story_fur_for_the_crow",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/Fur for the Crow/story_fur_for_the_crow.png",
+      "sha256": "c4c43e7c835cd805e699344aa63ad5de3bc19270566ac0b6e05e33f6a3a621bb",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s03-card-qa.png",
+      "notes": "Repaired cover has a coherent attached pine branch supporting the nest and a clear crow/fur action. Gate now has hinges on one side and a latch on the other; Bea sits clearly. Full/card narrative, identity, construction and style gates pass."
+    },
+    {
+      "name": "comp_fur_for_the_crow_2",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/Fur for the Crow/comp_fur_for_the_crow_2.png",
+      "sha256": "acab50503a8a0db70e644397a1e67bcf96168577bb8f767337907ca0bbe5562b",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s03-card-qa.png",
+      "notes": "Repaired cover has a coherent attached pine branch supporting the nest and a clear crow/fur action. Gate now has hinges on one side and a latch on the other; Bea sits clearly. Full/card narrative, identity, construction and style gates pass."
+    },
+    {
+      "name": "comp_the_next_turn_0",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Next Turn/comp_the_next_turn_0.png",
+      "sha256": "5f9617e296a9535a3e02fd9675245e1b9b32d3865b0c86e0c56209b1ea767578",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s08-card-qa.png",
+      "notes": "Fern clearly takes a sled turn. Conventional runner construction, child-riding scale, muted brick-red finish, character identity and small snow support patch pass full/card review."
+    },
+    {
+      "name": "story_her_sister_came_home",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/Her Sister Came Home/story_her_sister_came_home.png",
+      "sha256": "c0f4c0ccca29bf25d8f7471935c436396d3c2f5b1bf5794e013118f92ae6f31e",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s09-card-qa.png",
+      "notes": "Clear joyful reunion at a black bus doorway. Bea and sister remain distinct; supporting step/handrail is coherent, white field and calm palette pass full/card review."
+    },
+    {
+      "name": "comp_the_moth_by_the_lamp_1",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Moth by the Lamp/comp_the_moth_by_the_lamp_1.png",
+      "sha256": "901e2b0ec416a62bdff1f68b2075bd93155836f596f81c64e8a149d88cdc1625",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s10-card-qa.png",
+      "notes": "Rounded turtle clearly under a conventional folding camp table. Complete support structure, simple animal treatment, calm palette and readable full/card silhouette pass."
+    },
+    {
+      "name": "story_the_letter_train",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Letter Train/story_the_letter_train.png",
+      "sha256": "9788f8483ded5792a6db6d8f13308f148a7d320b5abbf87ae08cb033805a4e55",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s07-card-qa.png",
+      "notes": "Repaired set depicts the mother performing all three answer actions, with Fern as recipient. The cover has a conventional wooden toy engine and open wagon, clear requested hug, stable identities, calm palette and readable full/card compositions."
+    },
+    {
+      "name": "comp_the_letter_train_0",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Letter Train/comp_the_letter_train_0.png",
+      "sha256": "479aafe245cf35efe96cca8918fcfd74a641ca287aceaeab9234b6f5bfc14fa6",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s07-card-qa.png",
+      "notes": "Repaired set depicts the mother performing all three answer actions, with Fern as recipient. The cover has a conventional wooden toy engine and open wagon, clear requested hug, stable identities, calm palette and readable full/card compositions."
+    },
+    {
+      "name": "comp_the_letter_train_1",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Letter Train/comp_the_letter_train_1.png",
+      "sha256": "1467709318460efa1006c1ea7a0270b645e5ae2bf575b336f954c53e86584d34",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s07-card-qa.png",
+      "notes": "Repaired set depicts the mother performing all three answer actions, with Fern as recipient. The cover has a conventional wooden toy engine and open wagon, clear requested hug, stable identities, calm palette and readable full/card compositions."
+    },
+    {
+      "name": "comp_the_letter_train_2",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Letter Train/comp_the_letter_train_2.png",
+      "sha256": "4dbcca869ab3a0f02e1ab5d88e088e78a53aec5d019dda7ba99df0a4f14f329b",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s07-card-qa.png",
+      "notes": "Repaired set depicts the mother performing all three answer actions, with Fern as recipient. The cover has a conventional wooden toy engine and open wagon, clear requested hug, stable identities, calm palette and readable full/card compositions."
+    },
+    {
+      "name": "story_the_next_turn",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Next Turn/story_the_next_turn.png",
+      "sha256": "b9539e7742fa1e545784a4389c24b0594f8a3e7573958e93ecb22a1631324f57",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s08-card-qa.png",
+      "notes": "Repaired cover shows Fern pushing a supported full-size runner sled; choice1 shows Kirk taking the next turn. Child identities, normal riding scale, muted wood/brick palette and minimal snow vignette pass."
+    },
+    {
+      "name": "comp_the_next_turn_1",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Next Turn/comp_the_next_turn_1.png",
+      "sha256": "6ca12191c628d642bb09450aea4636aefffffd143581d66d3f57a1640b02b7eb",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s08-card-qa.png",
+      "notes": "Repaired cover shows Fern pushing a supported full-size runner sled; choice1 shows Kirk taking the next turn. Child identities, normal riding scale, muted wood/brick palette and minimal snow vignette pass."
+    },
+    {
+      "name": "comp_the_next_turn_2",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Next Turn/comp_the_next_turn_2.png",
+      "sha256": "a54112a49f827175931c3d7461073834df416d92d77ab12066b2fc7c6ffe90cb",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s08-card-qa.png",
+      "notes": "Empty full-size wooden sled sits with its front in a small snow bank. No invented rider; normal construction, muted palette and clear card silhouette pass."
+    },
+    {
+      "name": "comp_the_moth_by_the_lamp_0",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Moth by the Lamp/comp_the_moth_by_the_lamp_0.png",
+      "sha256": "003fb04d5109e5fdf992aa1e6e51a3656e955dc70e65a10195f0dea4c6b079af",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s10-card-qa.png",
+      "notes": "Choice0 has a small flapping moth beside a supported lantern. Choice2 has a normal small paper bird hanging by a visible thread from an overhead support fragment above a recognizable camp cot. Full/card literal meaning, scale and style gates pass."
+    },
+    {
+      "name": "comp_the_moth_by_the_lamp_2",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Moth by the Lamp/comp_the_moth_by_the_lamp_2.png",
+      "sha256": "13bdfe7d88e47c5674cac76cc96c22d8c143de8d61bb25abea776e4767e3c196",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s10-card-qa.png",
+      "notes": "Choice0 has a small flapping moth beside a supported lantern. Choice2 has a normal small paper bird hanging by a visible thread from an overhead support fragment above a recognizable camp cot. Full/card literal meaning, scale and style gates pass."
+    },
+    {
+      "name": "comp_her_sister_came_home_0",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/Her Sister Came Home/comp_her_sister_came_home_0.png",
+      "sha256": "77da44615e735648b45fc33a7a5b3345f2ef9e88501e845551331701090dbcb8",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s09-card-qa.png",
+      "notes": "Repaired choices are clearly passenger buses in comparable side views, with conventional windows/wheels/doors and distinct muted yellow, sage green and charcoal-black bodies. White-field, palette and card readability pass."
+    },
+    {
+      "name": "comp_her_sister_came_home_1",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/Her Sister Came Home/comp_her_sister_came_home_1.png",
+      "sha256": "77b5aa58078ff86ed1a1950aac32fe12dd4bf7d1f69ff365d291b9ec3f706efa",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s09-card-qa.png",
+      "notes": "Repaired choices are clearly passenger buses in comparable side views, with conventional windows/wheels/doors and distinct muted yellow, sage green and charcoal-black bodies. White-field, palette and card readability pass."
+    },
+    {
+      "name": "comp_her_sister_came_home_2",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/Her Sister Came Home/comp_her_sister_came_home_2.png",
+      "sha256": "17b66146a890d1eeadb161bd3a910f283cc88be45db11775ac5547c3913618f1",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s09-card-qa.png",
+      "notes": "Repaired choices are clearly passenger buses in comparable side views, with conventional windows/wheels/doors and distinct muted yellow, sage green and charcoal-black bodies. White-field, palette and card readability pass."
+    },
+    {
+      "name": "story_the_moth_by_the_lamp",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Moth by the Lamp/story_the_moth_by_the_lamp.png",
+      "sha256": "4b24de05fefcf9c7bb9be7c67bdd304dd7a73543fc580d5295ace6c86a92cfc6",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s10-card-qa.png",
+      "notes": "Repaired cover aligns lantern, intervening small moth and enlarged moth shadow on the tent-fabric cue. Lamp rests on coherent table, Tess identity and calm full/card vignette pass."
+    },
+    {
+      "name": "story_the_big_drop",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Big Drop/story_the_big_drop.png",
+      "sha256": "8bd78099ea49b6426c155f0f9042918b6916ac996716ceb4a34a075032b4ef57",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s04-card-qa.png",
+      "notes": "Intact isolated window cues replace broken-looking glass. Cover and choice0 show a macro view of the big drop joining the smaller lower drop; choice2 clearly shows Bill wiping a normal wet mark. White field, calm palette and full/card semantics pass."
+    },
+    {
+      "name": "comp_the_big_drop_0",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Big Drop/comp_the_big_drop_0.png",
+      "sha256": "27d3e901eabef67ff45f362dedea882ce2c2735ba8af99fecc51e4ee411db870",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s04-card-qa.png",
+      "notes": "Intact isolated window cues replace broken-looking glass. Cover and choice0 show a macro view of the big drop joining the smaller lower drop; choice2 clearly shows Bill wiping a normal wet mark. White field, calm palette and full/card semantics pass."
+    },
+    {
+      "name": "comp_the_big_drop_2",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Big Drop/comp_the_big_drop_2.png",
+      "sha256": "8731b07283c83922a0ea4a6b3ebcb52b438a5cfff327dcce442512dea00605d8",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s04-card-qa.png",
+      "notes": "Intact isolated window cues replace broken-looking glass. Cover and choice0 show a macro view of the big drop joining the smaller lower drop; choice2 clearly shows Bill wiping a normal wet mark. White field, calm palette and full/card semantics pass."
+    },
+    {
+      "name": "comp_the_goat_at_dinner_1",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Goat at Dinner/comp_the_goat_at_dinner_1.png",
+      "sha256": "e74989b7267f2bc6b8408e361ec3931312bcb20e811a714bd6c5e39d14b522ab",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s05-card-qa.png",
+      "notes": "Goat clearly reaches over the low gate to a normal apple on a stable table, or finds it beneath a small grass tuft. Rounded animal style, coherent supports, appropriate scale and muted palette pass full/card review."
+    },
+    {
+      "name": "comp_the_goat_at_dinner_2",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Goat at Dinner/comp_the_goat_at_dinner_2.png",
+      "sha256": "58b852c93d89c71ebb8cb70703853151f81a13ae70fb513d00c077e01bc8d637",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s05-card-qa.png",
+      "notes": "Goat clearly reaches over the low gate to a normal apple on a stable table, or finds it beneath a small grass tuft. Rounded animal style, coherent supports, appropriate scale and muted palette pass full/card review."
+    },
+    {
+      "name": "comp_the_big_drop_1",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Big Drop/comp_the_big_drop_1.png",
+      "sha256": "7cc4348ebb0229f710cf7b8b1f9f9be40367c879b696b31b56bcfe47706d7e4f",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s04-card-qa.png",
+      "notes": "One larger wet droplet and one smaller faint dry ring appear on plain reflective glass. No scenic backdrop; intact frame, calm palette and full/card contrast of wet drop versus dry mark pass."
+    },
+    {
+      "name": "comp_the_goat_at_dinner_0",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Goat at Dinner/comp_the_goat_at_dinner_0.png",
+      "sha256": "e93d0152f3592b20a772ff08f0d11b066a4750d1a5b527b8e4e29440a567d09f",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s05-card-qa.png",
+      "notes": "Bert alone with a normal apple falling from his open hand; miniature gate removed. Identity, scale, muted palette and clear full/card action pass."
+    },
+    {
+      "name": "story_the_purple_bell",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Purple Bell/story_the_purple_bell.png",
+      "sha256": "a840d4da02c13dd443a982e6cde0498d92ee92dc1826c85dad96c26233a000b8",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s06-card-qa.png",
+      "notes": "Cover shows June tapping the clipped bell with the ball held, as Bert watches. Choice0 shows June fastening gate shut with clip; choice1 shows June hiding bell behind her back. Correct actors, coherent supporting gate, identities and calm full/card vignettes pass."
+    },
+    {
+      "name": "comp_the_purple_bell_0",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Purple Bell/comp_the_purple_bell_0.png",
+      "sha256": "137d6e7eda80cc51df82f873eb6357ac6ae26a7b48055a3374206e5731db9543",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s06-card-qa.png",
+      "notes": "Cover shows June tapping the clipped bell with the ball held, as Bert watches. Choice0 shows June fastening gate shut with clip; choice1 shows June hiding bell behind her back. Correct actors, coherent supporting gate, identities and calm full/card vignettes pass."
+    },
+    {
+      "name": "comp_the_purple_bell_1",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Purple Bell/comp_the_purple_bell_1.png",
+      "sha256": "40b202f896bcaab39ed0c33e407490b7ea738d2c4547571b2e4a881932e91216",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s06-card-qa.png",
+      "notes": "Cover shows June tapping the clipped bell with the ball held, as Bert watches. Choice0 shows June fastening gate shut with clip; choice1 shows June hiding bell behind her back. Correct actors, coherent supporting gate, identities and calm full/card vignettes pass."
+    },
+    {
+      "name": "story_the_goat_at_dinner",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Goat at Dinner/story_the_goat_at_dinner.png",
+      "sha256": "9be2f73aa46fb9d8abe4829cc818cf60e99b2d50109dbea783103dbe4388c7cb",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s05-card-qa.png",
+      "notes": "Final goat has rounded child-friendly eyes/face, four grounded hooves, normal apple scale and a coherent gate/table. Story event and full/card house-style gates pass."
+    },
+    {
+      "name": "comp_the_purple_bell_2",
+      "masterPath": "/Users/ricky/workspace/StorySliderArt/Stories/The Purple Bell/comp_the_purple_bell_2.png",
+      "sha256": "f5845465267157a4bb75ec4aa1dbf4fdfecaf79f4530d3a72721e9af099d5671",
+      "verdict": "PASS",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE": "PASS",
+        "CONSTRUCTION": "PASS",
+        "ANIMAL_ABSTRACTION": "PASS"
+      },
+      "fullSizeInspected": true,
+      "cardSheet": "s06-card-qa.png",
+      "notes": "Bell and clip are attached to the moving gate leaf with connected hinges, Bert arriving with ball and June approaching. Sound comes from bell; actor semantics, construction and full/card visual gates pass."
+    }
+  ],
+  "rejections": [
+    {
+      "name": "comp_the_purple_turtle_2",
+      "sha256": "32fcc5c74628b92563f4fe945e527c4a8735e2ce9d1847c534fde4da0f494e18",
+      "reason": "Dog sits inside a pocket in an unsupported upright shirt, not underneath a draped shirt. Distractor staging differs from the other two choices.",
+      "requestedCorrection": "Dog beneath lower hem of shirt naturally draped over its back, same scale and lateral staging as choices 0/1."
+    },
+    {
+      "name": "story_the_paper_bird",
+      "sha256": "64b09a43462e1eff17c841223cdc6d1db02e5e6864002c20cae026d2105adc54",
+      "reason": "Paper object reads as a complicated cluster or nest of multiple origami birds instead of one little paper bird."
+    },
+    {
+      "name": "comp_the_paper_bird_2",
+      "sha256": "46cf837058a4cdcd93e87f682a97197be5744e534223a156f405d0ec847374b3",
+      "reason": "Cole has vivid orange shoes instead of off-white, tighter/shorter curls, and smaller card scale than other choices."
+    },
+    {
+      "name": "story_fur_for_the_crow",
+      "sha256": "701417d33c39f612b10d3fc32d835506783b72fd4712c54b116cb5a1b6488a71",
+      "reason": "Nest sits on a cut branch leaning on ground rather than in a pine tree; unclear sitting support."
+    },
+    {
+      "name": "comp_fur_for_the_crow_2",
+      "sha256": "8f3027c41cccbef0a67b98d14fa20d99471adc55ae36241e18ebf13ab30e05cb",
+      "reason": "Gate hinges appear on both sides and seated support is unclear."
+    },
+    {
+      "name": "story_the_big_drop",
+      "sha256": "138033fbbf179750e19019f528a7a66b2662dc3f96e21603983a9326228f5a1b",
+      "reason": "Jagged glass resembles broken pane; three drops depict successive states instead of two meeting."
+    },
+    {
+      "name": "comp_the_big_drop_0",
+      "sha256": "082f84dce2a98a3acf8fd3401d84b9eed1c60d5e7d98e5dd0368f1db35584ffb",
+      "reason": "Jagged broken-looking pane; smaller drop above bigger contradicts larger catching the smaller below."
+    },
+    {
+      "name": "comp_the_big_drop_1",
+      "sha256": "a0273f0e693ae4e1bb1411da008abe6438926d3d29f5d383006a9892004b09ef",
+      "reason": "Dry mark is on sill instead of glass and no remaining wet drop."
+    },
+    {
+      "name": "comp_the_big_drop_2",
+      "sha256": "20df0ff41b2ebb43a1274bfd8a9c0c9b49f527653ce129d34e0753c60425b2bf",
+      "reason": "Head-sized drop, vivid orange clothing, and inconsistent Bill identity."
+    },
+    {
+      "name": "story_the_goat_at_dinner",
+      "sha256": "55f35b671f12250c5083f60f678c1ef5cab449577c966b8643be4eb74099606e",
+      "reason": "Bert feeds goat instead of goat stealing unattended apple."
+    },
+    {
+      "name": "comp_the_goat_at_dinner_0",
+      "sha256": "79ce1050e14d41aa4e82fbc40976a6f99bcbbb885972ee7ae6966cb083fc2f5c",
+      "reason": "No falling-from-hand action; apple is oversized relative to gate; vivid palette."
+    },
+    {
+      "name": "comp_the_goat_at_dinner_1",
+      "sha256": "6eff45f107df7ae7670dfc3f0c8ad064ce048ed6d1b696fc4c0c4b149745e4d9",
+      "reason": "Bert gives apple and table has incomplete support, contradicting theft while Bert is away."
+    },
+    {
+      "name": "comp_the_goat_at_dinner_2",
+      "sha256": "01b97510998fd242c047395a1155d69b88bb943f3d92581e68c0397c66c69556",
+      "reason": "Bright red/lime icon-like styling; action and scale need a goat finding normal apple beneath a small grass tuft."
+    },
+    {
+      "name": "story_the_letter_train",
+      "sha256": "9788f8483ded5792a6db6d8f13308f148a7d320b5abbf87ae08cb033805a4e55",
+      "reason": "Unclear paper-like train rather than wooden toy engine and open car; inconsistent footwear."
+    },
+    {
+      "name": "comp_the_letter_train_0",
+      "sha256": "479aafe245cf35efe96cca8918fcfd74a641ca287aceaeab9234b6f5bfc14fa6",
+      "reason": "Train reads as a row of paper boxes; inconsistent footwear."
+    },
+    {
+      "name": "comp_the_letter_train_1",
+      "sha256": "1467709318460efa1006c1ea7a0270b645e5ae2bf575b336f954c53e86584d34",
+      "reason": "Fern reads alone instead of mother reading to Fern."
+    },
+    {
+      "name": "comp_the_letter_train_2",
+      "sha256": "4dbcca869ab3a0f02e1ab5d88e088e78a53aec5d019dda7ba99df0a4f14f329b",
+      "reason": "Fern folds alone instead of mother folding for Fern."
+    },
+    {
+      "name": "story_the_next_turn",
+      "sha256": "4ceb6854a0dd1f31716fbdf8526764a3ddbaa5f14cd5a4a011137743257fb5ef",
+      "reason": "Raised plank-like sled differs from normal supported runner sled."
+    },
+    {
+      "name": "comp_the_next_turn_1",
+      "sha256": "a6ff1a614d4ed521a133d8dc940677497c4efe42c4a153aaf11b373bdeb06fd2",
+      "reason": "Tiny sled is handed over instead of Kirk taking a ride/turn."
+    },
+    {
+      "name": "comp_the_next_turn_2",
+      "sha256": "65002efd347555c8dcf352997ca773fc78957ee1df54ae48e06d84d738806753",
+      "reason": "Vivid red upright sled rather than same normal horizontal sled stuck at front."
+    },
+    {
+      "name": "comp_her_sister_came_home_0",
+      "sha256": "b02bffc32ddaf8d221826e0616531cf945a8ef051ea09e3ea307a58813ef94ed",
+      "reason": "Bright lemon yellow; inconsistent rear-view design."
+    },
+    {
+      "name": "comp_her_sister_came_home_1",
+      "sha256": "49a6b3c4df7b1207d8e6e68d5f2f9275d4508ced4ffe20781a0859d26523b73e",
+      "reason": "Overly bright green; inconsistent rear-view design."
+    },
+    {
+      "name": "comp_her_sister_came_home_2",
+      "sha256": "63381adcd1e2d8fb4d999a0abe4c8b2f019fe8e21eecce45ad0ce051cd7f68fd",
+      "reason": "Rear view ambiguous as van/truck rather than literal passenger bus."
+    },
+    {
+      "name": "story_the_moth_by_the_lamp",
+      "sha256": "a8ab921d46f65941ebe34d35dad749103a34277190143c922daf29d96b6bdb78",
+      "reason": "Lamp on ground not table; shadow is feathered eagle rather than matching enlarged moth."
+    },
+    {
+      "name": "comp_the_moth_by_the_lamp_0",
+      "sha256": "daac8ced31ef7e1efc7e2a92c8070ed8198448299b2b929c27273e18dda65117",
+      "reason": "Unsupported floating lamp and oversized moth."
+    },
+    {
+      "name": "comp_the_moth_by_the_lamp_2",
+      "sha256": "e6fcfb1f51580d78c95dd3f5d6761af41fa03c1aa1a4b9bd40a4205f596e2362",
+      "reason": "No hanging thread or bed; giant paper bird above folded blanket."
+    },
+    {
+      "name": "comp_the_next_turn_2",
+      "sha256": "b360c5b9e69a65fa45dfbeca8b37ebfc21a5315003a3682c24116985d6138bc3",
+      "reason": "Repair introduced an unrelated boy riding the sled. Answer is that Fern left the sled in the bank; it must be empty."
+    },
+    {
+      "name": "story_the_moth_by_the_lamp",
+      "sha256": "829187d38cdc6469b787c7269ab929169137bbdc34f1256ea7f837548fd6bd5b",
+      "reason": "Moth is on the opposite side of lamp from shadow; light-source, moth and shadow must align with moth between lamp and fabric."
+    },
+    {
+      "name": "comp_the_big_drop_1",
+      "sha256": "7cc4348ebb0229f710cf7b8b1f9f9be40367c879b696b31b56bcfe47706d7e4f",
+      "reason": "Scenic landscape appears through window; dry little-drop mark larger than remaining wet drop."
+    },
+    {
+      "name": "story_the_goat_at_dinner",
+      "sha256": "0f23e34f8becd33a69e6ba0ed2a129f546fafee572926e878cb9ec4f32abd21a",
+      "reason": "Goat climbs on gate rails, adding an unwritten mechanism."
+    },
+    {
+      "name": "comp_the_goat_at_dinner_0",
+      "sha256": "c7043badb313bba00ca7df006c3b495bfc7cf5c7452e9ef6a370de1a12e12555",
+      "reason": "Unnecessary miniature gate creates an obvious scale error."
+    },
+    {
+      "name": "story_the_purple_bell",
+      "sha256": "bc6b534274af35f6d9ee9b3138c1b1bb1ca3a31608bb160acae12f9508f8c291",
+      "reason": "Unclear gate support and extra tree; use final written bell-tap/ball turn beat."
+    },
+    {
+      "name": "comp_the_purple_bell_0",
+      "sha256": "dea0e9bd8b9d43e6f8ebd44217489e5390b8a3dfd9e5103568fa480d0c60c383",
+      "reason": "Wrong actor Bert holds gate; no clipped bell, rather than June fastening it closed."
+    },
+    {
+      "name": "comp_the_purple_bell_1",
+      "sha256": "f8d29e0d96497967ac18b9c1642cc5e3b6b05a12b95af5964fe663a1e80ceff0",
+      "reason": "Wrong actor Bert hides the bell instead of June."
+    },
+    {
+      "name": "comp_the_purple_bell_2",
+      "sha256": "ad3170e54441b99be705033d806c4b2732d154be12ea96095eccb831cdee6bf0",
+      "reason": "Bert shouts/calls with mouth sound marks instead of bell calling June; detached gate hinge geometry."
+    },
+    {
+      "name": "story_the_goat_at_dinner",
+      "sha256": "3ad5adf5fa5ecc5f09b113510dac6855313bf22ca64594ed4e8f12fea0cb9ee5",
+      "reason": "Grounding corrected but goat face/fur became naturalistic relative to rounded K-2 accepted choices."
+    },
+    {
+      "name": "comp_the_purple_bell_2",
+      "sha256": "5bfe5dba47f2530c6b44225210605c1f31a16825ac7ab7ff1570ab05f16c7deb",
+      "reason": "Bell attached to fixed post rather than moving gate leaf, so pushing gate cannot produce its note."
+    }
+  ]
+}
