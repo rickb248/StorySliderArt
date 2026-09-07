@@ -9,7 +9,7 @@ All 40 masters were created with built-in ImageGen in square format, then resize
 | 03 | Fur for the Crow | crow puts white fur in nest | Bea gets water | Bea gets brush/fur | crow gets fur |
 | 04 | The Big Drop | big and little drops meet | drops merge | little drop dries | Bill wipes drop |
 | 05 | The Goat at Dinner | goat steals apple | apple falls | goat reaches table | goat finds apple in grass |
-| 06 | The Purple Bell | Bert opens gate; bell calls June | hold gate shut | hide bell | call June |
+| 06 | The Purple Bell | June taps clipped bell to start her turn | June clips gate shut | June hides bell | moving gate leaf rings for June |
 | 07 | The Letter Train | Mom hugs Fern after return | Mom hugs Fern | Mom reads to Fern | Mom folds for Fern |
 | 08 | The Next Turn | Fern gives Kirk the sled turn | Fern rides | Fern gives Kirk turn | empty sled stuck |
 | 09 | Her Sister Came Home | Bea meets sister at black bus door | yellow bus | green bus | black bus |

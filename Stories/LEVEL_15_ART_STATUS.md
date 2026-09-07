@@ -20,4 +20,4 @@ All 10 covers and 30 answer cards are 600×600 RGB PNG masters. `Level 15 Art QA
 
 ## Commit state
 
-Coordinator visual QA is complete. Stage and commit only the Level 15 art package, related new character reference directories, and Level 15 QA records; preserve all unrelated dirty files.
+Coordinator visual QA is complete. The accepted Level 15 art package was committed and pushed as `2d0a8290481ebe6d634439ef9c35f0c7fef71532` (`Add Level 15 R16 accepted art package`) and verified on `origin/main`. This follow-up metadata correction is separately scoped; unrelated dirty files remain preserved.
