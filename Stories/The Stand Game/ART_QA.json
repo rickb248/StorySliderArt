@@ -1,0 +1,116 @@
+{
+  "story": "The Stand Game",
+  "source": {
+    "file": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Approved R16/04_the_stand_game.json",
+    "sha256": "ee364879da485f94cb710c3e8279e60ba8d18584e194af5d204ac94c61f7e8d9"
+  },
+  "references": [
+    "Characters/Sam/sam_standing_anime.png",
+    "Characters/Pam/pam_reference_sheet.png",
+    "Characters/Crew/crew_reference_sheet.png",
+    "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/style-anchors.png"
+  ],
+  "accepted": [
+    {
+      "slot": "cover",
+      "path": "Stories/The Stand Game/story_the_stand_game.png",
+      "sha256": "fffa1b1253ca0d86911fdf2688a3b6ba97d92fb65f23611365b0d23ad9eb6008",
+      "dimensions": "600x600",
+      "evidence": "Sam left, Crew middle, Pam right, all seated sharing a giggle on an inset complete mat.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+      }
+    },
+    {
+      "slot": "choice_0",
+      "path": "Stories/The Stand Game/comp_the_stand_game_0.png",
+      "sha256": "2785e3eff1fe178366f1dbef0057b8be75952f4b27000efb1cad76238755bd60",
+      "dimensions": "600x600",
+      "evidence": "Crew visibly sits in the middle following Sam\u2019s open-mouth Stand prompt gesture.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+      }
+    },
+    {
+      "slot": "choice_1",
+      "path": "Stories/The Stand Game/comp_the_stand_game_1.png",
+      "sha256": "2d1d59e7f02eb8adaefe6aa772b595a8b0c259f0a2e495006080fe06df049bed",
+      "dimensions": "600x600",
+      "evidence": "Crew visibly stands at the outer edge after Sam\u2019s Sit-prompt gesture.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+      }
+    },
+    {
+      "slot": "choice_2",
+      "path": "Stories/The Stand Game/comp_the_stand_game_2.png",
+      "sha256": "59772de642824f71a8ad22c6a35b2147ab45ae312f01ea19bd0b0e86acbae500",
+      "dimensions": "600x600",
+      "evidence": "Crew returned to a complete low stone wall while Sam and Pam stand by the empty mat.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+      }
+    }
+  ],
+  "perImageBlockingGates": {
+    "approved_source_lock": "PASS",
+    "semantic_literalness": "PASS",
+    "white_field": "PASS",
+    "calm_palette": "PASS",
+    "focal_scale": "PASS",
+    "no_crop_or_edge_contact": "PASS",
+    "structural_plausibility": "PASS",
+    "character_identity": "PASS",
+    "animal_style": "N/A \u2014 no animal is depicted"
+  },
+  "rejected": [
+    "Rejected/story_the_stand_game_attempt1_saturated_palette.png",
+    "Rejected/comp_the_stand_game_0_attempt1_saturated_palette.png",
+    "Rejected/comp_the_stand_game_1_attempt1_saturated_palette.png",
+    "Rejected/comp_the_stand_game_2_attempt1_saturated_palette.png",
+    "/Users/ricky/.codex/generated_images/01a09959-0ec3-7581-b307-53586e2dff4f/exec-730bd1f9-cefe-4bd3-a493-5740010c7bee.png \u2014 wall crossed canvas edge"
+  ],
+  "nineGateSchema": [
+    "WHITE_FIELD",
+    "NO_SCENIC_BACKDROP",
+    "TIGHT_FOCAL_CLUSTER",
+    "MINIMAL_CUES",
+    "CARD_SCALE_MATCH",
+    "CALM_PALETTE_MATCH",
+    "SEMANTIC_SCALE_MATCH",
+    "STRUCTURAL_PLAUSIBILITY",
+    "ANIMAL_STYLE_MATCH"
+  ]
+}

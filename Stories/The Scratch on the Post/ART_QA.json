@@ -1,0 +1,122 @@
+{
+  "story": "The Scratch on the Post",
+  "source": {
+    "file": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Approved R16/03_the_scratch_on_the_post.json",
+    "sha256": "bbf6614efa63f429266af20248ce5454a7ab8265a62be1263fa8ff465b6d81a4"
+  },
+  "references": [
+    "/Users/ricky/workspace/StorySliderArt/Characters/Rose/rose_reference_sheet.png",
+    "/Users/ricky/workspace/StorySliderArt/Characters/Crew/crew_reference_sheet.png",
+    "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/style-anchors.png"
+  ],
+  "accepted": [
+    {
+      "slot": "cover",
+      "path": "Stories/The Scratch on the Post/story_the_scratch_on_the_post.png",
+      "sha256": "c8961dc6e77336b71d7a8b1cf6aead881ea0bfd624bacf1d727a2b8d184c0814",
+      "dimensions": "600x600",
+      "evidence": "Black cat is visibly scratching a fully supported wood post while Rose and Crew watch; compact white-field vignette.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS \u2014 rounded child-friendly black cat, no realistic-animal treatment"
+      }
+    },
+    {
+      "slot": "choice_0",
+      "path": "Stories/The Scratch on the Post/comp_the_scratch_on_the_post_0.png",
+      "sha256": "a57347249b994e72e3fb5fd12e002fecb28c1623d1e888b1932f845d7c9f4c2b",
+      "dimensions": "600x600",
+      "evidence": "One black cat runs from a grass patch toward the post; Rose and Crew make the literal run-test action.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS \u2014 rounded child-friendly black cat, no realistic-animal treatment"
+      }
+    },
+    {
+      "slot": "choice_1",
+      "path": "Stories/The Scratch on the Post/comp_the_scratch_on_the_post_1.png",
+      "sha256": "0dd729131575503c37884dcf11bae48bdc53e8c3597b49e4a0e885765050580c",
+      "dimensions": "600x600",
+      "evidence": "Exactly one Rose and one Crew; Rose sets a clearly hand-sized muted red ball on the flat top of one fully based wood post.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS \u2014 rounded child-friendly black cat, no realistic-animal treatment"
+      }
+    },
+    {
+      "slot": "choice_2",
+      "path": "Stories/The Scratch on the Post/comp_the_scratch_on_the_post_2.png",
+      "sha256": "ec36fa1e510ab5358133552e98bcb09f83b9784f0bc118030b93430911d30246",
+      "dimensions": "600x600",
+      "evidence": "Rose and Crew inspect a new scratch at the post after the red-ball test.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS \u2014 rounded child-friendly black cat, no realistic-animal treatment"
+      }
+    }
+  ],
+  "blocking_gates": {
+    "approved_source_lock": "PASS",
+    "semantic_literalness": "PASS",
+    "white_field": "PASS",
+    "calm_palette": "PASS",
+    "focal_scale": "PASS",
+    "no_crop_or_edge_contact": "PASS",
+    "structural_plausibility": "PASS",
+    "character_identity": "PASS",
+    "animal_style": "PASS"
+  },
+  "rejected": [
+    {
+      "path": "Stories/The Scratch on the Post/Rejected/comp_the_scratch_on_the_post_1_attempt1_duplicate_montage.png",
+      "reason": "Multiple repeated child figures created a montage instead of one literal ball-on-post action."
+    },
+    {
+      "path": "Stories/The Scratch on the Post/Rejected/comp_the_scratch_on_the_post_1_attempt2_tiny_ball.png",
+      "reason": "Crew handled a ball too small to match the red handball in the test choice."
+    },
+    {
+      "path": "Stories/The Scratch on the Post/Rejected/comp_the_scratch_on_the_post_1_attempt3_oversized_ball.png",
+      "reason": "Rose handled a ball too large to read as the same handball."
+    }
+  ],
+  "nineGateSchema": [
+    "WHITE_FIELD",
+    "NO_SCENIC_BACKDROP",
+    "TIGHT_FOCAL_CLUSTER",
+    "MINIMAL_CUES",
+    "CARD_SCALE_MATCH",
+    "CALM_PALETTE_MATCH",
+    "SEMANTIC_SCALE_MATCH",
+    "STRUCTURAL_PLAUSIBILITY",
+    "ANIMAL_STYLE_MATCH"
+  ]
+}

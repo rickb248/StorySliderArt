@@ -1,0 +1,28 @@
+{
+  "story": "The Tooth on the Toast",
+  "sourceSha256": "d504882c38ca968192304b0f0684ed787479c639eb709241e40ae858bb4c6848",
+  "dimensions": "600x600 PNG",
+  "accepted": {
+    "story_the_tooth_on_the_toast.png": "da7ddf69d55ea05a7a8a30717bd1962cbc1a6529caaf405709839952c08da742",
+    "comp_the_tooth_on_the_toast_0.png": "379fd4dfdff5eeed49e14c2bbcfc6265bd9a62873072a3eacd199cd52ff1f2d4",
+    "comp_the_tooth_on_the_toast_1.png": "79ee3b979cb2c6a1bc8bb53998145adcdfe837ebc987f172819e4d174a6bda4c",
+    "comp_the_tooth_on_the_toast_2.png": "36ea9a2f9c292fa165ce316b611c441a3aa8d5723e25203f2e85337a17fa90af"
+  },
+  "gates": {
+    "WHITE_FIELD": "PASS",
+    "NO_SCENIC_BACKDROP": "PASS",
+    "TIGHT_FOCAL_CLUSTER": "PASS",
+    "MINIMAL_CUES": "PASS",
+    "CARD_SCALE_MATCH": "PASS",
+    "CALM_PALETTE_MATCH": "PASS",
+    "SEMANTIC_SCALE_MATCH": "PASS",
+    "STRUCTURAL_PLAUSIBILITY": "PASS",
+    "ANIMAL_STYLE_MATCH": "PASS"
+  },
+  "evidence": "Paired cover gaps readable; answer set isolates tooth point, toast gap, mouth gap at card scale.",
+  "source": "Reference/StoryDrafts/Level 17/Approved R16/10_the_tooth_on_the_toast.json",
+  "references": [
+    "Characters/Lou/lou_reference_sheet.png",
+    "Characters/LouDad/lou_dad_reference_sheet.png"
+  ]
+}

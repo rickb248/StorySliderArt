@@ -1,0 +1,11 @@
+{
+  "story": "The Zoo on the Mat",
+  "source": "Reference/StoryDrafts/Level 17/Approved R16/08_the_zoo_on_the_mat.json",
+  "sourceSha256": "a50f725927f05c6a2156f02094cf9a5a89a68d894e5b89bb9586d1bb99dcf872",
+  "references": ["Characters/Ben/ben_reference_sheet.png", "Characters/Rose/rose_reference_sheet.png"],
+  "iteration": 2,
+  "accepted": {"story_the_zoo_on_the_mat.png":"9d14d999495df63ba04e432b643d538fc913bb67137ff1e174000b6704c39fe7","comp_the_zoo_on_the_mat_0.png":"5568e706f418d67d75bf2bfa81edb5df56e25abd8588b7fcc5250ad4addfb1c7","comp_the_zoo_on_the_mat_1.png":"e8439ef7f910a57c9207a70aaef13f4cdabaac15649c9e60d6be34dc516c9002","comp_the_zoo_on_the_mat_2.png":"d063e496a95dedad0df3a5755e7c90c895e9b9ed9108fd2b9bc2af08b733ae69"},
+  "dimensions": "600x600 PNG",
+  "gates": {"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS"},
+  "evidence": "Every card has connected white edges, complete margins, and a single centered cluster. The cover and choice 1 show the thin mat physically held at both ends and toys visibly child-prop scale. The choices literally show hawk-on-box, transport, and rain respectively; the toy animals are rounded, small, and inanimate with no faces. No porch architecture or scenic lawn was used."
+}

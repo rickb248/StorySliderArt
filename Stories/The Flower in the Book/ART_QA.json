@@ -1,0 +1,117 @@
+{
+  "story": "The Flower in the Book",
+  "source": {
+    "file": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Approved R16/02_the_flower_in_the_book.json",
+    "sha256": "ad3303847fd634b499df6187989afd3039a5957a5571bdffd2700b090585843e"
+  },
+  "references": [
+    "Characters/Dawn/dawn_reference_sheet.png",
+    "Characters/Jo/jo_reference_sheet.png",
+    "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/style-anchors.png"
+  ],
+  "accepted": [
+    {
+      "slot": "cover",
+      "path": "Stories/The Flower in the Book/story_the_flower_in_the_book.png",
+      "generation": "/Users/ricky/.codex/generated_images/01a09959-0ec3-7581-b307-53586e2dff4f/exec-d50e34ae-60f4-4383-ae12-b593cd38f764.png",
+      "sha256": "dc6637b05c01e69b1bd6be7f7ead137aeceee690e2cddb8e55cc4342c0f20521",
+      "dimensions": "600x600",
+      "evidence": "Dawn holds the flower drawing beside the rooted bending yellow flower; Jo sits on a two-legged bench.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+      }
+    },
+    {
+      "slot": "choice_0",
+      "path": "Stories/The Flower in the Book/comp_the_flower_in_the_book_0.png",
+      "generation": "/Users/ricky/.codex/generated_images/01a09959-0ec3-7581-b307-53586e2dff4f/exec-9225c29b-18f4-4937-96d2-eb7a021438f2.png",
+      "sha256": "691aa178b17bfb85d0fb4b96a413b0aaf0d1d896387b39500243ff64d2c6c2d9",
+      "dimensions": "600x600",
+      "evidence": "Jo places one yellow flower into a clear water glass on a fully supported two-legged bench.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+      }
+    },
+    {
+      "slot": "choice_1",
+      "path": "Stories/The Flower in the Book/comp_the_flower_in_the_book_1.png",
+      "generation": "/Users/ricky/.codex/generated_images/01a09959-0ec3-7581-b307-53586e2dff4f/exec-64a05015-3001-42ce-972a-853febaf38c6.png",
+      "sha256": "eef3a7a59812e4f152b103987f8f2b1ade1dc6252a94727b9e78bb869747e534",
+      "dimensions": "600x600",
+      "evidence": "Dawn brings her flower drawing to sit with Jo.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+      }
+    },
+    {
+      "slot": "choice_2",
+      "path": "Stories/The Flower in the Book/comp_the_flower_in_the_book_2.png",
+      "generation": "/Users/ricky/.codex/generated_images/01a09959-0ec3-7581-b307-53586e2dff4f/exec-c03ba0dd-a109-4181-b60b-e69626667e39.png",
+      "sha256": "1abfd6feca8656c9539ee95ed1d470a6370adf24685c66d593f85dfc9b9cb616",
+      "dimensions": "600x600",
+      "evidence": "Dawn holds her drawing book close alone; no glass, flower, or bench distractor.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+      }
+    }
+  ],
+  "perImageBlockingGates": {
+    "approved_source_lock": "PASS",
+    "semantic_literalness": "PASS",
+    "white_field": "PASS",
+    "calm_palette": "PASS",
+    "focal_scale": "PASS",
+    "no_crop_or_edge_contact": "PASS",
+    "structural_plausibility": "PASS",
+    "character_identity": "PASS",
+    "animal_style": "N/A \u2014 no animal is depicted"
+  },
+  "rejected": [
+    "Rejected/story_the_flower_in_the_book_attempt1_wrong_holder.png",
+    "Rejected/comp_the_flower_in_the_book_0_attempt1_unclear_support.png",
+    "Rejected/comp_the_flower_in_the_book_2_attempt1_unneeded_glass.png"
+  ],
+  "nineGateSchema": [
+    "WHITE_FIELD",
+    "NO_SCENIC_BACKDROP",
+    "TIGHT_FOCAL_CLUSTER",
+    "MINIMAL_CUES",
+    "CARD_SCALE_MATCH",
+    "CALM_PALETTE_MATCH",
+    "SEMANTIC_SCALE_MATCH",
+    "STRUCTURAL_PLAUSIBILITY",
+    "ANIMAL_STYLE_MATCH"
+  ]
+}

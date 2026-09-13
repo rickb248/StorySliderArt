@@ -1,0 +1,27 @@
+{
+  "story": "The Goose and the Little Boat",
+  "sourceSha256": "a1c1ed66a3485e5cb8bbc34e52024febcea1e8f4d1acd97f5cdef3a178e4f3eb",
+  "dimensions": "600x600 PNG",
+  "accepted": {
+    "story_the_goose_and_the_little_boat.png": "d938e98080d17b24d8f65a28adfe7bb88bbd3d657a35e0185bdd6993848c90a8",
+    "comp_the_goose_and_the_little_boat_0.png": "f303e7fd2137b6ea464ffc1ad3cf9e42ee0344b8f205ed1a99919e728addba1f",
+    "comp_the_goose_and_the_little_boat_1.png": "7d01371e4d9bf8831a4ec3d4e1ee1a2b57332dd63ade9b917dd1811e2ecdbb21",
+    "comp_the_goose_and_the_little_boat_2.png": "539c4e25913068f38c8c65fc5af0796c03fe6161901fd3d9dab1cbaedc78c5fb"
+  },
+  "gates": {
+    "WHITE_FIELD": "PASS",
+    "NO_SCENIC_BACKDROP": "PASS",
+    "TIGHT_FOCAL_CLUSTER": "PASS",
+    "MINIMAL_CUES": "PASS",
+    "CARD_SCALE_MATCH": "PASS",
+    "CALM_PALETTE_MATCH": "PASS",
+    "SEMANTIC_SCALE_MATCH": "PASS",
+    "STRUCTURAL_PLAUSIBILITY": "PASS",
+    "ANIMAL_STYLE_MATCH": "PASS"
+  },
+  "evidence": "Drew shore-supported; compact water; rounded goose landing wave; literal equal-answer set.",
+  "source": "Reference/StoryDrafts/Level 17/Approved R16/09_the_goose_and_the_little_boat.json",
+  "references": [
+    "Characters/Drew/drew_reference_sheet.png"
+  ]
+}

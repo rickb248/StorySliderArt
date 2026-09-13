@@ -1,0 +1,1476 @@
+{
+  "level": 17,
+  "approvedRevision": "Level 17 \u2014 Review R16 \u2014 Active; live user edits through 2026-09-12",
+  "sourceLock": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/SOURCE_LOCK.json",
+  "semanticSha256": "f66090673a123311c10628212bd7615a7ea11704e0ea649e33352b06df0ceb5a",
+  "acceptedCount": 40,
+  "expectedCount": 40,
+  "dualVisualQA": "PASS",
+  "stories": [
+    {
+      "slot": 1,
+      "title": "The Moon by Day",
+      "source": "Reference/StoryDrafts/Level 17/Approved R16/01_the_moon_by_day.json",
+      "sourceSha256": "e82d67e4e433ff4c0318a916b17e1766dfb8a8ab24f98e05bea7577ad652a08e",
+      "references": [
+        "Characters/Dawn/dawn_reference_sheet.png",
+        "Characters/Drew/drew_reference_sheet.png",
+        "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/style-anchors.png"
+      ],
+      "artRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Moon by Day/ART_QA.json",
+      "promptRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Moon by Day/PROMPTS.md",
+      "assets": [
+        {
+          "asset": "story_the_moon_by_day",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Moon by Day/story_the_moon_by_day.png",
+          "sha256": "efe6ca26465ffeceaac94e98084086a404dc154b250c49d1c8c24884105ce2b7",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Dawn and Drew share a delighted upward gaze while Drew holds a fully contained muted yellow kite; round white moon/cloud explain the discovery. Compact overlap, contact shadow, complete margins, stable identity and calm color at card size. No constructed support or animal applies.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_moon_by_day.png"
+        },
+        {
+          "asset": "comp_the_moon_by_day_0",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Moon by Day/comp_the_moon_by_day_0.png",
+          "sha256": "1e04b7605151a21c9107cf306df36f270d13a9da5273ca7fb287774ade3b9cd6",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Dawn points at the moon while Drew watches her direction; both full figures share a shadow. Literal request-for-pointing answer is legible; no setting beyond moon/cloud, no text or correctness mark.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_moon_by_day.png"
+        },
+        {
+          "asset": "comp_the_moon_by_day_1",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Moon by Day/comp_the_moon_by_day_1.png",
+          "sha256": "29abe6e86260f4fa2fbbfd5a809d5f6df8ab1ffe00e9ab804088973035f8fcbf",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Repaired image removes the cropped kite/string. Drew stands with relaxed hands looking at the cloud overlapping the round white moon. Full figure and all props fit inside white margins; clean calm shading, stable identity, literal cloud-watching answer and comparable card-scale polish pass.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_moon_by_day.png"
+        },
+        {
+          "asset": "comp_the_moon_by_day_2",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Moon by Day/comp_the_moon_by_day_2.png",
+          "sha256": "d2ae25b54402a77a5933ed5ba82eb2c6a94b8358526c8f77afeb5a0690a35f00",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Drew sits patiently with a small crescent/two star cues and a small ground patch. Distinct waiting-at-night answer remains on white, softly colored and equally polished, with complete figure and clear pose.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_moon_by_day.png"
+        }
+      ]
+    },
+    {
+      "slot": 2,
+      "title": "The Flower in the Book",
+      "source": "Reference/StoryDrafts/Level 17/Approved R16/02_the_flower_in_the_book.json",
+      "sourceSha256": "ad3303847fd634b499df6187989afd3039a5957a5571bdffd2700b090585843e",
+      "references": [
+        "Characters/Dawn/dawn_reference_sheet.png",
+        "Characters/Jo/jo_reference_sheet.png",
+        "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/style-anchors.png"
+      ],
+      "artRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Flower in the Book/ART_QA.json",
+      "promptRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Flower in the Book/PROMPTS.md",
+      "assets": [
+        {
+          "asset": "story_the_flower_in_the_book",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Flower in the Book/story_the_flower_in_the_book.png",
+          "sha256": "dc6637b05c01e69b1bd6be7f7ead137aeceee690e2cddb8e55cc4342c0f20521",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Repaired Dawn holds and points to her flower drawing beside a rooted bending yellow flower while Jo listens seated on a clearly supported small bench. Warm expression communicates sharing; two essential support cues, complete white margins and calm palette at card scale.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_flower_in_the_book.png"
+        },
+        {
+          "asset": "comp_the_flower_in_the_book_0",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Flower in the Book/comp_the_flower_in_the_book_0.png",
+          "sha256": "691aa178b17bfb85d0fb4b96a413b0aaf0d1d896387b39500243ff64d2c6c2d9",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Repaired Jo places yellow flower into waterglass on small bench with both supports fully visible. Natural contact and semantic yellow flower, calm plum/earth colors, contained clean vignette.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_flower_in_the_book.png"
+        },
+        {
+          "asset": "comp_the_flower_in_the_book_1",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Flower in the Book/comp_the_flower_in_the_book_1.png",
+          "sha256": "eef3a7a59812e4f152b103987f8f2b1ade1dc6252a94727b9e78bb869747e534",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Dawn holds her open flower drawing while Jo sits beside her holding small yellow flower, on a compact visibly supported bench. Correct ownership and warm social invitation, small props, muted palette and all white margins; readable against anchors at full/card size.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_flower_in_the_book.png"
+        },
+        {
+          "asset": "comp_the_flower_in_the_book_2",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Flower in the Book/comp_the_flower_in_the_book_2.png",
+          "sha256": "1abfd6feca8656c9539ee95ed1d470a6370adf24685c66d593f85dfc9b9cb616",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Repaired Dawn hugs book close with hesitant averted expression; removed misplaced flowerglass. Literal refusal answer, single complete figure and clear emotion at card size; whitefield/calm palette.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_flower_in_the_book.png"
+        }
+      ]
+    },
+    {
+      "slot": 3,
+      "title": "The Scratch on the Post",
+      "source": "Reference/StoryDrafts/Level 17/Approved R16/03_the_scratch_on_the_post.json",
+      "sourceSha256": "bbf6614efa63f429266af20248ce5454a7ab8265a62be1263fa8ff465b6d81a4",
+      "references": [
+        "/Users/ricky/workspace/StorySliderArt/Characters/Rose/rose_reference_sheet.png",
+        "/Users/ricky/workspace/StorySliderArt/Characters/Crew/crew_reference_sheet.png",
+        "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/style-anchors.png"
+      ],
+      "artRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Scratch on the Post/ART_QA.json",
+      "promptRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Scratch on the Post/PROMPTS.md",
+      "assets": [
+        {
+          "asset": "story_the_scratch_on_the_post",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Scratch on the Post/story_the_scratch_on_the_post.png",
+          "sha256": "c8961dc6e77336b71d7a8b1cf6aead881ea0bfd624bacf1d727a2b8d184c0814",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 rounded child-friendly black cat, no realistic-animal treatment"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Rose and Crew keep still watching a stylized black cat climb and scratch one complete wooden post. Expressive faces and paw contact convey the reveal. White surrounds all edges, muted coral/rust match identities; readable alongside anchors at card size.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_scratch_on_the_post.png"
+        },
+        {
+          "asset": "comp_the_scratch_on_the_post_0",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Scratch on the Post/comp_the_scratch_on_the_post_0.png",
+          "sha256": "a57347249b994e72e3fb5fd12e002fecb28c1623d1e888b1932f845d7c9f4c2b",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 rounded child-friendly black cat, no realistic-animal treatment"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Rose and Crew gesture as black cat runs from a contained grass tuft near one post. Literal distractor outcome, natural feline proportions, one tight cluster with complete margins.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_scratch_on_the_post.png"
+        },
+        {
+          "asset": "comp_the_scratch_on_the_post_1",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Scratch on the Post/comp_the_scratch_on_the_post_1.png",
+          "sha256": "0dd729131575503c37884dcf11bae48bdc53e8c3597b49e4a0e885765050580c",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 rounded child-friendly black cat, no realistic-animal treatment"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Repaired: Rose uses both hands to place muted red handball on a grounded post while Crew watches. Handball is plausible relative to hands and prior choice. Single child pair, complete margins, calm palette and clear card-size action.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_scratch_on_the_post.png"
+        },
+        {
+          "asset": "comp_the_scratch_on_the_post_2",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Scratch on the Post/comp_the_scratch_on_the_post_2.png",
+          "sha256": "ec36fa1e510ab5358133552e98bcb09f83b9784f0bc118030b93430911d30246",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 rounded child-friendly black cat, no realistic-animal treatment"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Rose points closely at scratch while Crew holds the muted red ball; shared inspecting gaze clearly depicts checking for new scratch. Simple supported post, calm colors, large focal cluster, all props contained.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_scratch_on_the_post.png"
+        }
+      ]
+    },
+    {
+      "slot": 4,
+      "title": "The Stand Game",
+      "source": "Reference/StoryDrafts/Level 17/Approved R16/04_the_stand_game.json",
+      "sourceSha256": "ee364879da485f94cb710c3e8279e60ba8d18584e194af5d204ac94c61f7e8d9",
+      "references": [
+        "Characters/Sam/sam_standing_anime.png",
+        "Characters/Pam/pam_reference_sheet.png",
+        "Characters/Crew/crew_reference_sheet.png",
+        "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/style-anchors.png"
+      ],
+      "artRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Stand Game/ART_QA.json",
+      "promptRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Stand Game/PROMPTS.md",
+      "assets": [
+        {
+          "asset": "story_the_stand_game",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Stand Game/story_the_stand_game.png",
+          "sha256": "fffa1b1253ca0d86911fdf2688a3b6ba97d92fb65f23611365b0d23ad9eb6008",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Repaired muted mat stripes, softened denim hoodie and brick shoes reduce competing primaries. Sam left, Crew middle, Pam right seated giggling, compact shared mat with white edge margin. Inviting shared laughter and correct roles readable at card size.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_stand_game.png"
+        },
+        {
+          "asset": "comp_the_stand_game_0",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Stand Game/comp_the_stand_game_0.png",
+          "sha256": "2785e3eff1fe178366f1dbef0057b8be75952f4b27000efb1cad76238755bd60",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Crew sits middle while Sam gestures the call and Pam attends; low kneeling companions make clear seat outcome. Softened colors, complete contained mat and characters, no background scenery.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_stand_game.png"
+        },
+        {
+          "asset": "comp_the_stand_game_1",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Stand Game/comp_the_stand_game_1.png",
+          "sha256": "2d1d59e7f02eb8adaefe6aa772b595a8b0c259f0a2e495006080fe06df049bed",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Crew stands on mat edge facing Sam calling, Pam watching. Literal opposite-rule distractor, complete figures and striped mat, muted supporting colors and white margins; action readable at card scale.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_stand_game.png"
+        },
+        {
+          "asset": "comp_the_stand_game_2",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Stand Game/comp_the_stand_game_2.png",
+          "sha256": "59772de642824f71a8ad22c6a35b2147ab45ae312f01ea19bd0b0e86acbae500",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Crew sits back on complete low stone wall fragment beside game mat, companions look toward him. Conventional visibly grounded wall, two essential cues only, all edges contained and clear distinct return-to-wall outcome.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_stand_game.png"
+        }
+      ]
+    },
+    {
+      "slot": 5,
+      "title": "The Book in the Tent",
+      "source": "Reference/StoryDrafts/Level 17/Approved R16/05_the_book_in_the_tent.json",
+      "sourceSha256": "f31b685904a6232b665ff53ff5db8de7169d9151be4a44cc2d580ef369315401",
+      "references": [
+        "/Users/ricky/workspace/StorySliderArt/Characters/Bea/bea_reference_sheet.png",
+        "/Users/ricky/workspace/StorySliderArt/Characters/BeaSister/bea_sister_reference_sheet.png"
+      ],
+      "artRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Book in the Tent/ART_QA.json",
+      "promptRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Book in the Tent/PROMPTS.md",
+      "assets": [
+        {
+          "asset": "story_the_book_in_the_tent",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Book in the Tent/story_the_book_in_the_tent.png",
+          "sha256": "d261fd08d2ecca6be695f0f480556986a44968be128fa04206b99a5329b43736",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 no animal present"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Bea holds closed book and looks toward alert reclining sister reaching to take the next turn; single pillow supports sister. Canonical clothing, warm expressions, generous white margins. Clear at card scale beside four anchors.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_book_in_the_tent.png"
+        },
+        {
+          "asset": "comp_the_book_in_the_tent_0",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Book in the Tent/comp_the_book_in_the_tent_0.png",
+          "sha256": "c60d7528c9f1aa586309843589d39de0d0d0905ec693917d6db4dd19ccc2f29f",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 no animal present"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Consistent inner-story girl with flower crosses low wooden bridge; feet contact planks and visible posts support rails, small stream patch only. Calm blue and earth palette, complete margins.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_book_in_the_tent.png"
+        },
+        {
+          "asset": "comp_the_book_in_the_tent_1",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Book in the Tent/comp_the_book_in_the_tent_1.png",
+          "sha256": "1afffe5c1d2fadccc6583190bfea7bcaca478426166c34a851590c1984ba467a",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 no animal present"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Same girl turns toward two contained trees while holding flower, clearly depicting return to woods without a landscape. All forms contained, muted palette, focal pose readable at card scale.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_book_in_the_tent.png"
+        },
+        {
+          "asset": "comp_the_book_in_the_tent_2",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Book in the Tent/comp_the_book_in_the_tent_2.png",
+          "sha256": "cb3dda73ae254a61aa8da4901cddcd69fdb603d55a2c44365059b7da26609a4a",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 no animal present"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Same girl releases flower toward a small isolated stream cue; empty extended hand and downward gaze make the falling flower literal. No horizon, edge contact or secondary scenery; matches calm anchored style.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_book_in_the_tent.png"
+        }
+      ]
+    },
+    {
+      "slot": 6,
+      "title": "The Ball of Wool Grew",
+      "source": "Reference/StoryDrafts/Level 17/Approved R16/06_the_ball_of_wool_grew.json",
+      "sourceSha256": "d1346b09e47742e77399e26cea3b3fc6512e57008e4db5e0e790f74ddfca8c28",
+      "references": [
+        "/Users/ricky/workspace/StorySliderArt/Characters/Jo/jo_reference_sheet.png",
+        "/Users/ricky/workspace/StorySliderArt/Characters/Skip/skip_reference_sheet.png"
+      ],
+      "artRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Ball of Wool Grew/ART_QA.json",
+      "promptRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Ball of Wool Grew/PROMPTS.md",
+      "assets": [
+        {
+          "asset": "story_the_ball_of_wool_grew",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Ball of Wool Grew/story_the_ball_of_wool_grew.png",
+          "sha256": "8c978452b5696f7a7443915ffa26ef8a9cfbde8deb42fd144f834a0b06266f06",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 animal is a flat ink drawing on paper"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Repaired black ink cat with raised paw and brown wool on flat paper; Jo points while Skip shares delighted gaze. Entire small supported table is inset with white margins. Calm plum/blue clothing, focal drawing and shared pleasure readable at card size.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_ball_of_wool_grew.png"
+        },
+        {
+          "asset": "comp_the_ball_of_wool_grew_0",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Ball of Wool Grew/comp_the_ball_of_wool_grew_0.png",
+          "sha256": "245d6786fde125e6482f51ff1d9e7348bea07d86c83092af1a9b734ef6958af3",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 animal is a flat ink drawing on paper"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Jo sets capped pen down and steps away from drawing on a complete small four-leg table. Drawn cat/wool stay flat on paper; cream/plum identity and muted colors, no room or scenic backdrop. Action remains clear at card size.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_ball_of_wool_grew.png"
+        },
+        {
+          "asset": "comp_the_ball_of_wool_grew_1",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Ball of Wool Grew/comp_the_ball_of_wool_grew_1.png",
+          "sha256": "ab9be8190960183b94f46ff731edb8d0e26b8403a3d1c28a38186c0bc6689543",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 animal is a flat ink drawing on paper"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Final repaired choice: concerned Jo gazes at flat black-ink cat beside brown cat-sized wool drawing; outer loop reaches raised paw/flank and capped pen is set aside, communicating why she stopped. Complete inset tabletop, white margins, calm colors, no real animal/yarn or magic. Clear at card scale and equal polish to other choices.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_ball_of_wool_grew.png"
+        },
+        {
+          "asset": "comp_the_ball_of_wool_grew_2",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Ball of Wool Grew/comp_the_ball_of_wool_grew_2.png",
+          "sha256": "6e118627bc894eb8c9678464ba6a381df1f9a585935a473412bf6a005c00a787",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 animal is a flat ink drawing on paper"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Skip draws the black cat with raised paw using black pen on flat white paper. One inset tabletop fragment anchors focal action, complete white margins and calm blue identity, no magic or real cat.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_ball_of_wool_grew.png"
+        }
+      ]
+    },
+    {
+      "slot": 7,
+      "title": "The Pug and the Boot",
+      "source": "Reference/StoryDrafts/Level 17/Approved R16/07_the_pug_and_the_boot.json",
+      "sourceSha256": "0b4e331b67dc63e707988f736986e63c943b440176871ddb82fa72d205b3488e",
+      "references": [
+        "/Users/ricky/workspace/StorySliderArt/Characters/Ben/ben_reference_sheet.png",
+        "/Users/ricky/workspace/StorySliderArt/Characters/BenPug/ben_pug_reference_sheet.png"
+      ],
+      "artRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Pug and the Boot/ART_QA.json",
+      "promptRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Pug and the Boot/PROMPTS.md",
+      "assets": [
+        {
+          "asset": "story_the_pug_and_the_boot",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Pug and the Boot/story_the_pug_and_the_boot.png",
+          "sha256": "6fa72820539e42756ef7c8ffb3cc75f940be167de57afaff58efcc2424244197",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 established fawn pug identity"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Repaired fawn pug stands with all three weight-bearing paws visibly on shared ground, one forepaw on old boot as Ben reaches for flat chewtoy inside. Small porch step behind supports no floating feet. Muted butter/slate/earth palette, natural pet style and scale, complete margins and inviting shared attention at card size.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_pug_and_the_boot.png"
+        },
+        {
+          "asset": "comp_the_pug_and_the_boot_0",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Pug and the Boot/comp_the_pug_and_the_boot_0.png",
+          "sha256": "0d1a236ed44c3b52abda37f98a8fdd093c702e8a606518576154d4a6facd157d",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 established fawn pug identity"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Natural fawn pug walks away leaving flat chewtoy on isolated little grass patch. Toy and animal scale plausible, complete white margins and gentle earth palette; literal leave-on-lawn answer clear at card size.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_pug_and_the_boot.png"
+        },
+        {
+          "asset": "comp_the_pug_and_the_boot_1",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Pug and the Boot/comp_the_pug_and_the_boot_1.png",
+          "sha256": "c34bbca877cb29a9fd0ffe5ffd83761c8cdb6e4cfdea561220f6bcf7bbc24dd5",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 established fawn pug identity"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Fawn pug has put flat chewtoy by kneeling Ben on grass; Ben extends empty hand beside toy. Muted buttertee/slatedenim, canonical blackmuzzle/foldedears/curlytail; tight grounded action with one grasscue.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_pug_and_the_boot.png"
+        },
+        {
+          "asset": "comp_the_pug_and_the_boot_2",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Pug and the Boot/comp_the_pug_and_the_boot_2.png",
+          "sha256": "faaa9c2e65d727225dfbada684a92a458422d312a711017f2098c690a8ec3c73",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS \u2014 established fawn pug identity"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Pug lowers flat chewtoy from mouth into open old boot, forepaw contacting rim; little porch-step fragment beside boot. Complete contained objects with visible support and white margins, calm earthcolors, highly readable literal destination answer.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_pug_and_the_boot.png"
+        }
+      ]
+    },
+    {
+      "slot": 8,
+      "title": "The Zoo on the Mat",
+      "source": "Reference/StoryDrafts/Level 17/Approved R16/08_the_zoo_on_the_mat.json",
+      "sourceSha256": "a50f725927f05c6a2156f02094cf9a5a89a68d894e5b89bb9586d1bb99dcf872",
+      "references": [
+        "Characters/Ben/ben_reference_sheet.png",
+        "Characters/Rose/rose_reference_sheet.png"
+      ],
+      "artRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Zoo on the Mat/ART_QA.json",
+      "promptRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Zoo on the Mat/PROMPTS.md",
+      "assets": [
+        {
+          "asset": "story_the_zoo_on_the_mat",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Zoo on the Mat/story_the_zoo_on_the_mat.png",
+          "sha256": "9d14d999495df63ba04e432b643d538fc913bb67137ff1e174000b6704c39fe7",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Repaired butteryellow tee and muted denim create calmer palette; Ben and Rose walk carrying light thin mat with fawn, hawk, box, elephant wobbling. All toy feet contact mat, plausible hand grips, white margins, clear movement/anticipation at card size.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_zoo_on_the_mat.png"
+        },
+        {
+          "asset": "comp_the_zoo_on_the_mat_0",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Zoo on the Mat/comp_the_zoo_on_the_mat_0.png",
+          "sha256": "5568e706f418d67d75bf2bfa81edb5df56e25abd8588b7fcc5250ad4addfb1c7",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Ben places little stylized toy hawk on box supported in Rose hands. Single tight cluster, no scenery; repaired muted clothing and complete margins.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_zoo_on_the_mat.png"
+        },
+        {
+          "asset": "comp_the_zoo_on_the_mat_1",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Zoo on the Mat/comp_the_zoo_on_the_mat_1.png",
+          "sha256": "e8439ef7f910a57c9207a70aaef13f4cdabaac15649c9e60d6be34dc516c9002",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Pair visibly carries toy zoo together with fawn/hawk/box/elephant on sagging thin mat, matching source purpose. Small scale toys and natural grips; repaired palette aligns with anchors.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_zoo_on_the_mat.png"
+        },
+        {
+          "asset": "comp_the_zoo_on_the_mat_2",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Zoo on the Mat/comp_the_zoo_on_the_mat_2.png",
+          "sha256": "d063e496a95dedad0df3a5755e7c90c895e9b9ed9108fd2b9bc2af08b733ae69",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Same four toys now carried beneath three small muted raindrops; answer remains clearly distinct and literal. Repaired palette, consistent character and toy identities, no room/landscape; grounded and readable at card size.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_zoo_on_the_mat.png"
+        }
+      ]
+    },
+    {
+      "slot": 9,
+      "title": "The Goose and the Little Boat",
+      "source": "Reference/StoryDrafts/Level 17/Approved R16/09_the_goose_and_the_little_boat.json",
+      "sourceSha256": "a1c1ed66a3485e5cb8bbc34e52024febcea1e8f4d1acd97f5cdef3a178e4f3eb",
+      "references": [
+        "Characters/Drew/drew_reference_sheet.png"
+      ],
+      "artRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Goose and the Little Boat/ART_QA.json",
+      "promptRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Goose and the Little Boat/PROMPTS.md",
+      "assets": [
+        {
+          "asset": "story_the_goose_and_the_little_boat",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Goose and the Little Boat/story_the_goose_and_the_little_boat.png",
+          "sha256": "d938e98080d17b24d8f65a28adfe7bb88bbd3d657a35e0185bdd6993848c90a8",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Repaired Drew stands on tiny dry shore holding cord as goose lands with partly submerged feet and small splash beside toyboat. Wave/shore two essential cues, complete margins, stylized bird and plausible toy scale, calm palette and anticipatory gaze readable at card size.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_goose_and_the_little_boat.png"
+        },
+        {
+          "asset": "comp_the_goose_and_the_little_boat_0",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Goose and the Little Boat/comp_the_goose_and_the_little_boat_0.png",
+          "sha256": "f303e7fd2137b6ea464ffc1ad3cf9e42ee0344b8f205ed1a99919e728addba1f",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Drew kneels beside small water cue holding tether as small stylized fish noses toyboat, literal fish-push distractor. Clothing identity oatmeal/slate/olive muted, child/toy/fish scale plausible, complete white margins and clear card-size contact.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_goose_and_the_little_boat.png"
+        },
+        {
+          "asset": "comp_the_goose_and_the_little_boat_1",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Goose and the Little Boat/comp_the_goose_and_the_little_boat_1.png",
+          "sha256": "7d01371e4d9bf8831a4ec3d4e1ee1a2b57332dd63ade9b917dd1811e2ecdbb21",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Drew kneels with finger contacting toyboat to push again, other hand retains cord. White field and one watercue, natural supported pose, calm palette, literal action readable at card scale.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_goose_and_the_little_boat.png"
+        },
+        {
+          "asset": "comp_the_goose_and_the_little_boat_2",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Goose and the Little Boat/comp_the_goose_and_the_little_boat_2.png",
+          "sha256": "539c4e25913068f38c8c65fc5af0796c03fe6161901fd3d9dab1cbaedc78c5fb",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Repaired wave runs from goose to little tethered boat while Drew stays clearly supported on dry shore. Cord no longer crosses bird. Literal wave cause, two bounded essential cues without horizon/landscape, calm colors and readable card-scale motion.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_goose_and_the_little_boat.png"
+        }
+      ]
+    },
+    {
+      "slot": 10,
+      "title": "The Tooth on the Toast",
+      "source": "Reference/StoryDrafts/Level 17/Approved R16/10_the_tooth_on_the_toast.json",
+      "sourceSha256": "d504882c38ca968192304b0f0684ed787479c639eb709241e40ae858bb4c6848",
+      "references": [
+        "Characters/Lou/lou_reference_sheet.png",
+        "Characters/LouDad/lou_dad_reference_sheet.png"
+      ],
+      "artRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Tooth on the Toast/ART_QA.json",
+      "promptRecord": "/Users/ricky/workspace/StorySliderArt/Stories/The Tooth on the Toast/PROMPTS.md",
+      "assets": [
+        {
+          "asset": "story_the_tooth_on_the_toast",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Tooth on the Toast/story_the_tooth_on_the_toast.png",
+          "sha256": "da7ddf69d55ea05a7a8a30717bd1962cbc1a6529caaf405709839952c08da742",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Repaired compact seated Lou holds bitten cranberry-jam toast beside single-gap smile. Paired gaps read at card size; complete seated silhouette with calm teal/oatmeal/berry identity, generous white margins and no furniture.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_tooth_on_the_toast.png"
+        },
+        {
+          "asset": "comp_the_tooth_on_the_toast_0",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Tooth on the Toast/comp_the_tooth_on_the_toast_0.png",
+          "sha256": "379fd4dfdff5eeed49e14c2bbcfc6265bd9a62873072a3eacd199cd52ff1f2d4",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Large standalone toast shows unmistakable white tooth point against deep red jam. Focal clue remains clear at card size; warm crust and cranberry palette, complete margins, grounded little shadow, no object face or correctness marks.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_tooth_on_the_toast.png"
+        },
+        {
+          "asset": "comp_the_tooth_on_the_toast_1",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Tooth on the Toast/comp_the_tooth_on_the_toast_1.png",
+          "sha256": "79ee3b979cb2c6a1bc8bb53998145adcdfe837ebc987f172819e4d174a6bda4c",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Equally polished large toast shows one clear bite gap at edge and no tooth. Sparse jam traces maintain food identity; complete silhouette and muted earth palette, clear distinct literal clue at card size.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_tooth_on_the_toast.png"
+        },
+        {
+          "asset": "comp_the_tooth_on_the_toast_2",
+          "path": "/Users/ricky/workspace/StorySliderArt/Stories/The Tooth on the Toast/comp_the_tooth_on_the_toast_2.png",
+          "sha256": "36ea9a2f9c292fa165ce316b611c441a3aa8d5723e25203f2e85337a17fa90af",
+          "dimensions": [
+            600,
+            600
+          ],
+          "artGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "coordinatorGates": {
+            "WHITE_FIELD": "PASS",
+            "NO_SCENIC_BACKDROP": "PASS",
+            "TIGHT_FOCAL_CLUSTER": "PASS",
+            "MINIMAL_CUES": "PASS",
+            "CARD_SCALE_MATCH": "PASS",
+            "CALM_PALETTE_MATCH": "PASS",
+            "SEMANTIC_SCALE_MATCH": "PASS",
+            "STRUCTURAL_PLAUSIBILITY": "PASS",
+            "ANIMAL_STYLE_MATCH": "PASS"
+          },
+          "visualEvidence": "Compact seated Lou points toward a clear single front-tooth gap, no toast or competing props. Stable visual identity, gentle smile, complete margins, calm palette and readable mouth clue at card size.",
+          "comparisonSheet": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/qa-the_tooth_on_the_toast.png"
+        }
+      ]
+    }
+  ],
+  "importVerification": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/art-import-verification.json"
+}

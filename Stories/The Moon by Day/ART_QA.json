@@ -1,0 +1,111 @@
+{
+  "story": "The Moon by Day",
+  "source": {
+    "file": "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Approved R16/01_the_moon_by_day.json",
+    "sha256": "e82d67e4e433ff4c0318a916b17e1766dfb8a8ab24f98e05bea7577ad652a08e"
+  },
+  "references": [
+    "Characters/Dawn/dawn_reference_sheet.png",
+    "Characters/Drew/drew_reference_sheet.png",
+    "/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/style-anchors.png"
+  ],
+  "accepted": [
+    {
+      "slot": "cover",
+      "path": "Stories/The Moon by Day/story_the_moon_by_day.png",
+      "sha256": "efe6ca26465ffeceaac94e98084086a404dc154b250c49d1c8c24884105ce2b7",
+      "dimensions": "600x600",
+      "evidence": "Drew and Dawn see the reappearing white daytime moon with a full inset kite.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+      }
+    },
+    {
+      "slot": "choice_0",
+      "path": "Stories/The Moon by Day/comp_the_moon_by_day_0.png",
+      "sha256": "1e04b7605151a21c9107cf306df36f270d13a9da5273ca7fb287774ade3b9cd6",
+      "dimensions": "600x600",
+      "evidence": "Dawn points at the daytime moon.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+      }
+    },
+    {
+      "slot": "choice_1",
+      "path": "Stories/The Moon by Day/comp_the_moon_by_day_1.png",
+      "sha256": "29abe6e86260f4fa2fbbfd5a809d5f6df8ab1ffe00e9ab804088973035f8fcbf",
+      "dimensions": "600x600",
+      "evidence": "Drew watches a cloud move past the revealed moon; kite removed to avoid edge contact.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+      }
+    },
+    {
+      "slot": "choice_2",
+      "path": "Stories/The Moon by Day/comp_the_moon_by_day_2.png",
+      "sha256": "d2ae25b54402a77a5933ed5ba82eb2c6a94b8358526c8f77afeb5a0690a35f00",
+      "dimensions": "600x600",
+      "evidence": "Drew waits until night under a small crescent and stars.",
+      "gates": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "N/A \u2014 no animal depicted"
+      }
+    }
+  ],
+  "perImageBlockingGates": {
+    "approved_source_lock": "PASS",
+    "semantic_literalness": "PASS",
+    "white_field": "PASS",
+    "calm_palette": "PASS",
+    "focal_scale": "PASS",
+    "no_crop_or_edge_contact": "PASS",
+    "structural_plausibility": "PASS",
+    "character_identity": "PASS",
+    "animal_style": "N/A \u2014 no animal is depicted"
+  },
+  "rejected": [
+    "Rejected/comp_the_moon_by_day_1_attempt1_kite_cropped.png"
+  ],
+  "nineGateSchema": [
+    "WHITE_FIELD",
+    "NO_SCENIC_BACKDROP",
+    "TIGHT_FOCAL_CLUSTER",
+    "MINIMAL_CUES",
+    "CARD_SCALE_MATCH",
+    "CALM_PALETTE_MATCH",
+    "SEMANTIC_SCALE_MATCH",
+    "STRUCTURAL_PLAUSIBILITY",
+    "ANIMAL_STYLE_MATCH"
+  ]
+}

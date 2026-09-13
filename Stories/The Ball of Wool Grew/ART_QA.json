@@ -1,0 +1,16 @@
+{
+  "title": "The Ball of Wool Grew",
+  "approvedSource": "Reference/StoryDrafts/Level 17/Approved R16/06_the_ball_of_wool_grew.json",
+  "sourceSha256": "d1346b09e47742e77399e26cea3b3fc6512e57008e4db5e0e790f74ddfca8c28",
+  "generator": "built-in ImageGen",
+  "styleAnchors": ["/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/style-anchors.png", "Level 1 approved cover and card anchors", "Level 2 approved cover and card anchors"],
+  "characterReferences": ["/Users/ricky/workspace/StorySliderArt/Characters/Jo/jo_reference_sheet.png", "/Users/ricky/workspace/StorySliderArt/Characters/Skip/skip_reference_sheet.png"],
+  "assets": [
+    {"path":"story_the_ball_of_wool_grew.png","sha256":"8c978452b5696f7a7443915ffa26ef8a9cfbde8deb42fd144f834a0b06266f06","dimensions":[600,600],"iteration":2,"accepted":true,"visualEvidence":"Inset table has white margins; the cat is unmistakably black ink and the brown ink wool is cat-sized.","gates":{"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS — animal is a flat ink drawing on paper"}},
+    {"path":"comp_the_ball_of_wool_grew_0.png","sha256":"245d6786fde125e6482f51ff1d9e7348bea07d86c83092af1a9b734ef6958af3","dimensions":[600,600],"iteration":1,"accepted":true,"visualEvidence":"Jo, capped pen, black ink cat and cat-sized brown wool make the growth literal.","gates":{"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS — animal is a flat ink drawing on paper"}},
+    {"path":"comp_the_ball_of_wool_grew_1.png","sha256":"ab9be8190960183b94f46ff731edb8d0e26b8403a3d1c28a38186c0bc6689543","dimensions":[600,600],"iteration":5,"accepted":true,"visualEvidence":"Concerned Jo and capped pen frame a black ink cat; a cat-sized brown wool loop immediately approaches its paw/flank without hiding it.","gates":{"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS — animal is a flat ink drawing on paper"}},
+    {"path":"comp_the_ball_of_wool_grew_2.png","sha256":"6e118627bc894eb8c9678464ba6a381df1f9a585935a473412bf6a005c00a787","dimensions":[600,600],"iteration":1,"accepted":true,"visualEvidence":"Skip’s two hands closing the book state the literal answer, with only minimal drawing/table cues.","gates":{"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS — animal is a flat ink drawing on paper"}}
+  ],
+  "rejectedIterations":"Retained under rejected/ with documented visual failure reasons in PROMPTS.md.",
+  "setVerdict":"ACCEPTED by independent root full-600 and anchor/card comparison QA."
+}

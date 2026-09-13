@@ -1,0 +1,16 @@
+{
+  "title": "The Pug and the Boot",
+  "approvedSource": "Reference/StoryDrafts/Level 17/Approved R16/07_the_pug_and_the_boot.json",
+  "sourceSha256": "0b4e331b67dc63e707988f736986e63c943b440176871ddb82fa72d205b3488e",
+  "generator": "built-in ImageGen",
+  "styleAnchors": ["/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/style-anchors.png", "Level 1 approved cover and card anchors", "Level 2 approved cover and card anchors"],
+  "characterReferences": ["/Users/ricky/workspace/StorySliderArt/Characters/Ben/ben_reference_sheet.png", "/Users/ricky/workspace/StorySliderArt/Characters/BenPug/ben_pug_reference_sheet.png"],
+  "assets": [
+    {"path":"story_the_pug_and_the_boot.png","sha256":"6fa72820539e42756ef7c8ffb3cc75f940be167de57afaff58efcc2424244197","dimensions":[600,600],"iteration":2,"accepted":true,"visualEvidence":"Fawn pug’s weight-bearing paws share the grass plane, one forepaw rests on the boot, and Ben reaches toward the toy; the step is behind only.","gates":{"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS — established fawn pug identity"}},
+    {"path":"comp_the_pug_and_the_boot_0.png","sha256":"0d1a236ed44c3b52abda37f98a8fdd093c702e8a606518576154d4a6facd157d","dimensions":[600,600],"iteration":1,"accepted":true,"visualEvidence":"The fawn pug walks away while the ochre toy is plainly left behind.","gates":{"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS — established fawn pug identity"}},
+    {"path":"comp_the_pug_and_the_boot_1.png","sha256":"c34bbca877cb29a9fd0ffe5ffd83761c8cdb6e4cfdea561220f6bcf7bbc24dd5","dimensions":[600,600],"iteration":2,"accepted":true,"visualEvidence":"The toy is placed immediately by Ben; muted Ben clothing and the fawn pug match the approved palette and identity.","gates":{"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS — established fawn pug identity"}},
+    {"path":"comp_the_pug_and_the_boot_2.png","sha256":"faaa9c2e65d727225dfbada684a92a458422d312a711017f2098c690a8ec3c73","dimensions":[600,600],"iteration":1,"accepted":true,"visualEvidence":"The ochre toy visibly enters the upright boot opening while the fawn pug stands on a supported grass cue.","gates":{"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS — established fawn pug identity"}}
+  ],
+  "rejectedIterations":"Superseded cover retained under rejected/ with documented structural failure in PROMPTS.md.",
+  "setVerdict":"ACCEPTED by independent root full-600 and anchor/card comparison QA."
+}

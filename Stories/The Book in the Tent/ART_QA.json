@@ -1,0 +1,15 @@
+{
+  "title": "The Book in the Tent",
+  "approvedSource": "Reference/StoryDrafts/Level 17/Approved R16/05_the_book_in_the_tent.json",
+  "sourceSha256": "f31b685904a6232b665ff53ff5db8de7169d9151be4a44cc2d580ef369315401",
+  "generator": "built-in ImageGen",
+  "styleAnchors": ["/Users/ricky/workspace/StorySlider/Reference/StoryDrafts/Level 17/Production/style-anchors.png", "Level 1 approved cover and card anchors", "Level 2 approved cover and card anchors"],
+  "characterReferences": ["/Users/ricky/workspace/StorySliderArt/Characters/Bea/bea_reference_sheet.png", "/Users/ricky/workspace/StorySliderArt/Characters/BeaSister/bea_sister_reference_sheet.png"],
+  "assets": [
+    {"path": "story_the_book_in_the_tent.png", "sha256": "d261fd08d2ecca6be695f0f480556986a44968be128fa04206b99a5329b43736", "dimensions": [600,600], "iteration": 1, "accepted": true, "visualEvidence": "Bea has closed the book and listens with her sister in a compact pillow-supported cluster.", "gates": {"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS — no animal present"}},
+    {"path": "comp_the_book_in_the_tent_0.png", "sha256": "c60d7528c9f1aa586309843589d39de0d0d0905ec693917d6db4dd19ccc2f29f", "dimensions": [600,600], "iteration": 1, "accepted": true, "visualEvidence": "The consistent fictional book girl crosses a low bridge with complete visible supports over the minimal water cue.", "gates": {"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS — no animal present"}},
+    {"path": "comp_the_book_in_the_tent_1.png", "sha256": "1afffe5c1d2fadccc6583190bfea7bcaca478426166c34a851590c1984ba467a", "dimensions": [600,600], "iteration": 1, "accepted": true, "visualEvidence": "The same inner-book girl clearly returns toward the minimal woods cue.", "gates": {"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS — no animal present"}},
+    {"path": "comp_the_book_in_the_tent_2.png", "sha256": "cb3dda73ae254a61aa8da4901cddcd69fdb603d55a2c44365059b7da26609a4a", "dimensions": [600,600], "iteration": 1, "accepted": true, "visualEvidence": "The flower is visibly falling from the same inner-book girl's hand into the slim stream.", "gates": {"WHITE_FIELD":"PASS","NO_SCENIC_BACKDROP":"PASS","TIGHT_FOCAL_CLUSTER":"PASS","MINIMAL_CUES":"PASS","CARD_SCALE_MATCH":"PASS","CALM_PALETTE_MATCH":"PASS","SEMANTIC_SCALE_MATCH":"PASS","STRUCTURAL_PLAUSIBILITY":"PASS","ANIMAL_STYLE_MATCH":"PASS — no animal present"}}
+  ],
+  "setVerdict": "ACCEPTED by independent root full-600 and anchor/card comparison QA."
+}
