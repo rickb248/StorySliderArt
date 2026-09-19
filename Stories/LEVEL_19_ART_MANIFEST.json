@@ -1,0 +1,1096 @@
+{
+  "level": 19,
+  "approvedRevision": "Level 19 \u2014 Review R30 \u2014 Active; user-authorized consistency amendment 01",
+  "anchors": [
+    "Stories/Level 19 Art QA/Anchors/story_pip_the_pig.png",
+    "Stories/Level 19 Art QA/Anchors/story_the_dig.png",
+    "Stories/Level 19 Art QA/Anchors/level_1_card.png",
+    "Stories/Level 19 Art QA/Anchors/level_2_card.png"
+  ],
+  "images": [
+    {
+      "slot": 1,
+      "title": "The Fort and the Wave",
+      "imageType": "cover",
+      "answerIndex": null,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Fort and the Wave/story_the_fort_and_the_wave.png",
+      "sha256": "3dd8735055b197c4cf2ab509950bb8a27f5696032fb583d1b6cec9e2aff7b668",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Grace/grace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 1,
+      "title": "The Fort and the Wave",
+      "imageType": "answer",
+      "answerIndex": 0,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Fort and the Wave/comp_the_fort_and_the_wave_0.png",
+      "sha256": "db68dba242845b080487aee23467d9d2982b6797998ba87c38e70afd691d2136",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Grace/grace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 1,
+      "title": "The Fort and the Wave",
+      "imageType": "answer",
+      "answerIndex": 1,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Fort and the Wave/comp_the_fort_and_the_wave_1.png",
+      "sha256": "09616b27a5146710b40fbe4b74e3431b9bd667a214e30f7c556c87b9795d10c6",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Grace/grace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 1,
+      "title": "The Fort and the Wave",
+      "imageType": "answer",
+      "answerIndex": 2,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Fort and the Wave/comp_the_fort_and_the_wave_2.png",
+      "sha256": "eab08337bd37a85243e0460e45c877e807482ae83e488d1ec4cdcea717c31e75",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Grace/grace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 2,
+      "title": "A Ride for the Gnome",
+      "imageType": "cover",
+      "answerIndex": null,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/A Ride for the Gnome/story_a_ride_for_the_gnome.png",
+      "sha256": "a33623834a46c29ef5492e27906f7241a80c64a7244938492f92330089a06af6",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Knox/knox_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 2,
+      "title": "A Ride for the Gnome",
+      "imageType": "answer",
+      "answerIndex": 0,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/A Ride for the Gnome/comp_a_ride_for_the_gnome_0.png",
+      "sha256": "56874b8861341f527648e43ef978963080f7ecc7194e49034ce67a66d2abafc4",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Knox/knox_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 2,
+      "title": "A Ride for the Gnome",
+      "imageType": "answer",
+      "answerIndex": 1,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/A Ride for the Gnome/comp_a_ride_for_the_gnome_1.png",
+      "sha256": "7e6fb28b3aa04cc2b3bab97a92dfe27c53219570ca8795ebafcf066c1106af13",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Knox/knox_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 2,
+      "title": "A Ride for the Gnome",
+      "imageType": "answer",
+      "answerIndex": 2,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/A Ride for the Gnome/comp_a_ride_for_the_gnome_2.png",
+      "sha256": "30af1ccbbc0ed0da1b80e4d8c5ceff40661a10d6c76fc9f88aa58c324518c768",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Knox/knox_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 3,
+      "title": "The Crow and the Nut",
+      "imageType": "cover",
+      "answerIndex": null,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Crow and the Nut/story_the_crow_and_the_nut.png",
+      "sha256": "88efe940c56b6e64c6aa457be9b1279727c78e2f394266b0c90bb9ea4782b55b",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Rhett/rhett_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 3,
+      "title": "The Crow and the Nut",
+      "imageType": "answer",
+      "answerIndex": 0,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Crow and the Nut/comp_the_crow_and_the_nut_0.png",
+      "sha256": "79fd513e4ae7db6a3df37f188ac675fd27b992ab5b88b5cd8c53e17a38138754",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Rhett/rhett_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 3,
+      "title": "The Crow and the Nut",
+      "imageType": "answer",
+      "answerIndex": 1,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Crow and the Nut/comp_the_crow_and_the_nut_1.png",
+      "sha256": "4e51252619f89be33e96aac5335171298230b70cb18221e19892fe025272e295",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Rhett/rhett_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 3,
+      "title": "The Crow and the Nut",
+      "imageType": "answer",
+      "answerIndex": 2,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Crow and the Nut/comp_the_crow_and_the_nut_2.png",
+      "sha256": "7c1722a22006af012d18c4113d6d6a96e71703b2d96220639979791811b4bcb1",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Rhett/rhett_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 4,
+      "title": "The Wrong Bag",
+      "imageType": "cover",
+      "answerIndex": null,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Wrong Bag/story_the_wrong_bag.png",
+      "sha256": "e54ca204bd4fcc3931837f42ee89746be55d27808e3e4e82e6f3d58fd2897e1d",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Wren/wren_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Pace/pace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/WrenMom/wren_mom_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 4,
+      "title": "The Wrong Bag",
+      "imageType": "answer",
+      "answerIndex": 0,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Wrong Bag/comp_the_wrong_bag_0.png",
+      "sha256": "d524a44c559a424adcfbabe807f5e082fd3f0e0bfe8b01f0d4b9825aba38e3de",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Wren/wren_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Pace/pace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/WrenMom/wren_mom_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 4,
+      "title": "The Wrong Bag",
+      "imageType": "answer",
+      "answerIndex": 1,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Wrong Bag/comp_the_wrong_bag_1.png",
+      "sha256": "5de761d3bc6c0c4d35161d247f2a39194910b4fd64769dadca03168162807735",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Wren/wren_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Pace/pace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/WrenMom/wren_mom_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 4,
+      "title": "The Wrong Bag",
+      "imageType": "answer",
+      "answerIndex": 2,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Wrong Bag/comp_the_wrong_bag_2.png",
+      "sha256": "63804c4270beb49cd84a4811170d173b848823136f4017a4187946b6f2e03076",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Wren/wren_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Pace/pace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/WrenMom/wren_mom_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 5,
+      "title": "Keep the Ball Up",
+      "imageType": "cover",
+      "answerIndex": null,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/Keep the Ball Up/story_keep_the_ball_up.png",
+      "sha256": "54259089ea5d21707317104262fe02bd15c2189998f52738f69faf96c0201d1b",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Grace/grace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Pace/pace_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 5,
+      "title": "Keep the Ball Up",
+      "imageType": "answer",
+      "answerIndex": 0,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/Keep the Ball Up/comp_keep_the_ball_up_0.png",
+      "sha256": "4f2aec83410393d167a2f34722068fd51ec366abd432071044b68ac5f5613876",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Grace/grace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Pace/pace_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 5,
+      "title": "Keep the Ball Up",
+      "imageType": "answer",
+      "answerIndex": 1,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/Keep the Ball Up/comp_keep_the_ball_up_1.png",
+      "sha256": "f89ea8880b3d49f518d775ad837783ee19085a497f40d375f62fbab492e81513",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Grace/grace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Pace/pace_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 5,
+      "title": "Keep the Ball Up",
+      "imageType": "answer",
+      "answerIndex": 2,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/Keep the Ball Up/comp_keep_the_ball_up_2.png",
+      "sha256": "e2ce0928cebe1b57e2c10b7f2585595bff35c7ceb9e743baddb0f148fcb92964",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Grace/grace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Pace/pace_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 6,
+      "title": "One Night with Sage",
+      "imageType": "cover",
+      "answerIndex": null,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/One Night with Sage/story_one_night_with_sage.png",
+      "sha256": "cf02be11123d5f1f3ce24cd8900ecaa18c41889308fc5d71007ec15d6dde3adf",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Wren/wren_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 6,
+      "title": "One Night with Sage",
+      "imageType": "answer",
+      "answerIndex": 0,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/One Night with Sage/comp_one_night_with_sage_0.png",
+      "sha256": "980e328f36ad4492d87a9b2f21a7af7c9c1c509940730fbe7c6ae63a01d793d5",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Wren/wren_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 6,
+      "title": "One Night with Sage",
+      "imageType": "answer",
+      "answerIndex": 1,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/One Night with Sage/comp_one_night_with_sage_1.png",
+      "sha256": "68f2f78e2e75a7645a5c985c56a563a523133f65deac4141cb8c12e9eb8f3f9e",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Wren/wren_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 6,
+      "title": "One Night with Sage",
+      "imageType": "answer",
+      "answerIndex": 2,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/One Night with Sage/comp_one_night_with_sage_2.png",
+      "sha256": "84f5d7caa57e9f6d8fc43fb18b2551a38d04df012b869d865a0441f4e04d0f4f",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Wren/wren_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 7,
+      "title": "One Hat for Two",
+      "imageType": "cover",
+      "answerIndex": null,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/One Hat for Two/story_one_hat_for_two.png",
+      "sha256": "d09e279bad9eb3a14f18f89976f13c54c0176e0dd47be235ff7033091dcaa25d",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Ben/ben_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/BenDad/ben_dad_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 7,
+      "title": "One Hat for Two",
+      "imageType": "answer",
+      "answerIndex": 0,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/One Hat for Two/comp_one_hat_for_two_0.png",
+      "sha256": "3b8192f5fe4e8522fa95a5d15bab29d71d422009c2ed7db416b4a77722140153",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Ben/ben_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/BenDad/ben_dad_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 7,
+      "title": "One Hat for Two",
+      "imageType": "answer",
+      "answerIndex": 1,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/One Hat for Two/comp_one_hat_for_two_1.png",
+      "sha256": "ce10de34abca8b03de7d7075fd97f0328684626613bd017fccafadd2965372be",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Ben/ben_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/BenDad/ben_dad_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 7,
+      "title": "One Hat for Two",
+      "imageType": "answer",
+      "answerIndex": 2,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/One Hat for Two/comp_one_hat_for_two_2.png",
+      "sha256": "15ae7b5d2a97db0da4edf6257aa4e1b447abc6873e1519d678bb805891e7bec4",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Ben/ben_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/BenDad/ben_dad_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 8,
+      "title": "The Crumb on the Book",
+      "imageType": "cover",
+      "answerIndex": null,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Crumb on the Book/story_the_crumb_on_the_book.png",
+      "sha256": "dddeae77c573a2a1c016092fd9b261d7ab5b8b5f05497913e2976750e940d7ad",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Pace/pace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Bill/bill_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 8,
+      "title": "The Crumb on the Book",
+      "imageType": "answer",
+      "answerIndex": 0,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Crumb on the Book/comp_the_crumb_on_the_book_0.png",
+      "sha256": "5d75999f9ff78e6f87d2f32ea11e69c2929f8de53b644df85f94b77232e1abcf",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Pace/pace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Bill/bill_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 8,
+      "title": "The Crumb on the Book",
+      "imageType": "answer",
+      "answerIndex": 1,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Crumb on the Book/comp_the_crumb_on_the_book_1.png",
+      "sha256": "c69c1d7ed0d865617347674d2e70e99a1e4fae13a5fad0297c2a9448d0fb2f9f",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Pace/pace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Bill/bill_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 8,
+      "title": "The Crumb on the Book",
+      "imageType": "answer",
+      "answerIndex": 2,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/The Crumb on the Book/comp_the_crumb_on_the_book_2.png",
+      "sha256": "dbbde095f83b3dee69c81b63ee0bbf3bfe39108db8739d171b967ca5a54090bf",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Pace/pace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Bill/bill_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 9,
+      "title": "Sage and the Lamb",
+      "imageType": "cover",
+      "answerIndex": null,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/Sage and the Lamb/story_sage_and_the_lamb.png",
+      "sha256": "90c3972d758991ca637c15cbd31cff202387d507ee0931dc3f38c200fb40d12e",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Grace/grace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/GraceGrandma/grace_grandma_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 9,
+      "title": "Sage and the Lamb",
+      "imageType": "answer",
+      "answerIndex": 0,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/Sage and the Lamb/comp_sage_and_the_lamb_0.png",
+      "sha256": "ca7f237254778613b77cf725920b3aa27c2d419bcbdca50e037c44d8aef64343",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Grace/grace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/GraceGrandma/grace_grandma_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 9,
+      "title": "Sage and the Lamb",
+      "imageType": "answer",
+      "answerIndex": 1,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/Sage and the Lamb/comp_sage_and_the_lamb_1.png",
+      "sha256": "e4d738c1c4e4a3d6dd2e67e2fa852d9488bf3ffab343fba4fdc20f020e992512",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Grace/grace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/GraceGrandma/grace_grandma_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 9,
+      "title": "Sage and the Lamb",
+      "imageType": "answer",
+      "answerIndex": 2,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/Sage and the Lamb/comp_sage_and_the_lamb_2.png",
+      "sha256": "d40189876c374c487f909505ec8220d452b931eaa8dc19b835e6be91448b2f91",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Grace/grace_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Sage/sage_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/GraceGrandma/grace_grandma_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 10,
+      "title": "A Note for Wren",
+      "imageType": "cover",
+      "answerIndex": null,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/A Note for Wren/story_a_note_for_wren.png",
+      "sha256": "c0bb790b3d708030453014e8c3423658f8f3f465f8d1aabcdc15f497d0a68565",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Knox/knox_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Wren/wren_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 10,
+      "title": "A Note for Wren",
+      "imageType": "answer",
+      "answerIndex": 0,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/A Note for Wren/comp_a_note_for_wren_0.png",
+      "sha256": "0739dc689261baece93c90a329b3d6e9a510215583985c3a5b99e858a0a65bc2",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Knox/knox_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Wren/wren_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 10,
+      "title": "A Note for Wren",
+      "imageType": "answer",
+      "answerIndex": 1,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/A Note for Wren/comp_a_note_for_wren_1.png",
+      "sha256": "8bb0540201b2dfa9220fa094a5d58519a4eac4b3054196638ce564419d6d3481",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Knox/knox_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Wren/wren_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    },
+    {
+      "slot": 10,
+      "title": "A Note for Wren",
+      "imageType": "answer",
+      "answerIndex": 2,
+      "absolutePath": "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Stories/A Note for Wren/comp_a_note_for_wren_2.png",
+      "sha256": "0baf4fe3fdf178649cfbea1da2cf0c0d23681477d672dbbf1080c0c0b7d22dcd",
+      "dimensions": [
+        600,
+        600
+      ],
+      "actualReferencePaths": [
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Knox/knox_reference_sheet.png",
+        "/Users/ricky/.codex/worktrees/0a58/StorySliderArt/Characters/Wren/wren_reference_sheet.png"
+      ],
+      "gateEvidence": {
+        "WHITE_FIELD": "PASS",
+        "NO_SCENIC_BACKDROP": "PASS",
+        "TIGHT_FOCAL_CLUSTER": "PASS",
+        "MINIMAL_CUES": "PASS",
+        "CARD_SCALE_MATCH": "PASS",
+        "CALM_PALETTE_MATCH": "PASS",
+        "SEMANTIC_SCALE_MATCH": "PASS",
+        "STRUCTURAL_PLAUSIBILITY": "PASS",
+        "ANIMAL_STYLE_MATCH": "PASS"
+      }
+    }
+  ]
+}
