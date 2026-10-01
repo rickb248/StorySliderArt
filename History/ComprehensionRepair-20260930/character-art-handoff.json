@@ -1,0 +1,129 @@
+{
+  "createdAt": "2026-09-30T17:18:00-07:00",
+  "scope": "Nine authorized character comprehension image repairs; app import intentionally left to root reviewer.",
+  "masterDirectory": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/characters",
+  "outputSpec": {
+    "format": "PNG",
+    "pixelWidth": 600,
+    "pixelHeight": 600,
+    "colorSpace": "RGB",
+    "whiteFieldNormalization": "Pixels with all RGB channels >= 250 were normalized to #FFFFFF after Lanczos downsampling.",
+    "outerEdgeExactWhiteFraction": 1.0
+  },
+  "qaReceipts": {
+    "anchorAndMasterContactSheet": "/Users/ricky/workspace/StorySlider/Reference/ComprehensionAudit/2026-09-30/character-art-qa-contact-sheet.png",
+    "cardScaleContactSheet": "/Users/ricky/workspace/StorySlider/Reference/ComprehensionAudit/2026-09-30/character-art-qa-card-scale.png",
+    "anchorsInspected": [
+      "/Users/ricky/workspace/StorySlider/StorySlider/Assets.xcassets/story_pip_the_pig.imageset/story_pip_the_pig.png",
+      "/Users/ricky/workspace/StorySlider/StorySlider/Assets.xcassets/story_the_dig.imageset/story_the_dig.png",
+      "/Users/ricky/workspace/StorySlider/StorySlider/Assets.xcassets/level_1_card.imageset/level_1_card.png",
+      "/Users/ricky/workspace/StorySlider/StorySlider/Assets.xcassets/level_2_card.imageset/level_2_card.png"
+    ]
+  },
+  "qaGateDefinitions": [
+    "whiteField",
+    "noScenicBackdrop",
+    "tightFocalCluster",
+    "minimalCues",
+    "cardScaleMatch",
+    "calmPaletteMatch",
+    "semanticScaleMatch",
+    "structuralPlausibility",
+    "animalStyleMatch"
+  ],
+  "assets": [
+    {
+      "asset": "comp_the_dig_2.png",
+      "mode": "NEW",
+      "prompt": "Use case: illustration-story\nAsset type: StorySlider comprehension answer image, NEW comp_the_dig_2.png\nPrimary request: Create one square white-field vignette showing Kit and Pip actively digging together in one small dirt patch. This is the literal correct answer to “What did Kit and Pip do?”\nInput images: Images 1-2 lock the exact recurring Kit and Pip identities used by the sibling answer set; Images 3-4 are identity sheets; Image 5 is the approved same-story action/style reference.\nSubject: Kit is a six-year-old girl with brown shoulder-length bob and bangs, blue overalls, muted yellow-and-blue striped shirt, and red sneakers. She kneels close to the patch and actively scoops soil with a small child-size green hand shovel, shovel visibly entering/lifting dirt. Pip is a natural soft-pink pig on four legs with no clothes, actively digging the SAME small patch with snout lowered into loose soil and one front hoof scraping. Their bodies, gaze, and overlap make cooperative digging unmistakable; do not pose them merely beside a finished hole.\nScene/backdrop: pure solid white #FFFFFF connected to all four edges. One compact irregular dirt patch and a few small loose clods only; no garden, plants, fence, room, horizon, broad ground plane, or scenery.\nStyle/medium: StorySlider modern storybook-anime digital vector illustration, match the sibling answer images and approved Level 1-2 anchors; clean medium-to-thin softened dark-brown outlines, gentle low-contrast cel shading, rounded K-2 proportions, simplified rounded animal anatomy.\nComposition/framing: one tight cohesive full-body action cluster, approximately 75% visual attention, centered with generous white breathing room; all shoes, ears, tail, hooves, shovel, hands, and dirt patch completely in frame.\nColor palette: calm warm neutrals, muted denim blue, dusty yellow-blue stripes, soft pink pig, gentle earth brown; restrained saturation and contrast.\nConstraints: 1:1 square, intended final 600×600; exactly one Kit and one Pip; one moment; no text, labels, symbols, extra characters, extra animals, decorative faces, or correctness cues.\nAvoid: standing beside a hole, idle pose, separate dirt patches, giant mound, deep pit, anthropomorphic pig, pig on two legs, clothing on pig, room interior, wall, window, floor, landscape, scenic backdrop, colored panel/blob, vivid orange, fire-engine red, lemon yellow, candy saturation, harsh shadows, glossy 3D, photorealism, heavy black outlines, cropped bodies, malformed hands/hooves/shovel.",
+      "generatedSourcePath": "/Users/ricky/.codex/generated_images/01a0f4a7-20e1-7bf1-a4d8-b706c0cf3026/exec-60b8dac7-a558-4f3c-80c1-28301a44eb71.png",
+      "acceptedMasterPath": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/characters/comp_the_dig_2.png",
+      "sha256": "1ebba1f181e16ad9d23396cf12d0a81b02a554da37acdaed75cc485ac390f72f",
+      "qa9gates": {"whiteField":"PASS","noScenicBackdrop":"PASS","tightFocalCluster":"PASS","minimalCues":"PASS","cardScaleMatch":"PASS","calmPaletteMatch":"PASS","semanticScaleMatch":"PASS","structuralPlausibility":"PASS","animalStyleMatch":"PASS"},
+      "qaEvidence": "Kit's shovel enters the same compact dirt patch that Pip digs with lowered snout and front hoof; both identities and natural four-legged pig anatomy read at card scale."
+    },
+    {
+      "asset": "comp_jo_and_the_red_hat_1.png",
+      "mode": "EDIT",
+      "prompt": "Use case: precise-object-edit\nAsset type: StorySlider comprehension answer image EDIT comp_jo_and_the_red_hat_1.png\nPrimary request: Edit Image 1 only: remove Jo's red baseball cap completely and replace it with one muted brick-red scarf wrapped naturally around Jo's neck, with a short readable scarf tail. Preserve the exact Jo and Ty identities, body poses, gaze, expressions, clothing, spacing, scale, white background, and illustration style. Jo keeps her thick dark-brown wavy bob and muted-apricot barrette fully visible; no cap, hat, headwear, or red object on her head. Ty remains seated and unchanged.\nInput images: Image 1 is the edit target; Images 2-3 are identity-only references.\nScene/backdrop: pure solid white #FFFFFF connected to all four edges; no added setting.\nStyle/medium: preserve the existing StorySlider modern storybook-anime vector rendering, gentle shading, softened outlines, calm palette.\nComposition/framing: preserve the exact two-child white-field vignette and full bodies; all feet and scarf remain in frame.\nConstraints: change only the cap-to-scarf clothing detail; exactly one scarf around Jo's neck; no text, symbols, added props, added characters, or crop.\nAvoid: any hat or cap, scarf on Ty, scarf held in hand, bright fire-engine red, large saturated red area, background, floor plane, identity drift, pose drift, facial change, hairstyle change.",
+      "generatedSourcePath": "/Users/ricky/.codex/generated_images/01a0f4a7-20e1-7bf1-a4d8-b706c0cf3026/exec-d1b1bc37-9370-40e9-a50a-b1f3fdfb886c.png",
+      "acceptedMasterPath": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/characters/comp_jo_and_the_red_hat_1.png",
+      "sha256": "3474ed9738f8a1f6c5ab58130ef6288415b54986faa02069142c0327aa1fc0ab",
+      "qa9gates": {"whiteField":"PASS","noScenicBackdrop":"PASS","tightFocalCluster":"PASS","minimalCues":"PASS","cardScaleMatch":"PASS","calmPaletteMatch":"PASS","semanticScaleMatch":"PASS","structuralPlausibility":"PASS","animalStyleMatch":"PASS"},
+      "qaEvidence": "The red cap is absent; one muted brick-red scarf is visibly wrapped around Jo's neck, while Jo and Ty remain immediately recognizable."
+    },
+    {
+      "asset": "comp_the_red_bug_0.png",
+      "mode": "EDIT",
+      "prompt": "Use case: precise-object-edit\nAsset type: StorySlider comprehension answer image EDIT comp_the_red_bug_0.png\nPrimary request: Edit Image 1 only by adding the same small natural red bug seen on the moss in Image 2 visibly INSIDE the cup. Place it on the cup's inner wall just below the inner rim, large enough to read at card size but still naturally small. Its six legs should contact the inner cup surface. Preserve the cup's exact muted cranberry color, shape, handle, perspective, scale, lighting, white background, and composition.\nInput images: Image 1 is the edit target; Image 2 locks the story-specific red bug's muted red-brown body and natural scale; Image 3 clarifies natural six-legged bug anatomy.\nScene/backdrop: pure solid white #FFFFFF connected to every edge.\nStyle/medium: preserve existing calm StorySlider vector/storybook rendering.\nComposition/framing: cup remains the dominant centered object; bug is clearly inside, not on the outside, rim top, handle, or floating.\nConstraints: only add one bug; do not alter the cup; no text, face, eyes, clothing, extra insects, moss, dirt, scenery, or correctness cue.\nAvoid: bug outside cup, bug perched on outer rim, bug hidden by rim, giant bug, ladybug face, anthropomorphic insect, bright candy red, background panel, shadows touching canvas edges.",
+      "generatedSourcePath": "/Users/ricky/.codex/generated_images/01a0f4a7-20e1-7bf1-a4d8-b706c0cf3026/exec-bd31935f-13d8-4b8f-ad03-48a3404b925c.png",
+      "acceptedMasterPath": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/characters/comp_the_red_bug_0.png",
+      "sha256": "331459390924abefa1bc1a00d45e71c1b1b8abecc622498c01baecba4413fc8b",
+      "qa9gates": {"whiteField":"PASS","noScenicBackdrop":"PASS","tightFocalCluster":"PASS","minimalCues":"PASS","cardScaleMatch":"PASS","calmPaletteMatch":"PASS","semanticScaleMatch":"PASS","structuralPlausibility":"PASS","animalStyleMatch":"PASS"},
+      "qaEvidence": "One natural red bug is visible below the rim on the cup's inner wall at both 220 px and 120 px review scales."
+    },
+    {
+      "asset": "comp_the_red_bug_2.png",
+      "mode": "EDIT",
+      "prompt": "Use case: precise-object-edit\nAsset type: StorySlider comprehension answer image EDIT comp_the_red_bug_2.png\nPrimary request: Edit Image 1 only by adding the same small natural red bug seen on the moss in Image 2 visibly INSIDE the open cardboard box. Place it on the inner bottom of the box, well within all four walls, large enough to read at card size but still naturally small. All six legs contact the box bottom. Preserve the box's exact warm cardboard color, open geometry, perspective, scale, lighting, pure white background, and composition.\nInput images: Image 1 is the edit target; Image 2 locks the story-specific red bug's muted red-brown body and natural scale; Image 3 clarifies natural six-legged bug anatomy.\nScene/backdrop: pure solid white #FFFFFF connected to every edge.\nStyle/medium: preserve existing calm StorySlider vector/storybook rendering.\nComposition/framing: box remains dominant centered object; bug must be unmistakably inside the box, not outside, on an exterior wall, on the rim, or floating.\nConstraints: only add one bug; do not alter box construction; no text, face, clothing, extra insects, moss, dirt, scenery, or correctness cue.\nAvoid: bug outside box, bug hidden behind wall, giant bug, anthropomorphic insect, bright candy red, background panel, malformed box, extra props.",
+      "generatedSourcePath": "/Users/ricky/.codex/generated_images/01a0f4a7-20e1-7bf1-a4d8-b706c0cf3026/exec-0f16565a-9a4a-4327-a3aa-3e657acdd54d.png",
+      "acceptedMasterPath": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/characters/comp_the_red_bug_2.png",
+      "sha256": "777cc45e037c5ff76ddd134c47a5970ee223fac3854e8d16b26e4507125d557d",
+      "qa9gates": {"whiteField":"PASS","noScenicBackdrop":"PASS","tightFocalCluster":"PASS","minimalCues":"PASS","cardScaleMatch":"PASS","calmPaletteMatch":"PASS","semanticScaleMatch":"PASS","structuralPlausibility":"PASS","animalStyleMatch":"PASS"},
+      "qaEvidence": "One natural red bug rests well inside the box on its inner bottom; the four walls and perspective remain structurally clear."
+    },
+    {
+      "asset": "comp_the_old_toy_truck_1.png",
+      "mode": "EDIT",
+      "prompt": "Use case: precise-object-edit\nAsset type: StorySlider comprehension distractor EDIT comp_the_old_toy_truck_1.png\nPrimary request: Edit Image 1 so BEN'S DAD is clearly the active person putting the old brown toy truck into the open cardboard box, while Ben only watches. Dad's hand must be visibly gripping and lowering the truck inside the box; Ben's hands stay away from the truck and box, resting calmly as he watches. Preserve the same box, old scratched brown toy truck, small cream oval rug, pure white field, tight two-person composition, and calm style.\nInput images: Image 1 is the edit target; Image 2 locks the same Dad/Ben/truck story set; Images 3-4 are identity-only references.\nIdentity: Dad is the adult with deep brown skin, short neat black hair, forest-green cardigan over cream shirt, navy trousers, brown loafers, adult proportions. Ben is the six-year-old with fair freckled skin, messy ginger hair, muted mustard-yellow T-shirt, blue jeans, brown shoes.\nComposition: Dad kneels close and actively lowers the truck into the box; Ben kneels or sits beside him, clearly observing. Full bodies or sufficient complete kneeling figures, complete hands, truck, box, shoes, and rug in frame; white breathing room all sides.\nStyle: preserve StorySlider white-field modern storybook-anime vector style, gentle low-contrast cel shading, calm warm palette, softened medium-thin outlines.\nConstraints: one Dad, one Ben, one truck, one open box, one small rug; no room, floor, extra toys, text, labels, repeated figures, identity swap, or correctness cue.\nAvoid: Ben touching/placing truck, Dad merely watching, child-size Dad, adult-size Ben, bright saturated colors, malformed hands, box geometry errors, broad floor plane, background scenery.",
+      "generatedSourcePath": "/Users/ricky/.codex/generated_images/01a0f4a7-20e1-7bf1-a4d8-b706c0cf3026/exec-f6b5fb69-b265-4eff-895b-94c49419c997.png",
+      "acceptedMasterPath": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/characters/comp_the_old_toy_truck_1.png",
+      "sha256": "46ae54011a3105182de3d0ddd34bc9d2b7b8b09c5ea84e02c0416097d8db0428",
+      "qa9gates": {"whiteField":"PASS","noScenicBackdrop":"PASS","tightFocalCluster":"PASS","minimalCues":"PASS","cardScaleMatch":"PASS","calmPaletteMatch":"PASS","semanticScaleMatch":"PASS","structuralPlausibility":"PASS","animalStyleMatch":"PASS"},
+      "qaEvidence": "Dad's hand visibly grips and lowers the truck inside the box; Ben watches with both hands away from the action."
+    },
+    {
+      "asset": "comp_the_old_toy_truck_2.png",
+      "mode": "EDIT",
+      "prompt": "Use case: identity-preserve\nAsset type: StorySlider comprehension distractor EDIT comp_the_old_toy_truck_2.png\nPrimary request: Replace the sleeping child in Image 1 with BEN'S DAD asleep on the same small cream oval rug, with the same old brown toy truck resting beside him. Dad, not Ben, is the only person in the image. Dad lies naturally curled or on his side with eyes closed, adult proportions unmistakable, one hand near but not crushing the truck. Preserve the simple white-field vignette, small rug, old brown truck, calm cozy pose, and restrained palette.\nInput images: Image 1 is the edit target and composition reference; Image 2 locks the story-set Dad and truck; Image 3 is Dad's identity reference; Image 4 is negative identity context—do not depict Ben.\nIdentity: Dad has deep brown skin, short neat black hair, forest-green cardigan over cream shirt, navy trousers, brown loafers, warm adult face. Keep the cardigan and adult body proportions visible.\nScene/backdrop: pure solid white #FFFFFF connected to all edges; only one small oval rug as support.\nComposition: one complete sleeping adult and one toy truck in a tight cluster, centered with white breathing room; no crop of head, hands, feet, rug, or truck.\nStyle: StorySlider modern storybook-anime vector illustration, gentle low-contrast shading, softened outlines, calm warm palette.\nConstraints: exactly one adult Dad, no child, no bed, pillow, room, walls, floor, furniture, text, symbols, or extra props.\nAvoid: Ben or ginger-haired child, childlike proportions, ambiguous age, missing green cardigan, oversized truck, sleeping on truck, scenic interior, broad ground plane, saturated colors, photorealism, 3D.",
+      "generatedSourcePath": "/Users/ricky/.codex/generated_images/01a0f4a7-20e1-7bf1-a4d8-b706c0cf3026/exec-ceea6d74-d06e-4d58-b528-17977a921426.png",
+      "acceptedMasterPath": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/characters/comp_the_old_toy_truck_2.png",
+      "sha256": "77a2c41ccace6ec0ff6f8935c2d3fa43e07224ad2321ece35392582d288ba8cc",
+      "qa9gates": {"whiteField":"PASS","noScenicBackdrop":"PASS","tightFocalCluster":"PASS","minimalCues":"PASS","cardScaleMatch":"PASS","calmPaletteMatch":"PASS","semanticScaleMatch":"PASS","structuralPlausibility":"PASS","animalStyleMatch":"PASS"},
+      "qaEvidence": "The sole sleeper is Ben's Dad, with unmistakable adult proportions, short black hair, and green cardigan; the old truck sits beside him."
+    },
+    {
+      "asset": "comp_the_owl_in_the_tree_0.png",
+      "mode": "EDIT",
+      "prompt": "Use case: precise-object-edit\nAsset type: StorySlider comprehension distractor EDIT comp_the_owl_in_the_tree_0.png\nPrimary request: Edit Image 1 only by removing the LITTLE OWL completely. Preserve Roy making one short owl call with cupped hands at his mouth, Bill crouching and watching, the single adult brown owl perched on the hollow log, the empty dark hole, all identities, poses, clothing, scale, white field, and style. The dark hole must be visibly empty.\nInput images: Image 1 is the edit target; Images 2-3 establish the same story set and adult owl; Image 4 locks Bill's identity. Roy's identity is locked by Image 1.\nScene/backdrop: pure solid white #FFFFFF connected to all edges; no tree or scenery beyond the existing small hollow log support.\nComposition: preserve the tight three-subject cluster of Roy, Bill, and ONE adult owl; full figures and log in frame.\nStyle: preserve existing calm StorySlider modern storybook-anime vector rendering and muted palette.\nConstraints: exactly two boys and one adult owl; delete the small owl with clean white/background reconstruction; no replacement animal or added prop; no text.\nAvoid: any little owl, chick, second owl, bird in the hole, altered gestures, Roy no longer calling, Bill raising a hand, adult owl identity drift, scenic tree, background panel, crop.",
+      "generatedSourcePath": "/Users/ricky/.codex/generated_images/01a0f4a7-20e1-7bf1-a4d8-b706c0cf3026/exec-258d027c-c79b-4469-b1bf-dd3b3caee4ad.png",
+      "acceptedMasterPath": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/characters/comp_the_owl_in_the_tree_0.png",
+      "sha256": "b7b4748577474bada50efd0495d5ed0e3872cbc0207b9e3c503d53f845698c54",
+      "qa9gates": {"whiteField":"PASS","noScenicBackdrop":"PASS","tightFocalCluster":"PASS","minimalCues":"PASS","cardScaleMatch":"PASS","calmPaletteMatch":"PASS","semanticScaleMatch":"PASS","structuralPlausibility":"PASS","animalStyleMatch":"PASS"},
+      "qaEvidence": "Roy visibly cups his hands to call; Bill watches; exactly one adult owl remains and the log hollow is empty."
+    },
+    {
+      "asset": "comp_the_owl_in_the_tree_2.png",
+      "mode": "EDIT",
+      "prompt": "Edit the first image only, using the other images strictly as continuity references. Preserve the exact StorySlider watercolor-and-pencil character identities, poses, adult brown owl, hollow log, pure white background, calm muted palette, tight isolated vignette, and square composition. In this answer image, Bill is the boy on the right with one hand raised toward the adult owl; Roy remains crouched beside him. REMOVE THE LITTLE OWL COMPLETELY. The dark hollow in the log must be visibly empty. Keep exactly one owl total: the adult brown owl perched on the log. Do not add scenery, text, borders, or other objects. White must reach all four edges.",
+      "generatedSourcePath": "/Users/ricky/.codex/generated_images/01a0f4a7-20e1-7bf1-a4d8-b706c0cf3026/exec-5ae007f8-d576-44b0-b65d-efcaa2de9c7e.png",
+      "acceptedMasterPath": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/characters/comp_the_owl_in_the_tree_2.png",
+      "sha256": "b152e518b8c528ae47761ba83292e1ce5b39dc1e032cab06fea3f16bbf48cab1",
+      "qa9gates": {"whiteField":"PASS","noScenicBackdrop":"PASS","tightFocalCluster":"PASS","minimalCues":"PASS","cardScaleMatch":"PASS","calmPaletteMatch":"PASS","semanticScaleMatch":"PASS","structuralPlausibility":"PASS","animalStyleMatch":"PASS"},
+      "qaEvidence": "Bill's raised hand remains clear; Roy remains crouched; exactly one adult owl remains and the log hollow is empty."
+    },
+    {
+      "asset": "comp_the_pug_and_the_horn_2.png",
+      "mode": "EDIT",
+      "prompt": "Edit the first image only, using the other images strictly as character continuity references. Preserve June, the same small tan pug, the small pale rug, pure white background, calm muted watercolor-and-pencil StorySlider style, tight isolated vignette, and square composition. Show a clear PAUSE in horn playing: June's lips are CLOSED, and the horn mouthpiece is visibly lowered well away from her face to chest-to-waist height with a clear white gap between mouth and horn. June holds the horn down at her torso with both hands and looks toward the pug. Keep the pug visibly barking with open mouth and the same small bark motion marks. The horn must not touch or point into June's mouth. Do not add scenery, furniture, text, borders, or extra objects. White must reach all four edges.",
+      "generatedSourcePath": "/Users/ricky/.codex/generated_images/01a0f4a7-20e1-7bf1-a4d8-b706c0cf3026/exec-a7f7fc0c-170f-4f49-af74-014d57e20d42.png",
+      "acceptedMasterPath": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/characters/comp_the_pug_and_the_horn_2.png",
+      "sha256": "3468e33b1f5936cc0f48396b652216bb6e1aceeab92947aa6e300ebc0e101d90",
+      "qa9gates": {"whiteField":"PASS","noScenicBackdrop":"PASS","tightFocalCluster":"PASS","minimalCues":"PASS","cardScaleMatch":"PASS","calmPaletteMatch":"PASS","semanticScaleMatch":"PASS","structuralPlausibility":"PASS","animalStyleMatch":"PASS"},
+      "qaEvidence": "June's lips are closed, the horn sits at torso height with a clear gap from her face, and the same small pug visibly barks with open mouth and motion marks."
+    }
+  ],
+  "overallStatus": "PASS",
+  "acceptedMasterCount": 9,
+  "appImportPerformed": false
+}

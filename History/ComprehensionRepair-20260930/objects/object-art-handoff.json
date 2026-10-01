@@ -1,0 +1,88 @@
+{
+  "run": "ComprehensionRepair-20260930",
+  "generatedAt": "2026-09-30",
+  "tool": "built-in image_gen",
+  "styleCalibration": {
+    "anchors": [
+      "/Users/ricky/workspace/StorySlider/StorySlider/Assets.xcassets/story_pip_the_pig.imageset/story_pip_the_pig.png",
+      "/Users/ricky/workspace/StorySlider/StorySlider/Assets.xcassets/story_the_dig.imageset/story_the_dig.png",
+      "/Users/ricky/workspace/StorySlider/StorySlider/Assets.xcassets/level_1_card.imageset/level_1_card.png",
+      "/Users/ricky/workspace/StorySlider/StorySlider/Assets.xcassets/level_2_card.imageset/level_2_card.png"
+    ],
+    "calibrationContactSheet": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/objects/calibration-anchors.png",
+    "cardSizeQaSheet": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/objects/card-size-qa.png",
+    "notes": "Inspected against the four anchors at full size and the 180px-card contact sheet. All masters are 600x600 PNGs with white edge field."
+  },
+  "assets": [
+    {
+      "file": "comp_kit_wins_0.png",
+      "choice": "The tin.",
+      "master": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/objects/comp_kit_wins_0.png",
+      "returnedGeneratedPath": "/Users/ricky/.codex/generated_images/01a0f4c3-266a-70c2-a480-1709e4bcd02c/exec-76d3f494-1520-49a5-838a-dc6cd9fc946f.png",
+      "postprocess": "Downsampled 1254x1254 built-in PNG to 600x600 PNG with ffmpeg scale=600:600.",
+      "sha256": "5d31358416688bcfd164c17f9827da45bcbd02b7c25ca0db8ffe656fc6e7eb6e",
+      "prompt": "One plain small warm silver-gray metal tin can with fitted lid, entirely blank and unbranded, centered on pure white with a faint contact shadow; clean digital storybook vector art, muted palette, soft charcoal outlines; exactly one object, no text, logo, face, characters, scenery, or props.",
+      "qa": {"WHITE_FIELD": "PASS", "NO_SCENIC_BACKDROP": "PASS", "TIGHT_FOCAL_CLUSTER": "PASS", "MINIMAL_CUES": "PASS", "ANCHOR_MATCH": "PASS", "CALM_PALETTE_MATCH": "PASS", "SEMANTIC_SCALE_MATCH": "PASS", "STRUCTURAL_PLAUSIBILITY": "PASS", "ANIMAL_STYLE_MATCH": "PASS (no animal)"}
+    },
+    {
+      "file": "comp_kit_wins_1.png",
+      "choice": "The pin.",
+      "master": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/objects/comp_kit_wins_1.png",
+      "returnedGeneratedPath": "/Users/ricky/.codex/generated_images/01a0f4c3-266a-70c2-a480-1709e4bcd02c/exec-86e2d6ca-aac7-455c-aec0-6005b7fd0491.png",
+      "postprocess": "Downsampled 1254x1254 built-in PNG to 600x600 PNG with ffmpeg scale=600:600.",
+      "sha256": "e3728bfbff04668ccd57d6579e47c1e85ca58009645de08830718912d368c782",
+      "prompt": "Exactly one upright bowling/skittle pin with a warm ivory body and one muted brick-red neck stripe, centered on pure white with a faint contact shadow; clean digital storybook vector art, muted palette, soft charcoal outlines; no ball, lane, branding, text, face, characters, scenery, or props.",
+      "qa": {"WHITE_FIELD": "PASS", "NO_SCENIC_BACKDROP": "PASS", "TIGHT_FOCAL_CLUSTER": "PASS", "MINIMAL_CUES": "PASS", "ANCHOR_MATCH": "PASS", "CALM_PALETTE_MATCH": "PASS", "SEMANTIC_SCALE_MATCH": "PASS", "STRUCTURAL_PLAUSIBILITY": "PASS", "ANIMAL_STYLE_MATCH": "PASS (no animal)"}
+    },
+    {
+      "file": "comp_kit_wins_2.png",
+      "choice": "The bin.",
+      "master": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/objects/comp_kit_wins_2.png",
+      "returnedGeneratedPath": "/Users/ricky/.codex/generated_images/01a0f4c3-266a-70c2-a480-1709e4bcd02c/exec-6bc97a63-027c-4be1-8952-288d7e9ad137.png",
+      "postprocess": "Downsampled 1254x1254 built-in PNG to 600x600 PNG with ffmpeg scale=600:600.",
+      "sha256": "db63d80059b85fb04521c0864e2e3fc5365db09fe209b8b4ef90765dffe78408",
+      "prompt": "Exactly one ordinary small open waste bin in muted blue-gray, viewed slightly from above so its empty opening is obvious, centered on pure white with a faint contact shadow; clean digital storybook vector art, muted palette, soft charcoal outlines; no liner, rubbish, logo, text, face, characters, scenery, or props.",
+      "qa": {"WHITE_FIELD": "PASS", "NO_SCENIC_BACKDROP": "PASS", "TIGHT_FOCAL_CLUSTER": "PASS", "MINIMAL_CUES": "PASS", "ANCHOR_MATCH": "PASS", "CALM_PALETTE_MATCH": "PASS", "SEMANTIC_SCALE_MATCH": "PASS", "STRUCTURAL_PLAUSIBILITY": "PASS", "ANIMAL_STYLE_MATCH": "PASS (no animal)"}
+    },
+    {
+      "file": "comp_rex_and_the_big_bag_0.png",
+      "choice": "A map.",
+      "master": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/objects/comp_rex_and_the_big_bag_0.png",
+      "returnedGeneratedPath": "/Users/ricky/.codex/generated_images/01a0f4c3-266a-70c2-a480-1709e4bcd02c/exec-5ee2431a-1fb5-4ae9-b7e2-17bbf9eea92d.png",
+      "postprocess": "Downsampled 1254x1254 built-in PNG to 600x600 PNG with ffmpeg scale=600:600.",
+      "sha256": "4284bb59c7d268e6564dbf2d588848d814b7ab685b91ccc0ca83222f55f1e98e",
+      "prompt": "Exactly one unfolded pale paper map with visible fold lines, a simple muted blue river, dotted path, and small wordless tree/hill landmarks, centered on pure white with a faint contact shadow; clean digital storybook vector art, muted palette, soft charcoal outlines; no words, labels, person, bug, mug, box, scenery, or props.",
+      "qa": {"WHITE_FIELD": "PASS", "NO_SCENIC_BACKDROP": "PASS", "TIGHT_FOCAL_CLUSTER": "PASS", "MINIMAL_CUES": "PASS", "ANCHOR_MATCH": "PASS", "CALM_PALETTE_MATCH": "PASS", "SEMANTIC_SCALE_MATCH": "PASS", "STRUCTURAL_PLAUSIBILITY": "PASS", "ANIMAL_STYLE_MATCH": "PASS (no animal)"}
+    },
+    {
+      "file": "comp_which_has_the_sock_1.png",
+      "choice": "A rock.",
+      "master": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/objects/comp_which_has_the_sock_1.png",
+      "returnedGeneratedPath": "/Users/ricky/.codex/generated_images/01a0f4c3-266a-70c2-a480-1709e4bcd02c/exec-cb357fbf-5442-4cd5-a70f-d20d36b8b185.png",
+      "postprocess": "Downsampled 1254x1254 built-in PNG to 600x600 PNG with ffmpeg scale=600:600.",
+      "sha256": "32400174e6b95a8d0640a142affbdbd4880a424d5ad36963ec4e9072b7208570",
+      "prompt": "Exactly one ordinary small smooth but naturally irregular gray-brown rock, with a few gentle facets, centered on pure white with a faint contact shadow; clean digital storybook vector art, muted palette, soft charcoal outlines; no face, gems, ball, potato, bag, sock, dish, characters, scenery, or props.",
+      "qa": {"WHITE_FIELD": "PASS", "NO_SCENIC_BACKDROP": "PASS", "TIGHT_FOCAL_CLUSTER": "PASS", "MINIMAL_CUES": "PASS", "ANCHOR_MATCH": "PASS", "CALM_PALETTE_MATCH": "PASS", "SEMANTIC_SCALE_MATCH": "PASS", "STRUCTURAL_PLAUSIBILITY": "PASS", "ANIMAL_STYLE_MATCH": "PASS (no animal)"}
+    },
+    {
+      "file": "comp_the_bug_on_the_map_0.png",
+      "choice": "A hut.",
+      "master": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/objects/comp_the_bug_on_the_map_0.png",
+      "returnedGeneratedPath": "/Users/ricky/.codex/generated_images/01a0f4c3-266a-70c2-a480-1709e4bcd02c/exec-c49c53b5-4174-4705-be75-d5ee15ba9c80.png",
+      "postprocess": "Downsampled 1254x1254 built-in PNG to 600x600 PNG with ffmpeg scale=600:600.",
+      "sha256": "2fe78003c3eefc04c63b524a78f1ad7000b2db490247104a21182810bcf36808",
+      "prompt": "Exactly one small simple hut with warm tan wood walls, an open dark doorway, and compact muted grass-thatched roof resting on visible wall tops, centered on pure white with a faint contact shadow; clean digital storybook vector art, muted palette, soft charcoal outlines; no bug, person, map, path, signs, scenery, or props.",
+      "qa": {"WHITE_FIELD": "PASS", "NO_SCENIC_BACKDROP": "PASS", "TIGHT_FOCAL_CLUSTER": "PASS", "MINIMAL_CUES": "PASS", "ANCHOR_MATCH": "PASS", "CALM_PALETTE_MATCH": "PASS", "SEMANTIC_SCALE_MATCH": "PASS", "STRUCTURAL_PLAUSIBILITY": "PASS — roof rests on continuous wall supports", "ANIMAL_STYLE_MATCH": "PASS (no animal)"}
+    },
+    {
+      "file": "comp_fuzz_not_a_bug_2.png",
+      "choice": "Red fuzz.",
+      "master": "/Users/ricky/workspace/StorySliderArt/History/ComprehensionRepair-20260930/objects/comp_fuzz_not_a_bug_2.png",
+      "returnedGeneratedPath": "/Users/ricky/.codex/generated_images/01a0f4c3-266a-70c2-a480-1709e4bcd02c/exec-80c3f0f2-01cd-48a4-97b5-559fac043e8c.png",
+      "postprocess": "Downsampled 1254x1254 built-in PNG to 600x600 PNG with ffmpeg scale=600:600. Two earlier fuzz candidates were rejected: one was photographic and one was too spherical/pom-pom-like.",
+      "sha256": "ec9c96ba10a3b23d602ad33098c901ad39949bf70c155487ddf7cc0c641fe347",
+      "prompt": "One clearly readable loose textile lint tuft: a small flattened irregular horizontal tangle of muted cranberry-red thread and lint scraps, wider than tall, airy and uneven, with 10–12 visible curled fibers. Center it on pure white with a faint contact shadow; crisp clean digital storybook-vector treatment and restrained red shades. It must not be a ball, sphere, pom-pom, flower, yarn skein, fabric square, cap, bell, bug, or mug; no text, characters, scenery, or props.",
+      "qa": {"WHITE_FIELD": "PASS", "NO_SCENIC_BACKDROP": "PASS", "TIGHT_FOCAL_CLUSTER": "PASS", "MINIMAL_CUES": "PASS", "ANCHOR_MATCH": "PASS", "CALM_PALETTE_MATCH": "PASS", "SEMANTIC_SCALE_MATCH": "PASS", "STRUCTURAL_PLAUSIBILITY": "PASS", "ANIMAL_STYLE_MATCH": "PASS (no animal)"}
+    }
+  ]
+}
