@@ -1,0 +1,47 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "name": "comp_meg_in_a_box_2",
+      "prompt": "Use case: precise-object-edit. Edit this StorySlider comprehension illustration. Keep Meg's exact identity, hairstyle, clothing, seated pose and sweet expression. Replace the rectangular white plastic storage bin with an unmistakable traditional oval BATHTUB: curved roll-top rim, gently rounded pale blue enamel body, four short curved feet and a simple visible faucet at one end. Meg sits fully clothed in the EMPTY dry bathtub, knees tucked in. Tub should be large and clear, no resemblance to a cardboard box or storage bin. Keep the whole subject centered and complete with margin, calm storybook outlines and soft shading, solid pure white background to all edges. No water, no bathroom scenery, no text. Square PNG.",
+      "source": "/Users/ricky/.codex/generated_images/01a1333f-6c93-7250-b4bf-c277630c804f/exec-fbc4d257-5f99-4be4-905f-e11c43e76da3.png",
+      "editTarget": "/Users/ricky/workspace/StorySlider/Reference/RevisionComments/2026-10-12-levels-4-5/before/comp_meg_in_a_box_2.png"
+    },
+    {
+      "name": "comp_in_the_fog_1",
+      "prompt": "Use case: precise-object-edit. Edit this StorySlider answer image to make the HUT unmistakable at thumbnail size. Preserve the exact identities, hairstyles, outfits and gentle style of the three girls and Meg pointing. Recompose as compact vignette: three girls smaller together in left foreground walking toward a LARGE wooden thatched hut in right midground. Hut must occupy roughly 40 percent of canvas width and have a clear door, walls and thatched roof; no tiny distant hut. All girls and full hut visible with white margin. Very faint small fog wisps, no smoke chimney. Same calm palette, soft outlines, plain opaque pure-white field connected to every edge, no scenery or text. Square PNG.",
+      "source": "/Users/ricky/.codex/generated_images/01a1333f-6c93-7250-b4bf-c277630c804f/exec-cea8acf0-28b9-4219-9369-4dfa7dc49d8a.png",
+      "editTarget": "/Users/ricky/workspace/StorySlider/Reference/RevisionComments/2026-10-12-levels-4-5/before/comp_in_the_fog_1.png"
+    },
+    {
+      "name": "comp_the_hog_in_the_mud_0",
+      "prompt": "Use case: identity-preserve and precise-object-edit. Edit target image 1 for a beginning reader answer 'In a den'. Replace the hog with the cute soft pink pig in reference image 2: same big friendly blue eyes, rounded head, floppy ears, short snout, clean soft pink body, curled tail, cheerful gentle face; no coarse realistic brown fur. Show it sitting naturally INSIDE a clearly enclosed gray ROCKY DEN with a prominent arching stone roof above its head, vertical stone sides and dark recessed cave entrance. Dry flat floor, NO mud, NO hole dug downward in earth, NO earthen mound or pit. Composition must make the overhead rocky roof unmistakable. Use soft calm storybook shading and outlines matching reference 2. Entire pig and entire den fit with white breathing room, opaque pure white background to all edges, no text. Square PNG.",
+      "source": "/Users/ricky/.codex/generated_images/01a1333f-6c93-7250-b4bf-c277630c804f/exec-dc8674b6-664a-46ff-bcac-08bd65556e7d.png",
+      "editTarget": "/Users/ricky/workspace/StorySlider/Reference/RevisionComments/2026-10-12-levels-4-5/before/comp_the_hog_in_the_mud_0.png"
+    },
+    {
+      "name": "comp_the_hog_in_the_mud_1",
+      "prompt": "Use case: identity-preserve. Edit target image 1 for StorySlider answer 'On a rug'. Replace the coarse brown hog with the EXACT cute pink pig from reference image 2: large friendly blue eyes, soft round head, little round snout, floppy ears, curled tail, rounded pink body and gentle smile. Pig sits in the same natural seated pose as reference 2 on a clearly visible oval woven tan rug. Whole pig and whole rug visible, rug projects beyond pig on all sides. No mud, no den, no human objects besides rug. Clean soft storybook linework matching reference 2, calm soft shading, pure white opaque background connected to all edges, generous margin. Square PNG, no text.",
+      "source": "/Users/ricky/.codex/generated_images/01a1333f-6c93-7250-b4bf-c277630c804f/exec-1e6b1680-9230-4e97-9e8a-994fdb31989a.png",
+      "editTarget": "/Users/ricky/workspace/StorySlider/Reference/RevisionComments/2026-10-12-levels-4-5/before/comp_the_hog_in_the_mud_1.png"
+    },
+    {
+      "name": "comp_the_hog_in_the_mud_2",
+      "prompt": "Use case: identity-preserve. Edit target image 1 for StorySlider answer 'In the mud'. Replace the brown standing hog with the EXACT cute soft pink pig in reference image 2, same large friendly blue eyes, round head, floppy ears, short snout, curly tail, gentle smile, natural seated pose. It SITS in a shallow wet brown muddy wallow: small mud splashes on lower tummy and feet, visible smooth brown puddle around its seated body, unobstructed clear pink face. Keep a gentle closed smile matching the other answer cards. No den, no rug, no clothes. Whole pig and mud patch visible with white margin. Soft calm storybook outlines and shading matching reference 2, pure opaque white background all four edges. Square PNG, no text.",
+      "source": "/Users/ricky/.codex/generated_images/01a1333f-6c93-7250-b4bf-c277630c804f/exec-9cb5fa98-610c-4b41-a629-7f13a41c4440.png",
+      "editTarget": "/Users/ricky/workspace/StorySlider/Reference/RevisionComments/2026-10-12-levels-4-5/before/comp_the_hog_in_the_mud_2.png"
+    },
+    {
+      "name": "story_the_hog_in_the_mud",
+      "prompt": "Use case: identity-preserve. Edit target image 1, StorySlider cover The Hog in the Mud. Replace its coarse brown hog with the exact cute soft pink pig in reference image 2: round head, short round snout, floppy ears, curly tail, big friendly blue eyes, gentle smile and soft pink round body. Show the pig happily sitting down in the shallow muddy PIT it dug, with a low clearly visible raised uneven earthy rim around its bottom, wet brown mud on lower tummy and feet. No deep dangerous hole. Preserve the relaxing cool-in-the-mud story moment and compact ground vignette; no cave or roof. Entire pig, small pit and curled tail in frame with white margin. Calm soft storybook linework/shading matching reference 2. Opaque pure-white background to every edge; square PNG; no text.",
+      "source": "/Users/ricky/.codex/generated_images/01a1333f-6c93-7250-b4bf-c277630c804f/exec-29e9de63-e209-49e3-9f28-ced832f76f5f.png",
+      "editTarget": "/Users/ricky/workspace/StorySlider/Reference/RevisionComments/2026-10-12-levels-4-5/before/story_the_hog_in_the_mud.png"
+    },
+    {
+      "name": "comp_the_fig_on_the_ham_2",
+      "prompt": "Use case: precise-object-edit. Redraw this StorySlider answer illustration as a recognizable simple FIG for a young child. Show one whole small ripe purple fig with a round plump teardrop shape and short green-brown stem, beside ONE matching cut half showing its rosy pink interior dotted with many tiny cream/gold seeds. The whole exterior must be prominent, not just a huge strange cut section. Interior should have simplified delicate seed texture, not branching veins or flower-like anatomy. Two pieces grouped tightly as one fruit object illustration, about 70 percent of canvas width. Warm softly muted purple, pale cream rim, gentle rosy interior; soft storybook outlines matching target style, tiny contact shadow. NO plate, other food, people, faces or text. Pure opaque white background to all edges and generous margins. Square PNG.",
+      "source": "/Users/ricky/.codex/generated_images/01a1333f-6c93-7250-b4bf-c277630c804f/exec-f09ea8ea-c5fc-43dd-b6b8-2f2ecdf42e13.png",
+      "editTarget": "/Users/ricky/workspace/StorySlider/Reference/RevisionComments/2026-10-12-levels-4-5/before/comp_the_fig_on_the_ham_2.png"
+    }
+  ]
+}

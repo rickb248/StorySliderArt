@@ -1,6 +1,6 @@
 # Seth — Level 5 production master
 
-**Canon scope:** Seth appears in the approved sock-choice and ship stories. The ship outing is with Seth's own caregiver called Dad; do not merge this Dad with other families.
+**Canon scope:** Seth appears in the approved sock-choice and ship stories, and gives Meg one cap in *A Cap for Meg*. The gift establishes no family or lasting friendship relationship. The ship outing is with Seth's own caregiver called Dad; do not merge this Dad with other families.
 
 **Production visual design:** Approximately seven years old; deep espresso-brown skin; short neat black twists; large warm-brown anime-style eyes; muted mustard cardigan over a cream T-shirt; soft navy pants; brown sneakers. Eager, friendly expression and rounded K–2 proportions.
 

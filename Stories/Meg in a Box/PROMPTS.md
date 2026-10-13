@@ -107,3 +107,12 @@ background to exact `#FFFFFF`.
 `NO_EDGE_CONTACT=PASS`; `NO_TEXT=PASS`.
 
 Rejected history includes the original 2026-08-12 candidate that placed Meg beside the cab.
+
+
+## 2026-10-12 feedback repair: comp_meg_in_a_box_2
+
+Built-in ImageGen edit, accepted after visual QA. Earlier master is preserved in `History/2026-10-12-levels-4-5-before/`.
+
+Use case: precise-object-edit. Edit this StorySlider comprehension illustration. Keep Meg's exact identity, hairstyle, clothing, seated pose and sweet expression. Replace the rectangular white plastic storage bin with an unmistakable traditional oval BATHTUB: curved roll-top rim, gently rounded pale blue enamel body, four short curved feet and a simple visible faucet at one end. Meg sits fully clothed in the EMPTY dry bathtub, knees tucked in. Tub should be large and clear, no resemblance to a cardboard box or storage bin. Keep the whole subject centered and complete with margin, calm storybook outlines and soft shading, solid pure white background to all edges. No water, no bathroom scenery, no text. Square PNG.
+
+Accepted file: `comp_meg_in_a_box_2.png`; SHA-256 `f82b21b0fd65e4db1e18ea2c4668960b2911e606307a402be05acb825c19a038`. Full generation source and QA record: `History/2026-10-12-levels-4-5-before/art-generation.json` and `art-qa.json`.

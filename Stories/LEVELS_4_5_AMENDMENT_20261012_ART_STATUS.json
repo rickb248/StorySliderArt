@@ -1,0 +1,28 @@
+{
+  "status": "COMPLETE",
+  "scope": "2026-10-12 three-story amendment only",
+  "acceptedCount": 12,
+  "retainedCount": 0,
+  "newCount": 12,
+  "unresolvedIssues": [],
+  "sources": {
+    "sourceLock": {"path": "/Users/ricky/workspace/StorySlider/Reference/RevisionComments/2026-10-12-levels-4-5/production-approved/source-lock.json", "sha256": "35d5ac8fce79d283f6a4f7eb874da34f919905f4ed937cc1026de2dd0aeb51b6"},
+    "artBrief": {"path": "/Users/ricky/workspace/StorySlider/Reference/RevisionComments/2026-10-12-levels-4-5/production-approved/ART_BRIEF.md", "sha256": "adac2413e7d5fdefb009ee194e05f5a12510ac8f29d949c75f6f397c85148641"}
+  },
+  "qaGates": ["WHITE_FIELD", "NO_SCENIC_BACKDROP", "TIGHT_FOCAL_CLUSTER", "MINIMAL_CUES", "CARD_SCALE_MATCH", "CALM_PALETTE_MATCH", "SEMANTIC_SCALE_MATCH", "STRUCTURAL_PLAUSIBILITY", "ANIMAL_STYLE_MATCH"],
+  "contactSheets": ["Stories/LEVELS_4_5_AMENDMENT_20261012_QA/LEVELS_4_5_AMENDMENT_20261012_CONTACT_SHEET_FULL.png", "Stories/LEVELS_4_5_AMENDMENT_20261012_QA/LEVELS_4_5_AMENDMENT_20261012_CONTACT_SHEET_CARD.png"],
+  "images": [
+    {"story":"A Bed for the Cat","file":"Stories/A Bed for the Cat/story_a_bed_for_the_cat.png","sha256":"21b9323cc47f7f6a588ea9fd42c766eac5bdf858811412644ca57e2569e3b6fb","dimensions":[600,600],"qa":"PASS"},
+    {"story":"A Bed for the Cat","file":"Stories/A Bed for the Cat/comp_a_bed_for_the_cat_0.png","sha256":"b00503c6332201d40140ed4e2e8eb71ad7d3054289854a1414ef5b3a570d8a04","dimensions":[600,600],"qa":"PASS"},
+    {"story":"A Bed for the Cat","file":"Stories/A Bed for the Cat/comp_a_bed_for_the_cat_1.png","sha256":"768bfcf64c657fdb348bdd6eab66bb0d8de01186a022900221c885862d6583ba","dimensions":[600,600],"qa":"PASS"},
+    {"story":"A Bed for the Cat","file":"Stories/A Bed for the Cat/comp_a_bed_for_the_cat_2.png","sha256":"dd1f441663c82e017f21d0a3754fd82de374810c07a707c9e8f92a9ab29e3592","dimensions":[600,600],"qa":"PASS"},
+    {"story":"A Cap for Meg","file":"Stories/A Cap for Meg/story_a_cap_for_meg.png","sha256":"13fe08ed8dc079b5b03b1e5de06289033c27074c39fc7c7863f105574a6c9a4a","dimensions":[600,600],"qa":"PASS"},
+    {"story":"A Cap for Meg","file":"Stories/A Cap for Meg/comp_a_cap_for_meg_0.png","sha256":"7ac88e7b931e6484e57632672b1dffd440cc3b881357df8f18013a35c5b1ca7f","dimensions":[600,600],"qa":"PASS"},
+    {"story":"A Cap for Meg","file":"Stories/A Cap for Meg/comp_a_cap_for_meg_1.png","sha256":"32ef338d771f683af2487fb3e3257eb1366b9b0ea2e41170a03c36c5905041af","dimensions":[600,600],"qa":"PASS"},
+    {"story":"A Cap for Meg","file":"Stories/A Cap for Meg/comp_a_cap_for_meg_2.png","sha256":"bae023b682716b389e3fbc44bffffe0a77380630a6d4e8d0c00c9edb7992ce7e","dimensions":[600,600],"qa":"PASS"},
+    {"story":"Jam on the Chin","file":"Stories/Jam on the Chin/story_jam_on_the_chin.png","sha256":"2b51db716474abd1272ce5cf4c724a12ac56561ef760ae6c9e7081eb5ae51520","dimensions":[600,600],"qa":"PASS"},
+    {"story":"Jam on the Chin","file":"Stories/Jam on the Chin/comp_jam_on_the_chin_0.png","sha256":"4e3c16906b257fb8b0b1edc595e35a96af3cf2840eaf2327c72ef4899fee1c7f","dimensions":[600,600],"qa":"PASS"},
+    {"story":"Jam on the Chin","file":"Stories/Jam on the Chin/comp_jam_on_the_chin_1.png","sha256":"dd05633a6be5a049bfd987a2f1f7d9afb070ea6649ff92443a6c1bd6b5e97fda","dimensions":[600,600],"qa":"PASS"},
+    {"story":"Jam on the Chin","file":"Stories/Jam on the Chin/comp_jam_on_the_chin_2.png","sha256":"af2b1da2b049b132fdfaa677f82e4d6a6f3f07f853268e1d94308dd1e0fa61f7","dimensions":[600,600],"qa":"PASS"}
+  ]
+}

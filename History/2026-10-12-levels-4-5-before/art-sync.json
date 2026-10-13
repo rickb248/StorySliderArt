@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "assets": [
+    {
+      "name": "comp_meg_in_a_box_2",
+      "master": "/Users/ricky/workspace/StorySliderArt/Stories/Meg in a Box/comp_meg_in_a_box_2.png",
+      "sha256": "f82b21b0fd65e4db1e18ea2c4668960b2911e606307a402be05acb825c19a038"
+    },
+    {
+      "name": "comp_in_the_fog_1",
+      "master": "/Users/ricky/workspace/StorySliderArt/Stories/In the Fog/comp_in_the_fog_1.png",
+      "sha256": "63146046fbfcf4f3ab166934a265fb343ebc62aa58bf84d47c5e8365afd43317"
+    },
+    {
+      "name": "comp_the_hog_in_the_mud_0",
+      "master": "/Users/ricky/workspace/StorySliderArt/Stories/The Hog in the Mud/comp_the_hog_in_the_mud_0.png",
+      "sha256": "1efb87e22033ed33b8f5519508ac66c4460776e89d59b5b78b798a79153b1c8e"
+    },
+    {
+      "name": "comp_the_hog_in_the_mud_1",
+      "master": "/Users/ricky/workspace/StorySliderArt/Stories/The Hog in the Mud/comp_the_hog_in_the_mud_1.png",
+      "sha256": "929bed3b02fd26e9c7a961752f8f55492bc2e2759db4ace9ce23270c3f3189fd"
+    },
+    {
+      "name": "comp_the_hog_in_the_mud_2",
+      "master": "/Users/ricky/workspace/StorySliderArt/Stories/The Hog in the Mud/comp_the_hog_in_the_mud_2.png",
+      "sha256": "8e668dc165332f6b3631e38c971ba325cda783c697734aa649f4dc102564001b"
+    },
+    {
+      "name": "story_the_hog_in_the_mud",
+      "master": "/Users/ricky/workspace/StorySliderArt/Stories/The Hog in the Mud/story_the_hog_in_the_mud.png",
+      "sha256": "260036ed0412e8ed544d32655e878c93c9b49e00ed8def1a0bbfdb4f486dfa45"
+    },
+    {
+      "name": "comp_the_fig_on_the_ham_2",
+      "master": "/Users/ricky/workspace/StorySliderArt/Stories/The Fig on the Ham/comp_the_fig_on_the_ham_2.png",
+      "sha256": "814c545d7ccdc48de6ef2ba5cc2123349de99b11912c68d42a0aa5561c0e941a"
+    }
+  ],
+  "titleAssets": 4
+}

@@ -1,0 +1,61 @@
+{
+  "reviewer": "coordinator",
+  "assets": [
+    {
+      "name": "comp_meg_in_a_box_2",
+      "verdict": "PASS",
+      "evidence": "Rounded bathtub, feet and faucet distinguish it from the cardboard box. Meg identity preserved.",
+      "opaqueWhiteBackground": true,
+      "completeSubject": true,
+      "appSize": "600x600"
+    },
+    {
+      "name": "comp_in_the_fog_1",
+      "verdict": "PASS",
+      "evidence": "Hut roof, door and walls occupy a large clear area; same three girls.",
+      "opaqueWhiteBackground": true,
+      "completeSubject": true,
+      "appSize": "600x600"
+    },
+    {
+      "name": "comp_the_hog_in_the_mud_0",
+      "verdict": "PASS",
+      "evidence": "Dry gray rocky den has visible overhead roof; not a dug muddy pit.",
+      "opaqueWhiteBackground": true,
+      "completeSubject": true,
+      "appSize": "600x600"
+    },
+    {
+      "name": "comp_the_hog_in_the_mud_1",
+      "verdict": "PASS",
+      "evidence": "Friendly pink pig sits on distinct woven rug.",
+      "opaqueWhiteBackground": true,
+      "completeSubject": true,
+      "appSize": "600x600"
+    },
+    {
+      "name": "comp_the_hog_in_the_mud_2",
+      "verdict": "PASS",
+      "evidence": "Same pink pig sits in visible mud; expression comparable to distractors.",
+      "opaqueWhiteBackground": true,
+      "completeSubject": true,
+      "appSize": "600x600"
+    },
+    {
+      "name": "story_the_hog_in_the_mud",
+      "verdict": "PASS",
+      "evidence": "Matching pink pig sits in shallow mud pit with raised earthy rim.",
+      "opaqueWhiteBackground": true,
+      "completeSubject": true,
+      "appSize": "600x600"
+    },
+    {
+      "name": "comp_the_fig_on_the_ham_2",
+      "verdict": "PASS",
+      "evidence": "Whole purple exterior and matching rosy cut half show identifiable fruit.",
+      "opaqueWhiteBackground": true,
+      "completeSubject": true,
+      "appSize": "600x600"
+    }
+  ]
+}
